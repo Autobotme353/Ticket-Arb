@@ -20,8 +20,12 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Clean Cache and Install Puppeteer
+        run: |
+          npm cache clean --force
+          npm install puppeteer@19.11.1
+          echo "Installed packages:"
+          npm list
 
       - name: Run Scraper
         run: node scrape.js
