@@ -25,3 +25,8 @@ jobs:
           git add data.json
           git commit -m "Data update"
           git push
+- name: Debug Output
+  run: |
+    echo "data.json content:"
+    cat data.json
+    echo -e "\nFile exists: $(ls -la)"
