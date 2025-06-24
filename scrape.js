@@ -1,59 +1,110 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-// 1. Scrape Vivid Seats
+// Helper function to scrape a website
+async function scrapeWebsite(url, selectors, siteName) {
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
+  const page = await browser.newPage();
+  
+  try {
+    console.log(`Navigating to ${url}...`);
+    await page.goto(url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 60000
+    });
+
+    console.log(`Scraping ${siteName}...`);
+    const data = await page.evaluate((selectors) => {
+      const events = [];
+      const eventElements = document.querySelectorAll(selectors.eventSelector);
+      
+      eventElements.forEach(el => {
+        try {
+          const titleElement = el.querySelector(selectors.titleSelector);
+          const priceElement = el.querySelector(selectors.priceSelector);
+          
+          events.push({
+            title: titleElement ? titleElement.innerText.trim() : 'N/A',
+            price: priceElement ? priceElement.innerText.replace(/\$|,/g, '') : '0',
+            url: window.location.href
+          });
+        } catch (e) {
+          console.error(`Error processing element: ${e.message}`);
+        }
+      });
+      
+      return events;
+    }, selectors);
+
+    console.log(`Found ${data.length} events on ${siteName}`);
+    return data;
+  } catch (error) {
+    console.error(`Error scraping ${siteName}: ${error.message}`);
+    return [];
+  } finally {
+    await browser.close();
+  }
+}
+
+// Scrape Vivid Seats
 async function scrapeVividSeats() {
-  const browser = await puppeteer.launch({ headless: "new", args: ['--no-sandbox'] });
-  const page = await browser.newPage();
-  await page.goto('https://www.vividseats.com/concert-tickets', {
-    waitUntil: 'networkidle2',
-    timeout: 60000
-  });
-  
-  const data = await page.evaluate(() => {
-    const events = [];
-    document.querySelectorAll('.EventCard').forEach(el => {
-      events.push({
-        title: el.querySelector('h3')?.innerText.trim() || 'N/A',
-        price: el.querySelector('[data-testid="event-card-price"]')?.innerText.replace('$', '') || '0',
-        url: window.location.href
-      });
-    });
-    return events;
-  });
-  
-  await browser.close();
-  return data;
+  return scrapeWebsite(
+    'https://www.vividseats.com/concert-tickets',
+    {
+      eventSelector: '.EventCard',
+      titleSelector: 'h3',
+      priceSelector: '[data-testid="event-card-price"]'
+    },
+    'Vivid Seats'
+  );
 }
 
-// 2. Scrape StubHub
+// Scrape StubHub
 async function scrapeStubHub() {
-  const browser = await puppeteer.launch({ headless: "new", args: ['--no-sandbox'] });
-  const page = await browser.newPage();
-  await page.goto('https://www.stubhub.com/find/s/?q=concerts', {
-    waitUntil: 'networkidle2',
-    timeout: 60000
-  });
-  
-  const data = await page.evaluate(() => {
-    const events = [];
-    document.querySelectorAll('.EventItem').forEach(el => {
-      events.push({
-        title: el.querySelector('h3')?.innerText.trim() || 'N/A',
-        price: el.querySelector('[data-testid="event-item-price"]')?.innerText.replace(/\$|,/g, '') || '0',
-        url: el.querySelector('a')?.href || window.location.href
-      });
-    });
-    return events;
-  });
-  
-  await browser.close();
-  return data;
+  return scrapeWebsite(
+    'https://www.stubhub.com/find/s/?q=concerts',
+    {
+      eventSelector: '.EventItem',
+      titleSelector: 'h3',
+      priceSelector: '[data-testid="event-item-price"]'
+    },
+    'StubHub'
+  );
 }
 
-// 3. AI Analysis with OpenRouter
+// AI Analysis with OpenRouter
 async function analyzeData(data) {
   try {
+    console.log('Starting AI analysis...');
+    
+    // Prepare the prompt
+    const prompt = `Analyze these ticket prices for arbitrage opportunities:
+${JSON.stringify(data, null, 2)}
+
+Identify events where:
+1. Price difference between platforms > 20%
+2. Events with "sold out" or "limited" tags
+3. Calculate profit after 15% platform fees
+
+Format output as valid JSON:
+{
+  "opportunities": [
+    {
+      "event": "Event Name",
+      "buyFrom": "Platform with lower price",
+      "buyPrice": 100,
+      "sellTo": "Platform with higher price",
+      "sellPrice": 150,
+      "fees": 22.5,
+      "profit": 27.5,
+      "margin": 27.5
+    }
+  ]
+}`;
+
     const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
@@ -64,33 +115,40 @@ async function analyzeData(data) {
         model: "deepseek-ai/deepseek-coder:33b-instruct",
         messages: [{
           role: "user",
-          content: `Analyze these ticket prices for arbitrage opportunities:\n${JSON.stringify(data)}\n\n` +
-                   `Identify events where:\n` +
-                   `1. Price difference between platforms >20%\n` +
-                   `2. Events with "sold out" or "limited" tags\n` +
-                   `Format output as JSON: { opportunities: [{ event, buyFrom, buyPrice, sellTo, sellPrice, profit, margin }] }`
+          content: prompt
         }]
       })
     });
     
-    if (!response.ok) throw new Error(`API error: ${response.status}`);
+    if (!response.ok) {
+      throw new Error(`API error: ${response.status} ${response.statusText}`);
+    }
+    
     const result = await response.json();
-    return result.choices[0].message.content;
+    const analysis = result.choices[0].message.content;
+    
+    // Extract JSON from response
+    const jsonStart = analysis.indexOf('{');
+    const jsonEnd = analysis.lastIndexOf('}') + 1;
+    const jsonString = analysis.substring(jsonStart, jsonEnd);
+    
+    return JSON.parse(jsonString);
   } catch (e) {
-    console.error('AI analysis failed:', e);
-    return '{"opportunities": []}';
+    console.error('AI analysis failed:', e.message);
+    return { opportunities: [] };
   }
 }
 
-// 4. Main Function
+// Main function with comprehensive error handling
 (async () => {
+  console.log('==== STARTING TICKET SCRAPER ====');
+  
   try {
-    console.log('Starting scraping...');
-    const vividData = await scrapeVividSeats();
-    console.log(`Scraped ${vividData.length} events from Vivid Seats`);
-    
-    const stubData = await scrapeStubHub();
-    console.log(`Scraped ${stubData.length} events from StubHub`);
+    // Scrape both sites in parallel
+    const [vividData, stubData] = await Promise.all([
+      scrapeVividSeats(),
+      scrapeStubHub()
+    ]);
     
     const combined = {
       vividSeats: vividData,
@@ -98,18 +156,46 @@ async function analyzeData(data) {
       timestamp: new Date().toISOString()
     };
     
-    console.log('Analyzing data with AI...');
-    const analysis = await analyzeData(combined);
-    combined.analysis = JSON.parse(analysis);
+    console.log(`Scraped ${vividData.length} Vivid events, ${stubData.length} StubHub events`);
     
+    // Analyze data with AI
+    const analysis = await analyzeData(combined);
+    combined.analysis = analysis;
+    console.log(`AI found ${analysis.opportunities.length} opportunities`);
+    
+    // Write data to file
+    console.log('Writing data.json...');
     fs.writeFileSync('data.json', JSON.stringify(combined, null, 2));
-    console.log('Data saved to data.json');
+    
+    // Verify file creation
+    if (fs.existsSync('data.json')) {
+      const stats = fs.statSync('data.json');
+      console.log(`data.json created successfully! Size: ${stats.size} bytes`);
+    } else {
+      console.error('Error: data.json not created!');
+    }
+    
   } catch (error) {
-    console.error('Fatal error:', error);
-    // Save error information for debugging
-    fs.writeFileSync('data.json', JSON.stringify({
+    console.error('!!!!! FATAL ERROR !!!!!', error);
+    
+    // Save error information
+    const errorData = {
       error: error.message,
+      stack: error.stack,
       timestamp: new Date().toISOString()
-    }, null, 2));
+    };
+    
+    fs.writeFileSync('data.json', JSON.stringify(errorData, null, 2));
+    console.error('Saved error information to data.json');
+  }
+  
+  console.log('==== SCRAPER COMPLETED ====');
+  
+  // Debug: List all files in directory
+  try {
+    const files = fs.readdirSync('.');
+    console.log('Directory contents:', files);
+  } catch (e) {
+    console.error('Could not list directory:', e.message);
   }
 })();
