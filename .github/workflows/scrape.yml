@@ -24,8 +24,8 @@ jobs:
         run: |
           npm cache clean --force
           npm install puppeteer@19.11.1
-          echo "Installed packages:"
-          npm list
+          echo "Puppeteer version:"
+          npm list puppeteer
 
       - name: Run Scraper
         run: node scrape.js
@@ -49,8 +49,8 @@ jobs:
       - name: Commit and Push Changes
         if: success() && github.ref == 'refs/heads/main'
         run: |
-          git config --global user.name "GitHub Ticket Bot"
-          git config --global user.email "ticket-bot@users.noreply.github.com"
+          git config user.name "GitHub Ticket Bot"
+          git config user.email "ticket-bot@users.noreply.github.com"
           git add data.json
           git diff-index --quiet HEAD || git commit -m "Auto: Update ticket data"
-          git push origin HEAD:main
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
