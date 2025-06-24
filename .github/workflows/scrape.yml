@@ -61,8 +61,11 @@ jobs:
         with:
           name: scraping-debug
           path: |
-            *-screenshot.png
-            *-debug.html
+            Vivid*.html
+            Vivid*.png
+            Stub*.html
+            Stub*.png
+          retention-days: 1  # Keep only 1 day to save space
 
       - name: Upload Debug HTML
         if: failure()
