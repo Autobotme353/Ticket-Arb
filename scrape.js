@@ -198,4 +198,5 @@ Format output as valid JSON:
   } catch (e) {
     console.error('Could not list directory:', e.message);
   }
+  console.log("Puppeteer version:", require('puppeteer/package.json').version);
 })();
