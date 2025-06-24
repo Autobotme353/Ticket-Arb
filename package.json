@@ -1,9 +1,7 @@
 {
   "name": "ticket-arbitrage",
   "version": "1.0.0",
-  "description": "Automated ticket arbitrage system",
-  "main": "scrape.js",
   "dependencies": {
-    "puppeteer": "^21.0.0"
+    "puppeteer": "19.11.1"
   }
 }
