@@ -54,3 +54,13 @@ jobs:
           git add data.json
           git diff-index --quiet HEAD || git commit -m "Auto: Update ticket data"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: Upload Debug Artifacts
+        if: failure()
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraping-debug
+          path: |
+            Vivid*.png
+            Stub*.png
+            *debug.html
