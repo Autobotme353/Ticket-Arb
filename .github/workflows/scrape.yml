@@ -1,8 +1,8 @@
 name: Scrape Tickets
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:  # Allow manual triggers
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # Required for commit step
+          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -28,7 +28,7 @@ jobs:
         run: node scrape.js
         env:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
-        timeout-minutes: 10  # Prevent hanging jobs
+        timeout-minutes: 10
 
       - name: Debug Output
         run: |
