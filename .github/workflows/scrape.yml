@@ -19,13 +19,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20.x'
-          cache: 'npm'  # Add caching
 
       - name: Install dependencies
-        run: |
-          npm install
-          echo "Lock file generated:"
-          ls -la package*.json
+        run: npm install
 
       - name: Run Scraper
         run: node scrape.js
@@ -42,7 +38,7 @@ jobs:
             echo -e "\nFile size: $(wc -c < data.json) bytes"
           else
             echo "❌ data.json not found!"
-            ls -la  # List all files
+            ls -la
           fi
           echo "======================"
 
