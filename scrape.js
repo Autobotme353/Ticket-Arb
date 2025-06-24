@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-// Helper function to scrape a website
+// Helper function to scrape a website with enhanced debugging
 async function scrapeWebsite(url, selectors, siteName) {
   const browser = await puppeteer.launch({
     headless: "new",
@@ -10,27 +10,50 @@ async function scrapeWebsite(url, selectors, siteName) {
   const page = await browser.newPage();
   
   try {
+    // Set realistic user agent
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    
     console.log(`Navigating to ${url}...`);
     await page.goto(url, {
-      waitUntil: 'domcontentloaded',
-      timeout: 60000
+      waitUntil: 'networkidle2',
+      timeout: 120000  // Increased timeout
     });
+
+    // Wait for content to load
+    await page.waitForSelector(selectors.eventSelector, {timeout: 15000})
+      .catch(() => console.warn(`${siteName} event container not found`));
 
     console.log(`Scraping ${siteName}...`);
     const data = await page.evaluate((selectors) => {
       const events = [];
       const eventElements = document.querySelectorAll(selectors.eventSelector);
       
+      console.log(`Found ${eventElements.length} event containers`);
+      
       eventElements.forEach(el => {
         try {
-          const titleElement = el.querySelector(selectors.titleSelector);
-          const priceElement = el.querySelector(selectors.priceSelector);
+          // Get title - try multiple selectors
+          let title = 'N/A';
+          if (selectors.titleSelector) {
+            const titleEl = el.querySelector(selectors.titleSelector);
+            if (titleEl) title = titleEl.innerText.trim();
+          }
           
-          events.push({
-            title: titleElement ? titleElement.innerText.trim() : 'N/A',
-            price: priceElement ? priceElement.innerText.replace(/\$|,/g, '') : '0',
-            url: window.location.href
-          });
+          // Get price - try multiple methods
+          let price = '0';
+          if (selectors.priceSelector) {
+            const priceEl = el.querySelector(selectors.priceSelector);
+            if (priceEl) price = priceEl.innerText.replace(/\$|,/g, '');
+          }
+          
+          // Get URL
+          let url = window.location.href;
+          if (selectors.urlSelector) {
+            const urlEl = el.querySelector(selectors.urlSelector);
+            if (urlEl && urlEl.href) url = urlEl.href;
+          }
+
+          events.push({ title, price, url });
         } catch (e) {
           console.error(`Error processing element: ${e.message}`);
         }
@@ -40,6 +63,14 @@ async function scrapeWebsite(url, selectors, siteName) {
     }, selectors);
 
     console.log(`Found ${data.length} events on ${siteName}`);
+    
+    // Take screenshot if no results
+    if (data.length === 0) {
+      console.warn(`No events found! Taking screenshot...`);
+      await page.screenshot({ path: `${siteName}-screenshot.png` });
+      fs.writeFileSync(`${siteName}-debug.html`, await page.content());
+    }
+    
     return data;
   } catch (error) {
     console.error(`Error scraping ${siteName}: ${error.message}`);
@@ -49,27 +80,29 @@ async function scrapeWebsite(url, selectors, siteName) {
   }
 }
 
-// Scrape Vivid Seats
+// Updated Vivid Seats selectors
 async function scrapeVividSeats() {
   return scrapeWebsite(
-    'https://www.vividseats.com/concert-tickets',
+    'https://www.vividseats.com/concerts.html',
     {
-      eventSelector: '.EventCard',
-      titleSelector: 'h3',
-      priceSelector: '[data-testid="event-card-price"]'
+      eventSelector: '.event-card, .EventCard, .event-listing',
+      titleSelector: '.event-title, .event-name, h3',
+      priceSelector: '.price, .event-price, .minPrice',
+      urlSelector: 'a'
     },
     'Vivid Seats'
   );
 }
 
-// Scrape StubHub
+// Updated StubHub selectors
 async function scrapeStubHub() {
   return scrapeWebsite(
-    'https://www.stubhub.com/find/s/?q=concerts',
+    'https://www.stubhub.com/concerts-tickets/category/1/',
     {
-      eventSelector: '.EventItem',
-      titleSelector: 'h3',
-      priceSelector: '[data-testid="event-item-price"]'
+      eventSelector: '.EventItem, .event-card, .event-listing',
+      titleSelector: 'h3, .event-title, .event-name',
+      priceSelector: '.price, .event-price, .minPrice',
+      urlSelector: 'a'
     },
     'StubHub'
   );
