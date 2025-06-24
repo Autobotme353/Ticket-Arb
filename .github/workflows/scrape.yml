@@ -1,32 +1,52 @@
 name: Scrape Tickets
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 mins
-  workflow_dispatch:  # Manual trigger
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:  # Allow manual triggers
+  push:
+    branches: [ main ]
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Setup Node
+        with:
+          persist-credentials: false  # Required for commit step
+
+      - name: Setup Node.js
         uses: actions/setup-node@v3
-        with: { node-version: 20 }
-      - name: Install Puppeteer
+        with:
+          node-version: '20.x'
+          cache: 'npm'
+
+      - name: Install dependencies
         run: npm install puppeteer
+
       - name: Run Scraper
         run: node scrape.js
         env:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
-      - name: Commit Data
+        timeout-minutes: 10  # Prevent hanging jobs
+
+      - name: Debug Output
         run: |
-          git config user.name "github-bot"
-          git config user.email "bot@noreply.com"
+          echo "=== SCRAPER DEBUG ==="
+          if [ -f data.json ]; then
+            echo "data.json content:"
+            head -c 1000 data.json
+            echo -e "\nFile size: $(wc -c < data.json) bytes"
+          else
+            echo "❌ data.json not found!"
+          fi
+          echo "======================"
+
+      - name: Commit and Push Changes
+        if: success() && github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name "GitHub Ticket Bot"
+          git config --global user.email "ticket-bot@users.noreply.github.com"
           git add data.json
-          git commit -m "Data update"
-          git push
-- name: Debug Output
-  run: |
-    echo "data.json content:"
-    cat data.json
-    echo -e "\nFile exists: $(ls -la)"
+          git diff-index --quiet HEAD || git commit -m "Auto: Update ticket data"
+          git push origin HEAD:main
