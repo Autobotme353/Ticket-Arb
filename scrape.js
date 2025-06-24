@@ -1,8 +1,12 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
 
 // Helper function to scrape a website with enhanced debugging
 async function scrapeWebsite(url, selectors, siteName) {
+  const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+  const debugPrefix = `${siteName}-${timestamp}`;
+  
   const browser = await puppeteer.launch({
     headless: "new",
     args: ['--no-sandbox', '--disable-setuid-sandbox']
@@ -10,18 +14,25 @@ async function scrapeWebsite(url, selectors, siteName) {
   const page = await browser.newPage();
   
   try {
-    // Set realistic user agent
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    // Set realistic browser characteristics
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36');
+    await page.setViewport({ width: 1280, height: 800 });
     
     console.log(`Navigating to ${url}...`);
     await page.goto(url, {
       waitUntil: 'networkidle2',
-      timeout: 120000  // Increased timeout
+      timeout: 120000
     });
 
-    // Wait for content to load
-    await page.waitForSelector(selectors.eventSelector, {timeout: 15000})
-      .catch(() => console.warn(`${siteName} event container not found`));
+    // Wait for potential content containers
+    const waitSelectors = [
+      selectors.eventSelector,
+      '.event-list', '.results-container', '.events-container'
+    ].filter(s => s);
+    
+    await Promise.any(waitSelectors.map(selector => 
+      page.waitForSelector(selector, { timeout: 15000 })
+    )).catch(() => console.warn('No container elements found'));
 
     console.log(`Scraping ${siteName}...`);
     const data = await page.evaluate((selectors) => {
@@ -32,18 +43,21 @@ async function scrapeWebsite(url, selectors, siteName) {
       
       eventElements.forEach(el => {
         try {
-          // Get title - try multiple selectors
+          // Get title
           let title = 'N/A';
           if (selectors.titleSelector) {
             const titleEl = el.querySelector(selectors.titleSelector);
             if (titleEl) title = titleEl.innerText.trim();
           }
           
-          // Get price - try multiple methods
+          // Get price
           let price = '0';
           if (selectors.priceSelector) {
             const priceEl = el.querySelector(selectors.priceSelector);
-            if (priceEl) price = priceEl.innerText.replace(/\$|,/g, '');
+            if (priceEl) {
+              const priceText = priceEl.innerText.replace(/\$|,/g, '');
+              price = parseFloat(priceText) || '0';
+            }
           }
           
           // Get URL
@@ -64,51 +78,72 @@ async function scrapeWebsite(url, selectors, siteName) {
 
     console.log(`Found ${data.length} events on ${siteName}`);
     
-    // Take screenshot if no results
+    // Save debug files if no results
     if (data.length === 0) {
-      console.warn(`No events found! Taking screenshot...`);
-      await page.screenshot({ path: `${siteName}-screenshot.png` });
-      fs.writeFileSync(`${siteName}-debug.html`, await page.content());
+      console.warn(`No events found! Saving debug files...`);
+      await saveDebugFiles(page, debugPrefix);
     }
     
     return data;
   } catch (error) {
     console.error(`Error scraping ${siteName}: ${error.message}`);
+    await saveDebugFiles(page, debugPrefix);
     return [];
   } finally {
     await browser.close();
   }
 }
 
-// Updated Vivid Seats selectors
+// Save debug files (HTML and screenshot)
+async function saveDebugFiles(page, prefix) {
+  try {
+    // Save HTML
+    const html = await page.content();
+    const htmlPath = `${prefix}.html`;
+    fs.writeFileSync(htmlPath, html);
+    console.log(`Saved HTML: ${htmlPath}`);
+    
+    // Save screenshot
+    const screenshotPath = `${prefix}.png`;
+    await page.screenshot({ 
+      path: screenshotPath,
+      fullPage: true 
+    });
+    console.log(`Saved screenshot: ${screenshotPath}`);
+  } catch (e) {
+    console.error('Failed to save debug files:', e.message);
+  }
+}
+
+// Current Vivid Seats selectors
 async function scrapeVividSeats() {
   return scrapeWebsite(
     'https://www.vividseats.com/concerts.html',
     {
-      eventSelector: '.event-card, .EventCard, .event-listing',
-      titleSelector: '.event-title, .event-name, h3',
-      priceSelector: '.price, .event-price, .minPrice',
+      eventSelector: '.event-card, .EventCard, .event-listing, [data-testid="event-card"]',
+      titleSelector: 'h3, .event-title, [data-testid="event-title"]',
+      priceSelector: '.price, .minPrice, [data-testid="event-card-price"]',
       urlSelector: 'a'
     },
-    'Vivid Seats'
+    'VividSeats'
   );
 }
 
-// Updated StubHub selectors
+// Current StubHub selectors
 async function scrapeStubHub() {
   return scrapeWebsite(
     'https://www.stubhub.com/concerts-tickets/category/1/',
     {
-      eventSelector: '.EventItem, .event-card, .event-listing',
-      titleSelector: 'h3, .event-title, .event-name',
-      priceSelector: '.price, .event-price, .minPrice',
+      eventSelector: '.EventItem, .event-card, [data-testid="event-item"]',
+      titleSelector: 'h3, .event-title, [data-testid="event-title"]',
+      priceSelector: '.price, .event-price, [data-testid="event-item-price"]',
       urlSelector: 'a'
     },
     'StubHub'
   );
 }
 
-// AI Analysis with OpenRouter
+// AI Analysis function (unchanged)
 async function analyzeData(data) {
   try {
     console.log('Starting AI analysis...');
@@ -172,7 +207,7 @@ Format output as valid JSON:
   }
 }
 
-// Main function with comprehensive error handling
+// Main function
 (async () => {
   console.log('==== STARTING TICKET SCRAPER ====');
   
@@ -199,37 +234,16 @@ Format output as valid JSON:
     // Write data to file
     console.log('Writing data.json...');
     fs.writeFileSync('data.json', JSON.stringify(combined, null, 2));
-    
-    // Verify file creation
-    if (fs.existsSync('data.json')) {
-      const stats = fs.statSync('data.json');
-      console.log(`data.json created successfully! Size: ${stats.size} bytes`);
-    } else {
-      console.error('Error: data.json not created!');
-    }
+    console.log('data.json created');
     
   } catch (error) {
     console.error('!!!!! FATAL ERROR !!!!!', error);
-    
-    // Save error information
-    const errorData = {
+    fs.writeFileSync('data.json', JSON.stringify({
       error: error.message,
       stack: error.stack,
       timestamp: new Date().toISOString()
-    };
-    
-    fs.writeFileSync('data.json', JSON.stringify(errorData, null, 2));
-    console.error('Saved error information to data.json');
+    }, null, 2));
   }
   
   console.log('==== SCRAPER COMPLETED ====');
-  
-  // Debug: List all files in directory
-  try {
-    const files = fs.readdirSync('.');
-    console.log('Directory contents:', files);
-  } catch (e) {
-    console.error('Could not list directory:', e.message);
-  }
-  console.log("Puppeteer version:", require('puppeteer/package.json').version);
 })();
