@@ -63,3 +63,11 @@ jobs:
           path: |
             *-screenshot.png
             *-debug.html
+
+      - name: Upload Debug HTML
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-debug
+          path: |
+            *-debug.html
