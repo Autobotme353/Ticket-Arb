@@ -1,96 +1,49 @@
-const puppeteer = require('puppeteer-core');
-const fs = require('fs');
-const path = require('path');
+name: Scrape Tickets
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Every 4 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
-// Use system Chrome in GitHub Actions
-const CHROME_PATH = process.env.CHROME_BIN || '/usr/bin/google-chrome-stable';
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-async function scrapeWebsite(url, siteName) {
-  const browser = await puppeteer.launch({
-    executablePath: CHROME_PATH,
-    headless: "new",
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
-  });
-  
-  const page = await browser.newPage();
-  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36');
-  
-  try {
-    console.log(`Navigating to ${url}...`);
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    
-    // Generic scraping - will need customization
-    const data = await page.evaluate(() => {
-      const events = [];
-      
-      // Try to find any event-like elements
-      const candidates = document.querySelectorAll('.event-card, .EventItem, .listing, .ticket-card, [class*="event"]');
-      
-      candidates.forEach(el => {
-        try {
-          // Get title from first heading element
-          const titleEl = el.querySelector('h1, h2, h3, h4, h5, h6, [class*="title"], [class*="name"]');
-          const title = titleEl ? titleEl.textContent.trim() : 'Unknown Event';
-          
-          // Find price-like text
-          const priceMatch = el.textContent.match(/\$\d{1,4}(,\d{3})*(\.\d{2})?/);
-          const price = priceMatch ? priceMatch[0].replace(/\$|,/g, '') : '0';
-          
-          // Find first link
-          const link = el.querySelector('a');
-          const url = link ? link.href : window.location.href;
-          
-          events.push({ title, price, url });
-        } catch (e) {}
-      });
-      
-      return events;
-    });
-    
-    console.log(`Found ${data.length} events on ${siteName}`);
-    return data;
-  } catch (error) {
-    console.error(`Error scraping ${siteName}: ${error.message}`);
-    return [];
-  } finally {
-    await browser.close();
-  }
-}
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
 
-async function scrapeVividSeats() {
-  return scrapeWebsite('https://www.vividseats.com/concerts', 'VividSeats');
-}
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "CHROME_BIN=/usr/bin/google-chrome-stable" >> $GITHUB_ENV
 
-async function scrapeStubHub() {
-  return scrapeWebsite('https://www.stubhub.com/concerts-tickets/category/1/', 'StubHub');
-}
+      - name: Install dependencies
+        run: |
+          npm install
+          echo "Installed packages:"
+          npm list
 
-// Main function
-(async () => {
-  console.log('==== STARTING TICKET SCRAPER ====');
-  
-  try {
-    const vividData = await scrapeVividSeats();
-    const stubData = await scrapeStubHub();
-    
-    const combined = {
-      vividSeats: vividData,
-      stubHub: stubData,
-      timestamp: new Date().toISOString(),
-      analysis: { opportunities: [] }
-    };
-    
-    // Write data to file
-    fs.writeFileSync('data.json', JSON.stringify(combined, null, 2));
-    console.log(`Scraped ${vividData.length} Vivid events, ${stubData.length} StubHub events`);
-    
-  } catch (error) {
-    console.error('Fatal error:', error);
-    fs.writeFileSync('data.json', JSON.stringify({
-      error: error.message,
-      timestamp: new Date().toISOString()
-    }));
-  }
-  
-  console.log('==== SCRAPER COMPLETED ====');
-})();
+      - name: Run Scraper
+        run: node scrape.js
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+          CHROME_BIN: /usr/bin/google-chrome-stable
+        timeout-minutes: 10
+
+      - name: Commit and Push Changes
+        if: success() && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "GitHub Ticket Bot"
+          git config user.email "ticket-bot@users.noreply.github.com"
+          git add data.json
+          git diff-index --quiet HEAD || git commit -m "Auto: Update ticket data"
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
