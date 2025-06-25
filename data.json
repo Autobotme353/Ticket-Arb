@@ -1,8 +1,1 @@
-{
-  "vividSeats": [],
-  "stubHub": [],
-  "timestamp": "2025-06-25T00:09:20.040Z",
-  "analysis": {
-    "opportunities": []
-  }
-}
+{"error":"browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1179/chrome-linux/headless_shell\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝","timestamp":"2025-06-25T02:47:38.576Z"}
