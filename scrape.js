@@ -88,10 +88,114 @@ async function scrapeVividSeats() {
   }
 }
 
-// 2. StubHub Scraper (Template - Needs Your HTML Sample)
+// StubHub Scraper
 async function scrapeStubHub() {
-  // Implementation pending StubHub HTML sample
-  return [];
+  const browser = await chromium.launch();
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    viewport: { width: 1280, height: 800 }
+  });
+  const page = await context.newPage();
+  
+  try {
+    console.log('Navigating to StubHub concerts page...');
+    await page.goto('https://www.stubhub.com/concerts-tickets/category/1/', {
+      waitUntil: 'networkidle',
+      timeout: 60000
+    });
+
+    // Scrape top event cards
+    console.log('Scraping top event cards...');
+    const topEvents = await page.evaluate(() => {
+      const events = [];
+      const cards = document.querySelectorAll('a[href*="/event/"]');
+      
+      cards.forEach(card => {
+        try {
+          // Extract event details
+          const titleElement = card.querySelector('p:first-child');
+          const dateElement = card.querySelector('p:nth-child(2)');
+          const venueElement = card.querySelector('p:nth-child(3)');
+          const imageElement = card.querySelector('img');
+          
+          // Skip if not a valid event card
+          if (!titleElement || !dateElement) return;
+          
+          events.push({
+            title: titleElement.textContent.trim(),
+            date: dateElement.textContent.trim(),
+            venue: venueElement?.textContent.trim() || 'Venue not available',
+            image: imageElement?.src || '',
+            url: card.href
+          });
+        } catch (e) {
+          console.error('Error processing event card:', e);
+        }
+      });
+      
+      return events;
+    });
+
+    console.log(`Found ${topEvents.length} top events`);
+
+    // Scrape detailed listings for each event
+    const detailedEvents = [];
+    
+    for (const event of topEvents.slice(0, 3)) { // Limit to 3 events
+      if (!event.url) continue;
+      
+      console.log(`Navigating to StubHub event: ${event.title}`);
+      await page.goto(event.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      await page.waitForTimeout(3000); // Add delay
+      
+      const eventListings = await page.evaluate(() => {
+        const listings = [];
+        const listingElements = document.querySelectorAll('[data-listing-id]');
+        
+        listingElements.forEach(listing => {
+          try {
+            // Extract listing details
+            const price = listing.getAttribute('data-price')?.replace('$', '') || '0';
+            const sectionElement = listing.querySelector('.sc-afca01a5-23 p');
+            const rowElement = listing.querySelector('.sc-afca01a5-24 p');
+            const ticketCountElement = Array.from(listing.querySelectorAll('p'))
+              .find(p => p.textContent.includes('ticket'));
+            
+            const previewImage = listing.querySelector('img')?.src;
+            
+            listings.push({
+              section: sectionElement?.textContent.trim() || 'N/A',
+              row: rowElement?.textContent.trim() || 'N/A',
+              price: parseFloat(price) || 0,
+              ticketCount: ticketCountElement?.textContent.match(/\d+/)?.[0] || '1',
+              previewImage: previewImage || '',
+              feesIncluded: listing.textContent.includes('Fees included') || false
+            });
+          } catch (e) {
+            console.error('Error processing listing:', e);
+          }
+        });
+        
+        return listings;
+      });
+      
+      detailedEvents.push({
+        ...event,
+        listings: eventListings,
+        minPrice: Math.min(...eventListings.map(l => l.price)),
+        maxPrice: Math.max(...eventListings.map(l => l.price))
+      });
+      
+      console.log(`Found ${eventListings.length} listings for ${event.title}`);
+    }
+
+    return detailedEvents;
+  } catch (error) {
+    console.error('Error scraping StubHub:', error);
+    return [];
+  } finally {
+    await browser.close();
+  }
 }
 
 // 3. Arbitrage Analyzer
@@ -122,28 +226,72 @@ function findArbitrageOpportunities(vividEvents, stubHubEvents) {
   return opportunities;
 }
 
+// Arbitrage Analyzer
+function findArbitrageOpportunities(vividEvents, stubHubEvents) {
+  const opportunities = [];
+  
+  // Compare prices between platforms
+  vividEvents.forEach(vividEvent => {
+    if (vividEvent.listings.length === 0) return;
+    
+    // Find matching event on StubHub
+    const matchingStubEvent = stubHubEvents.find(
+      stubEvent => stubEvent.title === vividEvent.title
+    );
+    
+    if (!matchingStubEvent || matchingStubEvent.listings.length === 0) return;
+    
+    // Compare min prices
+    const vividMinPrice = vividEvent.minPrice;
+    const stubMinPrice = matchingStubEvent.minPrice;
+    
+    // Calculate potential profit (15% StubHub seller fee)
+    const potentialProfit = stubMinPrice * 0.85 - vividMinPrice;
+    const profitMargin = (potentialProfit / vividMinPrice) * 100;
+    
+    if (potentialProfit > 0) {
+      opportunities.push({
+        event: vividEvent.title,
+        date: vividEvent.date,
+        venue: vividEvent.venue,
+        buyFrom: 'VividSeats',
+        buyPrice: vividMinPrice,
+        sellOn: 'StubHub',
+        sellPrice: stubMinPrice,
+        minTicketCount: Math.min(...vividEvent.listings.map(l => l.ticketCount)),
+        profitPerTicket: potentialProfit.toFixed(2),
+        profitMargin: profitMargin.toFixed(1) + '%',
+        lastUpdated: new Date().toISOString()
+      });
+    }
+  });
+  
+  return opportunities;
+}
+
 // Main Function
 (async () => {
   console.log('==== TICKET ARBITRAGE SCRAPER ====');
-  console.log('Starting at:', new Date().toISOString());
   
   try {
-    // Step 1: Scrape both platforms
-    const vividData = await scrapeVividSeats();
-    const stubData = await scrapeStubHub(); // Currently empty
+    // Scrape both platforms in parallel
+    const [vividData, stubHubData] = await Promise.all([
+      scrapeVividSeats(),
+      scrapeStubHub()
+    ]);
     
-    // Step 2: Find arbitrage opportunities
-    const opportunities = findArbitrageOpportunities(vividData, stubData);
+    // Find arbitrage opportunities
+    const opportunities = findArbitrageOpportunities(vividData, stubHubData);
     
-    // Step 3: Prepare final dataset
+    // Prepare final dataset
     const result = {
       scrapedAt: new Date().toISOString(),
       vividSeats: vividData,
-      stubHub: stubData,
+      stubHub: stubHubData,
       opportunities
     };
     
-    // Step 4: Save to file
+    // Save to file
     fs.writeFileSync('data.json', JSON.stringify(result, null, 2));
     console.log(`Found ${opportunities.length} arbitrage opportunities`);
     
@@ -155,5 +303,5 @@ function findArbitrageOpportunities(vividEvents, stubHubEvents) {
     }));
   }
   
-  console.log('==== SCRAPING COMPLETED ====');
+  console.log('==== SCRAPER COMPLETED ====');
 })();
