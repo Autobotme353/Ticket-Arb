@@ -2,8 +2,6 @@
   "name": "ticket-arbitrage",
   "version": "1.0.0",
   "dependencies": {
-    "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "puppeteer-extra-plugin-adblocker": "^2.13.5"
+    "playwright": "^1.44.0"
   }
 }
