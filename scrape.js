@@ -102,6 +102,54 @@ async function scrapeVividSeats() {
   }
 }
 
+async function scrapeStubHub() {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+  
+  try {
+    console.log('Navigating to StubHub...');
+    await page.goto('https://www.stubhub.com/concerts-tickets/category/1/', {
+      waitUntil: 'networkidle',
+      timeout: 60000
+    });
+
+    // Scrape event cards
+    const events = await page.evaluate(() => {
+      const results = [];
+      const cards = document.querySelectorAll('.event-card, [data-testid="event-card"]');
+      
+      cards.forEach(card => {
+        try {
+          const title = card.querySelector('h3')?.textContent?.trim();
+          const date = card.querySelector('[data-testid="event-date"]')?.textContent?.trim();
+          const venue = card.querySelector('[data-testid="event-venue"]')?.textContent?.trim();
+          const url = card.querySelector('a')?.href;
+          
+          if (title && url) {
+            results.push({ title, date, venue, url });
+          }
+        } catch (e) {}
+      });
+      
+      return results;
+    });
+
+    // Scrape listings for each event (similar to Vivid Seats)
+    const detailedEvents = [];
+    for (const event of events.slice(0, 3)) {
+      await page.goto(event.url);
+      const listings = await page.evaluate(() => {
+        // Extract listings similar to Vivid Seats
+      });
+      detailedEvents.push({...event, listings});
+    }
+    
+    return detailedEvents;
+  } finally {
+    await browser.close();
+  }
+}
+
 // Main function
 (async () => {
   console.log('==== STARTING VIVID SEATS SCRAPER ====');
