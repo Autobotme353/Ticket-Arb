@@ -1,70 +1,98 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const AdblockerPlugin = require('puppeteer-extra-plugin-adblocker');
 const fs = require('fs');
 const path = require('path');
 
-// Helper function to scrape a website with enhanced debugging
+// Add stealth and adblocker plugins
+puppeteer.use(StealthPlugin());
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
+
+// Helper function to scrape a website with enhanced stealth
 async function scrapeWebsite(url, selectors, siteName) {
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
   const debugPrefix = `${siteName}-${timestamp}`;
   
   const browser = await puppeteer.launch({
     headless: "new",
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-infobars',
+      '--window-position=0,0',
+      '--ignore-certificate-errors',
+      '--ignore-certificate-errors-spki-list',
+      '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+    ],
+    ignoreHTTPSErrors: true
   });
+  
   const page = await browser.newPage();
   
+  // Set extra stealth parameters
+  await page.setExtraHTTPHeaders({
+    'Accept-Language': 'en-US,en;q=0.9'
+  });
+  
+  await page.setViewport({
+    width: 1280 + Math.floor(Math.random() * 100),
+    height: 800 + Math.floor(Math.random() * 100),
+    deviceScaleFactor: 1,
+    hasTouch: false,
+    isLandscape: false,
+    isMobile: false,
+  });
+
   try {
-    // Set realistic browser characteristics
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36');
-    await page.setViewport({ width: 1280, height: 800 });
-    
     console.log(`Navigating to ${url}...`);
     await page.goto(url, {
       waitUntil: 'networkidle2',
-      timeout: 120000
+      timeout: 120000,
+      referer: 'https://www.google.com/'
     });
 
-    // Wait for potential content containers
-    const waitSelectors = [
-      selectors.eventSelector,
-      '.event-list', '.results-container', '.events-container'
-    ].filter(s => s);
+    // Wait randomly to simulate human behavior
+    await page.waitForTimeout(2000 + Math.random() * 3000);
     
-    await Promise.any(waitSelectors.map(selector => 
-      page.waitForSelector(selector, { timeout: 15000 })
-    )).catch(() => console.warn('No container elements found'));
-
     console.log(`Scraping ${siteName}...`);
     const data = await page.evaluate((selectors) => {
-      const events = [];
-      const eventElements = document.querySelectorAll(selectors.eventSelector);
+      // Try multiple selector strategies
+      const selectorsList = selectors.split(',');
+      let eventElements = [];
+      
+      for (const selector of selectorsList) {
+        const elements = document.querySelectorAll(selector.trim());
+        if (elements.length > 0) {
+          eventElements = Array.from(elements);
+          break;
+        }
+      }
       
       console.log(`Found ${eventElements.length} event containers`);
       
+      const events = [];
       eventElements.forEach(el => {
         try {
-          // Get title
+          // Extract title - prioritize h tags
           let title = 'N/A';
-          if (selectors.titleSelector) {
-            const titleEl = el.querySelector(selectors.titleSelector);
-            if (titleEl) title = titleEl.innerText.trim();
+          const titleCandidates = el.querySelectorAll('h1, h2, h3, h4, h5, h6');
+          if (titleCandidates.length > 0) {
+            title = titleCandidates[0].innerText.trim();
           }
           
-          // Get price
+          // Extract price - look for dollar amounts
           let price = '0';
-          if (selectors.priceSelector) {
-            const priceEl = el.querySelector(selectors.priceSelector);
-            if (priceEl) {
-              const priceText = priceEl.innerText.replace(/\$|,/g, '');
-              price = parseFloat(priceText) || '0';
-            }
+          const textContent = el.innerText || '';
+          const priceMatch = textContent.match(/\$\d{1,4}(,\d{3})*(\.\d{2})?/);
+          if (priceMatch) {
+            price = priceMatch[0].replace(/\$|,/g, '');
           }
           
-          // Get URL
+          // Extract URL - find first link
           let url = window.location.href;
-          if (selectors.urlSelector) {
-            const urlEl = el.querySelector(selectors.urlSelector);
-            if (urlEl && urlEl.href) url = urlEl.href;
+          const link = el.querySelector('a');
+          if (link && link.href) {
+            url = link.href;
           }
 
           events.push({ title, price, url });
@@ -74,7 +102,7 @@ async function scrapeWebsite(url, selectors, siteName) {
       });
       
       return events;
-    }, selectors);
+    }, selectors.eventSelector);
 
     console.log(`Found ${data.length} events on ${siteName}`);
     
@@ -94,7 +122,7 @@ async function scrapeWebsite(url, selectors, siteName) {
   }
 }
 
-// Save debug files (HTML and screenshot)
+// Save debug files
 async function saveDebugFiles(page, prefix) {
   try {
     // Save HTML
@@ -115,29 +143,36 @@ async function saveDebugFiles(page, prefix) {
   }
 }
 
-// Current Vivid Seats selectors
+// Updated selector strategies
 async function scrapeVividSeats() {
   return scrapeWebsite(
-    'https://www.vividseats.com/concerts.html',
+    'https://www.vividseats.com/concerts',
     {
-      eventSelector: '.event-card, .EventCard, .event-listing, [data-testid="event-card"]',
-      titleSelector: 'h3, .event-title, [data-testid="event-title"]',
-      priceSelector: '.price, .minPrice, [data-testid="event-card-price"]',
-      urlSelector: 'a'
+      eventSelector: `
+        .event-card, 
+        .EventCard, 
+        .event-listing, 
+        [data-testid="event-card"],
+        .ticket-hub-event-card,
+        .event-item
+      `
     },
     'VividSeats'
   );
 }
 
-// Current StubHub selectors
 async function scrapeStubHub() {
   return scrapeWebsite(
     'https://www.stubhub.com/concerts-tickets/category/1/',
     {
-      eventSelector: '.EventItem, .event-card, [data-testid="event-item"]',
-      titleSelector: 'h3, .event-title, [data-testid="event-title"]',
-      priceSelector: '.price, .event-price, [data-testid="event-item-price"]',
-      urlSelector: 'a'
+      eventSelector: `
+        .EventItem, 
+        .event-card, 
+        [data-testid="event-item"],
+        .event-listing,
+        .event-tile,
+        .ticket-card
+      `
     },
     'StubHub'
   );
@@ -212,11 +247,15 @@ Format output as valid JSON:
   console.log('==== STARTING TICKET SCRAPER ====');
   
   try {
-    // Scrape both sites in parallel
-    const [vividData, stubData] = await Promise.all([
-      scrapeVividSeats(),
-      scrapeStubHub()
-    ]);
+    // Scrape both sites in sequence to avoid detection
+    console.log('Scraping VividSeats...');
+    const vividData = await scrapeVividSeats();
+    
+    // Add random delay between sites
+    await new Promise(resolve => setTimeout(resolve, 5000 + Math.random() * 10000));
+    
+    console.log('Scraping StubHub...');
+    const stubData = await scrapeStubHub();
     
     const combined = {
       vividSeats: vividData,
