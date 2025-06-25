@@ -20,23 +20,16 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          echo "CHROME_BIN=/usr/bin/google-chrome-stable" >> $GITHUB_ENV
-
       - name: Install dependencies
-        run: |
-          npm install
-          echo "Installed packages:"
-          npm list
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
 
       - name: Run Scraper
         run: node scrape.js
         env:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
-          CHROME_BIN: /usr/bin/google-chrome-stable
         timeout-minutes: 10
 
       - name: Commit and Push Changes
