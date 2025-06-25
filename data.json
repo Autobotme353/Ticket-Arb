@@ -1,179 +1,340 @@
 {
-  "scrapedAt": "2025-06-25T04:32:05.029Z",
+  "scrapedAt": "2025-06-25T04:41:13.430Z",
   "events": [
     {
-      "title": "2025 Lollapalooza - 4 Day Pass (7/31 - 8/3) (Olivia Rodrigo, Tyler The Creator, Sabrina Carpenter, Doechii)",
-      "date": "Thu Jul 31•10:58 AM+4 Dates",
-      "venue": "Hutchinson Field at Grant Park",
-      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/f_auto/hero/event/concerts/473-lollapalooza/lollapalooza-tickets-1.jpg",
-      "url": "https://www.vividseats.com/lollapalooza-tickets-chicago-hutchinson-field-at-grant-park-7-31-2025--concerts-music-festivals/production/5591973",
-      "listings": []
-    },
-    {
-      "title": "Chris Brown",
-      "date": "Thu Aug 28•7:00 PM",
-      "venue": "Wrigley Field",
-      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/hero/event/concerts/8577-chris-brown/chris-brown-tickets-7.jpg",
-      "url": "https://www.vividseats.com/chris-brown-tickets-chicago-wrigley-field-8-28-2025--concerts-rb/production/5660623",
+      "title": "Foreigner",
+      "date": "Tue Jul 29•8:00 PM",
+      "venue": "Durham Performing Arts Center",
+      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/hero/event/concerts/298-foreigner/foreigner-tickets-8.jpg",
+      "url": "https://www.vividseats.com/foreigner-tickets-durham-durham-performing-arts-center-7-29-2025--concerts-rock/production/5487885",
       "listings": [
         {
           "section": "N/A",
-          "row": "8",
-          "price": "271",
+          "row": "A",
+          "price": "100",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/409.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/8.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "5",
-          "price": "282",
+          "row": "BB",
+          "price": "104",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/403.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/2.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "272",
+          "row": "BB",
+          "price": "108",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/425.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/2.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "272",
+          "row": "D",
+          "price": "112",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/415.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/9.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "273",
+          "row": "BB",
+          "price": "112",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/428.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/4.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "273",
+          "row": "L",
+          "price": "113",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/424.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "274",
+          "row": "K",
+          "price": "113",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/427.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "274",
+          "row": "L",
+          "price": "113",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/411.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/8.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "275",
+          "row": "K",
+          "price": "113",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/412.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/8.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "276",
+          "row": "N",
+          "price": "114",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/426.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "277",
+          "row": "M",
+          "price": "114",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/423.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "277",
+          "row": "L",
+          "price": "114",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/410.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "278",
+          "row": "K",
+          "price": "114",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/423.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": "281",
+          "row": "L",
+          "price": "114",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/411.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/8.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "7",
-          "price": "281",
+          "row": "Z",
+          "price": "115",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/425.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/2.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": "281",
+          "row": "B",
+          "price": "115",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/422.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/9.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "7",
-          "price": "282",
+          "row": "E",
+          "price": "116",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/408.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/9.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": "282",
+          "row": "Y",
+          "price": "119",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/403.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/2.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "4",
-          "price": "282",
+          "row": "M",
+          "price": "124",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/428.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/10.png",
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "7",
-          "price": "282",
+          "row": "N",
+          "price": "124",
           "ticketCount": "1",
-          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/409.png",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/20568/9.png",
+          "feesIncluded": true
+        }
+      ]
+    },
+    {
+      "title": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
+      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/hero/event/concerts/109-boz-scaggs/boz-scaggs-tickets-1.jpg",
+      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": "106",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": "111",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": "112",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": "112",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": "112",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/9.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": "112",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": "114",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": "114",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/8.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": "114",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/4573/10.png",
           "feesIncluded": true
         }
       ]
