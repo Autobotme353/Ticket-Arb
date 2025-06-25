@@ -1,4 +1,182 @@
 {
-  "vividSeats": [],
-  "timestamp": "2025-06-25T04:15:41.822Z"
+  "scrapedAt": "2025-06-25T04:32:05.029Z",
+  "events": [
+    {
+      "title": "2025 Lollapalooza - 4 Day Pass (7/31 - 8/3) (Olivia Rodrigo, Tyler The Creator, Sabrina Carpenter, Doechii)",
+      "date": "Thu Jul 31•10:58 AM+4 Dates",
+      "venue": "Hutchinson Field at Grant Park",
+      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/f_auto/hero/event/concerts/473-lollapalooza/lollapalooza-tickets-1.jpg",
+      "url": "https://www.vividseats.com/lollapalooza-tickets-chicago-hutchinson-field-at-grant-park-7-31-2025--concerts-music-festivals/production/5591973",
+      "listings": []
+    },
+    {
+      "title": "Chris Brown",
+      "date": "Thu Aug 28•7:00 PM",
+      "venue": "Wrigley Field",
+      "image": "https://media.vsstatic.com/image/upload/t_homepage_carousel_card_image_v2/if_fc_gte_1/g_auto,q_auto,c_fill,w_400,h_400/if_else/g_center,q_auto,c_fill,w_400,h_400/if_end/dpr_auto,f_auto/hero/event/concerts/8577-chris-brown/chris-brown-tickets-7.jpg",
+      "url": "https://www.vividseats.com/chris-brown-tickets-chicago-wrigley-field-8-28-2025--concerts-rb/production/5660623",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "271",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/409.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": "282",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/403.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "272",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/425.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "272",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/415.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "273",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/428.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "273",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/424.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "274",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/427.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "274",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/411.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "275",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/412.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "276",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/426.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "277",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/423.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "277",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/410.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "278",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/423.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": "281",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/411.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": "281",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/425.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": "281",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/422.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": "282",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/408.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": "282",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/403.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": "282",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/428.png",
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": "282",
+          "ticketCount": "1",
+          "previewImage": "https://media.vsstatic.com/image/upload/f_auto,q_auto:best,h_80,w_100,c_fit/hero/section-highlight-images/45070/409.png",
+          "feesIncluded": true
+        }
+      ]
+    }
+  ]
 }
