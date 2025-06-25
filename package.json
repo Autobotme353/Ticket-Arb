@@ -1,10 +1,7 @@
 {
   "name": "ticket-arbitrage",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "dependencies": {
     "playwright": "^1.44.0"
-  },
-  "scripts": {
-    "start": "node scraper.js"
   }
 }
