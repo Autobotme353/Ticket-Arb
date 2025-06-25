@@ -1,7 +1,7 @@
 name: Scrape Tickets
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */4 * * *'  # Every 4 hours to avoid detection
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -20,31 +20,29 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Clean Cache and Install Puppeteer
+      - name: Install dependencies
         run: |
-          npm cache clean --force
-          npm install puppeteer@19.11.1
-          echo "Puppeteer version:"
-          npm list puppeteer
+          npm install
+          echo "Installed packages:"
+          npm list
 
       - name: Run Scraper
         run: node scrape.js
         env:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
-        timeout-minutes: 10
+        timeout-minutes: 15
 
-      - name: Debug Output
-        run: |
-          echo "=== SCRAPER DEBUG ==="
-          if [ -f data.json ]; then
-            echo "data.json content:"
-            head -c 1000 data.json
-            echo -e "\nFile size: $(wc -c < data.json) bytes"
-          else
-            echo "❌ data.json not found!"
-            ls -la
-          fi
-          echo "======================"
+      - name: Upload Debug Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraping-debug
+          path: |
+            Vivid*.html
+            Vivid*.png
+            Stub*.html
+            Stub*.png
+          retention-days: 1
 
       - name: Commit and Push Changes
         if: success() && github.ref == 'refs/heads/main'
@@ -54,23 +52,3 @@ jobs:
           git add data.json
           git diff-index --quiet HEAD || git commit -m "Auto: Update ticket data"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
-      - name: Upload Debug Artifacts
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scraping-debug
-          path: |
-            Vivid*.html
-            Vivid*.png
-            Stub*.html
-            Stub*.png
-          retention-days: 1  # Keep only 1 day to save space
-
-      - name: Upload Debug HTML
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: html-debug
-          path: |
-            *-debug.html
