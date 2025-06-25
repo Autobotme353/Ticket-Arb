@@ -1,63 +1,73 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-async function scrapeWebsite(url, siteName) {
+async function scrapeVividSeats() {
   const browser = await chromium.launch();
-  const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
-  });
-  const page = await context.newPage();
+  const page = await browser.newPage();
+  await page.setViewportSize({ width: 1280, height: 800 });
   
   try {
-    console.log(`Navigating to ${url}...`);
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    
-    // Generic scraping - will need customization
+    console.log('Navigating to Vivid Seats...');
+    await page.goto('https://www.vividseats.com/concerts', {
+      waitUntil: 'networkidle',
+      timeout: 60000
+    });
+
+    console.log('Scraping Vivid Seats listings...');
     const data = await page.evaluate(() => {
       const events = [];
       
-      // Try to find any event-like elements
-      const candidates = document.querySelectorAll('.event-card, .EventItem, .listing, .ticket-card');
+      // Find all listing containers
+      const listings = document.querySelectorAll('[data-testid="listing-row-container"]');
       
-      candidates.forEach(el => {
+      listings.forEach(listing => {
         try {
-          // Get title from first heading element
-          const titleEl = el.querySelector('h1, h2, h3, h4, h5, h6, [class*="title"], [class*="name"]');
-          const title = titleEl ? titleEl.textContent.trim() : 'Unknown Event';
+          // Extract title from the URL
+          const url = listing.closest('a')?.href || '';
+          const titleMatch = url.match(/\/([^\/]+)-tickets/);
+          const title = titleMatch ? 
+            decodeURIComponent(titleMatch[1].replace(/-/g, ' ')) : 
+            'Unknown Event';
           
-          // Find price-like text
-          const priceMatch = el.textContent.match(/\$\d{1,4}(,\d{3})*(\.\d{2})?/);
-          const price = priceMatch ? priceMatch[0].replace(/\$|,/g, '') : '0';
+          // Extract price
+          const priceElement = listing.querySelector('[data-testid="listing-price"]');
+          const price = priceElement ? 
+            priceElement.textContent.replace(/\$|,/g, '') : 
+            '0';
           
-          // Find first link
-          const link = el.querySelector('a');
-          const url = link ? link.href : window.location.href;
+          // Extract section and row
+          const sectionElement = listing.querySelector('[data-testid="Section"]');
+          const rowElement = listing.querySelector('[data-testid="row"]');
           
-          events.push({ title, price, url });
+          // Extract ticket count
+          const ticketText = listing.querySelector('[data-testid="row"]')?.nextElementSibling?.textContent || '';
+          const ticketMatch = ticketText.match(/(\d+) tickets?/);
+          const ticketCount = ticketMatch ? ticketMatch[1] : '1';
+          
+          events.push({
+            title,
+            price: parseFloat(price),
+            url,
+            section: sectionElement?.textContent || 'N/A',
+            row: rowElement?.textContent.replace('Row', '').trim() || 'N/A',
+            ticketCount: parseInt(ticketCount)
+          });
         } catch (e) {
-          console.error('Error processing element:', e);
+          console.error('Error processing listing:', e);
         }
       });
       
       return events;
     });
-    
-    console.log(`Found ${data.length} events on ${siteName}`);
+
+    console.log(`Found ${data.length} Vivid Seats listings`);
     return data;
   } catch (error) {
-    console.error(`Error scraping ${siteName}: ${error.message}`);
+    console.error('Error scraping Vivid Seats:', error);
     return [];
   } finally {
     await browser.close();
   }
-}
-
-async function scrapeVividSeats() {
-  return scrapeWebsite('https://www.vividseats.com/concerts', 'VividSeats');
-}
-
-async function scrapeStubHub() {
-  return scrapeWebsite('https://www.stubhub.com/concerts-tickets/category/1/', 'StubHub');
 }
 
 // Main function
@@ -66,18 +76,15 @@ async function scrapeStubHub() {
   
   try {
     const vividData = await scrapeVividSeats();
-    const stubData = await scrapeStubHub();
     
-    const combined = {
+    const result = {
       vividSeats: vividData,
-      stubHub: stubData,
-      timestamp: new Date().toISOString(),
-      analysis: { opportunities: [] }
+      timestamp: new Date().toISOString()
     };
     
     // Write data to file
-    fs.writeFileSync('data.json', JSON.stringify(combined, null, 2));
-    console.log(`Scraped ${vividData.length} Vivid events, ${stubData.length} StubHub events`);
+    fs.writeFileSync('data.json', JSON.stringify(result, null, 2));
+    console.log(`Scraped ${vividData.length} Vivid Seats listings`);
     
   } catch (error) {
     console.error('Fatal error:', error);
