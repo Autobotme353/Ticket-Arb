@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true  # Important for pushing changes
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -26,12 +26,12 @@ jobs:
 
       - name: Run Scraper
         run: node scrape.js
-        timeout-minutes: 15
+        timeout-minutes: 20
 
       - name: Commit and Push Data
         run: |
           git config user.name "Arbitrage Bot"
           git config user.email "bot@noreply.com"
           git add data.json
-          git commit -m "Data update: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git diff-index --quiet HEAD || git commit -m "Data update: $(date +'%Y-%m-%d %H:%M UTC')"
           git push
