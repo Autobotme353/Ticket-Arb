@@ -1,17 +1,22 @@
 name: Ticket Arbitrage
 on:
   schedule:
-    - cron: '0 8,12,16,20 * * *'  # Run 4x/day at 8AM, 12PM, 4PM, 8PM UTC
+    - cron: '0 13,17,21 * * *'  # 1PM, 5PM, 9PM UTC (peak times)
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    env:
+      PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+      PROXY_USER: ${{ secrets.PXY_USER }}
+      PROXY_PASS: ${{ secrets.PXY_PASS }}
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Important for pushing changes
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -19,19 +24,20 @@ jobs:
           node-version: '20.x'
 
       - name: Install dependencies
-        run: npm install playwright
+        run: npm install
 
       - name: Install browsers
-        run: npx playwright install chromium
+        run: npx playwright install chromium --with-deps
 
       - name: Run Scraper
-        run: node scrape.js
-        timeout-minutes: 20
+        run: node scraper.js
+        timeout-minutes: 25
+        continue-on-error: true  # Commit even if scraper fails
 
       - name: Commit and Push Data
         run: |
           git config user.name "Arbitrage Bot"
           git config user.email "bot@noreply.com"
           git add data.json
-          git diff-index --quiet HEAD || git commit -m "Data update: $(date +'%Y-%m-%d %H:%M UTC')"
+          git diff-index --quiet HEAD || git commit -m "Data: $(date +'%m/%d %H:%M UTC')"
           git push
