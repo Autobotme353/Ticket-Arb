@@ -40,7 +40,7 @@ async function scrapeVividSeats() {
 
     console.log(`Found ${topEvents.length} top events`);
 
-    // Scrape listings for 3 events (to stay within free limits)
+    // Scrape listings for 3 events
     const detailedEvents = [];
     for (const event of topEvents.slice(0, 3)) {
       console.log(`Scraping listings for: ${event.title}`);
@@ -74,8 +74,8 @@ async function scrapeVividSeats() {
       detailedEvents.push({
         ...event,
         listings,
-        minPrice: Math.min(...listings.map(l => l.price)),
-        maxPrice: Math.max(...listings.map(l => l.price))
+        minPrice: listings.length > 0 ? Math.min(...listings.map(l => l.price)) : 0,
+        maxPrice: listings.length > 0 ? Math.max(...listings.map(l => l.price)) : 0
       });
     }
     
@@ -88,7 +88,7 @@ async function scrapeVividSeats() {
   }
 }
 
-// StubHub Scraper
+// 2. StubHub Scraper (Improved)
 async function scrapeStubHub() {
   const browser = await chromium.launch();
   const context = await browser.newContext({
@@ -104,33 +104,33 @@ async function scrapeStubHub() {
       timeout: 60000
     });
 
+    // Wait for event container to load
+    await page.waitForSelector('[data-testid="category-top-picks-carousel"]', { timeout: 15000 });
+    
     // Scrape top event cards
     console.log('Scraping top event cards...');
     const topEvents = await page.evaluate(() => {
       const events = [];
-      const cards = document.querySelectorAll('a[href*="/event/"]');
+      const carousel = document.querySelector('[data-testid="category-top-picks-carousel"]');
+      if (!carousel) return events;
+      
+      const cards = carousel.querySelectorAll('a[href*="/event/"]');
       
       cards.forEach(card => {
         try {
-          // Extract event details
           const titleElement = card.querySelector('p:first-child');
           const dateElement = card.querySelector('p:nth-child(2)');
           const venueElement = card.querySelector('p:nth-child(3)');
-          const imageElement = card.querySelector('img');
           
-          // Skip if not a valid event card
           if (!titleElement || !dateElement) return;
           
           events.push({
             title: titleElement.textContent.trim(),
             date: dateElement.textContent.trim(),
             venue: venueElement?.textContent.trim() || 'Venue not available',
-            image: imageElement?.src || '',
             url: card.href
           });
-        } catch (e) {
-          console.error('Error processing event card:', e);
-        }
+        } catch (e) {}
       });
       
       return events;
@@ -141,52 +141,56 @@ async function scrapeStubHub() {
     // Scrape detailed listings for each event
     const detailedEvents = [];
     
-    for (const event of topEvents.slice(0, 3)) { // Limit to 3 events
+    for (const event of topEvents.slice(0, 3)) {
       if (!event.url) continue;
       
       console.log(`Navigating to StubHub event: ${event.title}`);
-      await page.goto(event.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
-      await page.waitForTimeout(3000); // Add delay
-      
-      const eventListings = await page.evaluate(() => {
-        const listings = [];
-        const listingElements = document.querySelectorAll('[data-listing-id]');
+      try {
+        await page.goto(event.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+        await page.waitForSelector('[data-listing-id]', { timeout: 10000 });
         
-        listingElements.forEach(listing => {
-          try {
-            // Extract listing details
-            const price = listing.getAttribute('data-price')?.replace('$', '') || '0';
-            const sectionElement = listing.querySelector('.sc-afca01a5-23 p');
-            const rowElement = listing.querySelector('.sc-afca01a5-24 p');
-            const ticketCountElement = Array.from(listing.querySelectorAll('p'))
-              .find(p => p.textContent.includes('ticket'));
-            
-            const previewImage = listing.querySelector('img')?.src;
-            
-            listings.push({
-              section: sectionElement?.textContent.trim() || 'N/A',
-              row: rowElement?.textContent.trim() || 'N/A',
-              price: parseFloat(price) || 0,
-              ticketCount: ticketCountElement?.textContent.match(/\d+/)?.[0] || '1',
-              previewImage: previewImage || '',
-              feesIncluded: listing.textContent.includes('Fees included') || false
-            });
-          } catch (e) {
-            console.error('Error processing listing:', e);
-          }
+        const eventListings = await page.evaluate(() => {
+          const listings = [];
+          const listingElements = document.querySelectorAll('.event-listing[data-listing-id]');
+          
+          listingElements.forEach(listing => {
+            try {
+              const price = listing.getAttribute('data-price')?.replace('$', '') || '0';
+              const sectionElement = listing.querySelector('.sc-afca01a5-23 p');
+              const rowElement = listing.querySelector('.sc-afca01a5-24 p');
+              const ticketCountElement = Array.from(listing.querySelectorAll('p'))
+                .find(p => p.textContent.includes('ticket'));
+              
+              listings.push({
+                section: sectionElement?.textContent.trim() || 'N/A',
+                row: rowElement?.textContent.trim() || 'N/A',
+                price: parseFloat(price) || 0,
+                ticketCount: ticketCountElement?.textContent.match(/\d+/)?.[0] || '1',
+                feesIncluded: listing.textContent.includes('Fees included') || false
+              });
+            } catch (e) {}
+          });
+          
+          return listings;
         });
         
-        return listings;
-      });
-      
-      detailedEvents.push({
-        ...event,
-        listings: eventListings,
-        minPrice: Math.min(...eventListings.map(l => l.price)),
-        maxPrice: Math.max(...eventListings.map(l => l.price))
-      });
-      
-      console.log(`Found ${eventListings.length} listings for ${event.title}`);
+        detailedEvents.push({
+          ...event,
+          listings: eventListings,
+          minPrice: eventListings.length > 0 ? Math.min(...eventListings.map(l => l.price)) : 0,
+          maxPrice: eventListings.length > 0 ? Math.max(...eventListings.map(l => l.price)) : 0
+        });
+        
+        console.log(`Found ${eventListings.length} listings for ${event.title}`);
+      } catch (error) {
+        console.error(`Failed to scrape ${event.title}:`, error);
+        detailedEvents.push({
+          ...event,
+          listings: [],
+          minPrice: 0,
+          maxPrice: 0
+        });
+      }
     }
 
     return detailedEvents;
@@ -198,48 +202,36 @@ async function scrapeStubHub() {
   }
 }
 
-// 3. Arbitrage Analyzer
+// 3. Arbitrage Analyzer (Fixed)
 function findArbitrageOpportunities(vividEvents, stubHubEvents) {
   const opportunities = [];
   
-  // Simple price comparison (replace with actual StubHub data later)
-  vividEvents.forEach(event => {
-    if (event.listings.length === 0) return;
-    
-    // Assuming potential 20% profit margin
-    const targetPrice = event.minPrice * 1.2;
-    
-    opportunities.push({
-      event: event.title,
-      date: event.date,
-      venue: event.venue,
-      buyFrom: 'VividSeats',
-      buyPrice: event.minPrice,
-      sellTarget: targetPrice.toFixed(2),
-      minTicketCount: Math.min(...event.listings.map(l => l.ticketCount)),
-      profitPerTicket: (targetPrice - event.minPrice).toFixed(2),
-      profitMargin: '20% (estimated)',
-      lastUpdated: new Date().toISOString()
-    });
-  });
-  
-  return opportunities;
-}
-
-// Arbitrage Analyzer
-function findArbitrageOpportunities(vividEvents, stubHubEvents) {
-  const opportunities = [];
-  
-  // Compare prices between platforms
   vividEvents.forEach(vividEvent => {
-    if (vividEvent.listings.length === 0) return;
+    if (!vividEvent.listings || vividEvent.listings.length === 0) return;
     
     // Find matching event on StubHub
     const matchingStubEvent = stubHubEvents.find(
       stubEvent => stubEvent.title === vividEvent.title
     );
     
-    if (!matchingStubEvent || matchingStubEvent.listings.length === 0) return;
+    // Use fallback if no StubHub data
+    if (!matchingStubEvent || !matchingStubEvent.listings || matchingStubEvent.listings.length === 0) {
+      const targetPrice = vividEvent.minPrice * 1.2; // 20% profit estimate
+      opportunities.push({
+        event: vividEvent.title,
+        date: vividEvent.date,
+        venue: vividEvent.venue,
+        buyFrom: 'VividSeats',
+        buyPrice: vividEvent.minPrice,
+        sellOn: 'StubHub',
+        sellPrice: targetPrice.toFixed(2),
+        minTicketCount: Math.min(...vividEvent.listings.map(l => l.ticketCount)),
+        profitPerTicket: (targetPrice - vividEvent.minPrice).toFixed(2),
+        profitMargin: '20% (estimated)',
+        lastUpdated: new Date().toISOString()
+      });
+      return;
+    }
     
     // Compare min prices
     const vividMinPrice = vividEvent.minPrice;
