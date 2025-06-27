@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-06-27T13:41:39.747Z",
+  "scrapedAt": "2025-06-27T16:49:13.833Z",
   "vividSeats": [
     {
       "title": "Foreigner",
@@ -7,6 +7,20 @@
       "venue": "Durham Performing Arts Center",
       "url": "https://www.vividseats.com/foreigner-tickets-durham-durham-performing-arts-center-7-29-2025--concerts-rock/production/5487885",
       "listings": [
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 83,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 86,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
         {
           "section": "N/A",
           "row": "A",
@@ -17,29 +31,29 @@
         {
           "section": "N/A",
           "row": "BB",
-          "price": 95,
+          "price": 90,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "BB",
-          "price": 98,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 102,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "Z",
-          "price": 106,
+          "price": 95,
           "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 98,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 104,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -51,9 +65,16 @@
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 110,
-          "ticketCount": 4,
+          "row": "X",
+          "price": 107,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 111,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -128,13 +149,6 @@
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 117,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "B",
           "price": 117,
           "ticketCount": 5,
@@ -145,13 +159,6 @@
           "row": "D",
           "price": 120,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 120,
-          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -187,13 +194,6 @@
           "row": "P",
           "price": 124,
           "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 124,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -260,7 +260,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 87,
+      "minPrice": 83,
       "maxPrice": 130
     },
     {
@@ -571,13 +571,13 @@
       "date": "Tue Jul 29•8:00 PM",
       "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 87,
+      "buyPrice": 83,
       "sellOn": "StubHub",
-      "sellPrice": "104.40",
+      "sellPrice": "99.60",
       "minTicketCount": 1,
-      "profitPerTicket": "17.40",
+      "profitPerTicket": "16.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T13:41:39.747Z"
+      "lastUpdated": "2025-06-27T16:49:13.833Z"
     },
     {
       "event": "Boz Scaggs",
@@ -590,7 +590,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T13:41:39.747Z"
+      "lastUpdated": "2025-06-27T16:49:13.833Z"
     },
     {
       "event": "Lucy Dacus",
@@ -603,7 +603,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "11.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T13:41:39.747Z"
+      "lastUpdated": "2025-06-27T16:49:13.833Z"
     }
   ]
 }
