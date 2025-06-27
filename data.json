@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-06-27T08:54:02.188Z",
+  "scrapedAt": "2025-06-27T13:41:39.747Z",
   "vividSeats": [
     {
       "title": "Foreigner",
@@ -146,10 +146,122 @@
           "price": 120,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 120,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 123,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 124,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 124,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 124,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 124,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "CC",
+          "price": 124,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 127,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 128,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 128,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 128,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 128,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 128,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 128,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 130,
+          "ticketCount": 8,
+          "feesIncluded": true
         }
       ],
       "minPrice": 87,
-      "maxPrice": 120
+      "maxPrice": 130
     },
     {
       "title": "Boz Scaggs",
@@ -435,16 +547,16 @@
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 67,
-          "ticketCount": 6,
+          "row": "G",
+          "price": 66,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
+          "row": "C",
           "price": 67,
-          "ticketCount": 2,
+          "ticketCount": 6,
           "feesIncluded": true
         }
       ],
@@ -465,7 +577,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "17.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T08:54:02.187Z"
+      "lastUpdated": "2025-06-27T13:41:39.747Z"
     },
     {
       "event": "Boz Scaggs",
@@ -478,7 +590,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T08:54:02.188Z"
+      "lastUpdated": "2025-06-27T13:41:39.747Z"
     },
     {
       "event": "Lucy Dacus",
@@ -491,7 +603,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "11.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-27T08:54:02.188Z"
+      "lastUpdated": "2025-06-27T13:41:39.747Z"
     }
   ]
 }
