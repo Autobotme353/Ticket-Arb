@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-06-29T20:38:28.527Z",
+  "scrapedAt": "2025-06-30T08:55:25.837Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -40,13 +40,6 @@
           "row": "O",
           "price": 111,
           "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 111,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -100,6 +93,20 @@
         },
         {
           "section": "N/A",
+          "row": "K",
+          "price": 111,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 111,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "H",
           "price": 111,
           "ticketCount": 4,
@@ -139,13 +146,6 @@
           "price": 114,
           "ticketCount": 8,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 114,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 0,
@@ -180,29 +180,22 @@
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 89,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "X",
-          "price": 92,
+          "price": 89,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "X",
-          "price": 94,
+          "price": 92,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "W",
-          "price": 97,
+          "price": 94,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -232,13 +225,6 @@
           "row": "K",
           "price": 116,
           "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 116,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -278,6 +264,13 @@
         },
         {
           "section": "N/A",
+          "row": "CC",
+          "price": 119,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "D",
           "price": 120,
           "ticketCount": 2,
@@ -285,21 +278,28 @@
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 122,
-          "ticketCount": 8,
+          "row": "Y",
+          "price": 123,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 122,
-          "ticketCount": 8,
+          "row": "B",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 125,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
       "minPrice": 72,
-      "maxPrice": 122
+      "maxPrice": 125
     },
     {
       "title": "Lucy Dacus",
@@ -465,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-29T20:38:28.526Z"
+      "lastUpdated": "2025-06-30T08:55:25.837Z"
     },
     {
       "event": "Foreigner",
@@ -478,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "14.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-29T20:38:28.527Z"
+      "lastUpdated": "2025-06-30T08:55:25.837Z"
     },
     {
       "event": "Lucy Dacus",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "11.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-06-29T20:38:28.527Z"
+      "lastUpdated": "2025-06-30T08:55:25.837Z"
     }
   ]
 }
