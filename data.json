@@ -1,497 +1,497 @@
 {
-  "scrapedAt": "2025-07-01T13:45:42.317Z",
+  "scrapedAt": "2025-07-01T16:54:33.086Z",
   "vividSeats": [
     {
-      "title": "Morgan Wallen",
-      "date": "Sat Jul 19•5:30 PM+1 Date",
-      "venue": "State Farm Stadium",
-      "url": "https://www.vividseats.com/morgan-wallen-tickets-glendale-state-farm-stadium-7-19-2025--concerts-country-and-folk/production/5521015",
+      "title": "Shakira (Rescheduled from 6/13)",
+      "date": "Sat Jul 5•7:30 PM",
+      "venue": "Alamodome",
+      "url": "https://www.vividseats.com/shakira-tickets-san-antonio-alamodome-6-13-2025--concerts-pop/production/5303057",
       "listings": [
         {
           "section": "N/A",
-          "row": "23",
-          "price": 187,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 187,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "11",
-          "price": 190,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 190,
+          "price": 87,
           "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 193,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 194,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 197,
-          "ticketCount": 13,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 198,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 205,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 207,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 207,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 207,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 207,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 207,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 207,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 207,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 208,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 214,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "2",
-          "price": 215,
-          "ticketCount": 2,
+          "price": 90,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "3",
-          "price": 220,
-          "ticketCount": 10,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 187,
-      "maxPrice": 220
-    },
-    {
-      "title": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
-      "url": "https://www.vividseats.com/chris-brown-tickets-phoenix-chase-field-9-11-2025--concerts-rb/production/5660607",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 101,
+          "row": "19",
+          "price": 92,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "30",
-          "price": 102,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "26",
-          "price": 104,
+          "row": "20",
+          "price": 93,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "29",
-          "price": 104,
-          "ticketCount": 8,
+          "row": "19",
+          "price": 93,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "36",
-          "price": 104,
+          "row": "19",
+          "price": 93,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 93,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 93,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 93,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 93,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "27",
-          "price": 105,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 105,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "22",
-          "price": 105,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 106,
+          "price": 93,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "32",
-          "price": 106,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "26",
-          "price": 106,
-          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "25",
-          "price": 106,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 106,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 106,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 107,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 107,
+          "price": 93,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "34",
-          "price": 107,
+          "row": "20",
+          "price": 93,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 93,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 93,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 93,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 87,
+      "maxPrice": 93
+    },
+    {
+      "title": "Chris Brown",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Alamodome",
+      "url": "https://www.vividseats.com/chris-brown-tickets-san-antonio-alamodome-9-27-2025--concerts-rb/production/5679496",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 112,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 114,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 115,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "28",
-          "price": 107,
+          "price": 116,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 117,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 118,
           "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "30",
-          "price": 107,
+          "row": "27",
+          "price": 119,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 119,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 120,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 121,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "29",
-          "price": 107,
+          "row": "23",
+          "price": 121,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 122,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 123,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 123,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 123,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 124,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 124,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 124,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 124,
+          "ticketCount": 3,
           "feesIncluded": true
         }
       ],
-      "minPrice": 101,
-      "maxPrice": 107
+      "minPrice": 110,
+      "maxPrice": 124
     },
     {
-      "title": "Chris Stapleton",
-      "date": "Fri Aug 8•7:00 PM+1 Date",
-      "venue": "Desert Diamond Arena",
-      "url": "https://www.vividseats.com/chris-stapleton-tickets-glendale-desert-diamond-arena-8-8-2025--concerts-country-and-folk/production/5476683",
+      "title": "The Weeknd",
+      "date": "Wed Sep 3•7:00 PM",
+      "venue": "Alamodome",
+      "url": "https://www.vividseats.com/the-weeknd-tickets-san-antonio-alamodome-9-3-2025--concerts-rap-hip-hop/production/5536501",
       "listings": [
         {
           "section": "N/A",
-          "row": "J",
-          "price": 136,
+          "row": "4",
+          "price": 90,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "I",
-          "price": 137,
+          "row": "16",
+          "price": 95,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 139,
-          "ticketCount": 1,
+          "row": "28",
+          "price": 98,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 139,
-          "ticketCount": 1,
+          "row": "27",
+          "price": 99,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 140,
-          "ticketCount": 1,
+          "row": "27",
+          "price": 99,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 140,
-          "ticketCount": 1,
+          "row": "27",
+          "price": 100,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 142,
-          "ticketCount": 1,
+          "row": "26",
+          "price": 100,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 144,
-          "ticketCount": 1,
+          "row": "26",
+          "price": 101,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": 150,
-          "ticketCount": 1,
+          "row": "26",
+          "price": 101,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 152,
-          "ticketCount": 1,
+          "row": "26",
+          "price": 102,
+          "ticketCount": 14,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 152,
-          "ticketCount": 1,
+          "row": "20",
+          "price": 103,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "I",
-          "price": 157,
-          "ticketCount": 1,
+          "row": "25",
+          "price": 103,
+          "ticketCount": 16,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "W",
-          "price": 158,
+          "row": "19",
+          "price": 104,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 104,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 104,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "V",
-          "price": 160,
+          "row": "25",
+          "price": 104,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 105,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "U",
-          "price": 161,
-          "ticketCount": 2,
+          "row": "24",
+          "price": 105,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 163,
-          "ticketCount": 1,
+          "row": "19",
+          "price": 105,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "W",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 169,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 171,
-          "ticketCount": 2,
+          "row": "24",
+          "price": 105,
+          "ticketCount": 24,
           "feesIncluded": true
         }
       ],
-      "minPrice": 136,
-      "maxPrice": 171
+      "minPrice": 90,
+      "maxPrice": 105
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Morgan Wallen",
-      "date": "Sat Jul 19•5:30 PM+1 Date",
-      "venue": "State Farm Stadium",
+      "event": "Shakira (Rescheduled from 6/13)",
+      "date": "Sat Jul 5•7:30 PM",
+      "venue": "Alamodome",
       "buyFrom": "VividSeats",
-      "buyPrice": 187,
+      "buyPrice": 87,
       "sellOn": "StubHub",
-      "sellPrice": "224.40",
+      "sellPrice": "104.40",
       "minTicketCount": 1,
-      "profitPerTicket": "37.40",
+      "profitPerTicket": "17.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-01T13:45:42.317Z"
+      "lastUpdated": "2025-07-01T16:54:33.085Z"
     },
     {
       "event": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Alamodome",
       "buyFrom": "VividSeats",
-      "buyPrice": 101,
+      "buyPrice": 110,
       "sellOn": "StubHub",
-      "sellPrice": "121.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "20.20",
+      "sellPrice": "132.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "22.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-01T13:45:42.317Z"
+      "lastUpdated": "2025-07-01T16:54:33.086Z"
     },
     {
-      "event": "Chris Stapleton",
-      "date": "Fri Aug 8•7:00 PM+1 Date",
-      "venue": "Desert Diamond Arena",
+      "event": "The Weeknd",
+      "date": "Wed Sep 3•7:00 PM",
+      "venue": "Alamodome",
       "buyFrom": "VividSeats",
-      "buyPrice": 136,
+      "buyPrice": 90,
       "sellOn": "StubHub",
-      "sellPrice": "163.20",
+      "sellPrice": "108.00",
       "minTicketCount": 1,
-      "profitPerTicket": "27.20",
+      "profitPerTicket": "18.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-01T13:45:42.317Z"
+      "lastUpdated": "2025-07-01T16:54:33.086Z"
     }
   ]
 }
