@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-05T20:36:32.314Z",
+  "scrapedAt": "2025-07-06T08:55:12.645Z",
   "vividSeats": [
     {
       "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
@@ -45,7 +45,7 @@
         {
           "section": "N/A",
           "row": "3 DAY..",
-          "price": 3685,
+          "price": 3606,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -182,19 +182,12 @@
           "section": "Section 416",
           "row": "23",
           "price": 238,
-          "ticketCount": 2,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "19",
-          "price": 238,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "17",
           "price": 238,
           "ticketCount": 2,
           "feesIncluded": true
@@ -221,13 +214,6 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 134",
-          "row": "24",
-          "price": 241,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
           "section": "Section 319",
           "row": "6W",
           "price": 242,
@@ -236,21 +222,14 @@
         },
         {
           "section": "Section 416",
-          "row": "23",
-          "price": 244,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
           "row": "21",
           "price": 244,
-          "ticketCount": 4,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
-          "row": "7",
+          "row": "11",
           "price": 244,
           "ticketCount": 1,
           "feesIncluded": true
@@ -264,9 +243,9 @@
         },
         {
           "section": "Section 416",
-          "row": "11",
+          "row": "13",
           "price": 248,
-          "ticketCount": 3,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -282,10 +261,31 @@
           "price": 256,
           "ticketCount": 6,
           "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "1",
+          "price": 259,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 414",
+          "row": "24",
+          "price": 259,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 222",
+          "row": "23",
+          "price": 263,
+          "ticketCount": 8,
+          "feesIncluded": true
         }
       ],
       "minPrice": 219,
-      "maxPrice": 256
+      "maxPrice": 263
     },
     {
       "title": "Billie Eilish",
@@ -316,16 +316,16 @@
         },
         {
           "section": "N/A",
-          "row": "3",
+          "row": "5",
           "price": 298,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "4",
+          "row": "3",
           "price": 298,
-          "ticketCount": 2,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -351,7 +351,7 @@
         },
         {
           "section": "N/A",
-          "row": "5",
+          "row": "6",
           "price": 303,
           "ticketCount": 4,
           "feesIncluded": true
@@ -393,13 +393,6 @@
         },
         {
           "section": "N/A",
-          "row": "6",
-          "price": 309,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "16",
           "price": 310,
           "ticketCount": 2,
@@ -432,10 +425,17 @@
           "price": 312,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 313,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 270,
-      "maxPrice": 312
+      "maxPrice": 313
     }
   ],
   "stubHub": [],
@@ -451,7 +451,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "156.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-05T20:36:32.313Z"
+      "lastUpdated": "2025-07-06T08:55:12.645Z"
     },
     {
       "event": "Morgan Wallen",
@@ -464,7 +464,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "43.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-05T20:36:32.314Z"
+      "lastUpdated": "2025-07-06T08:55:12.645Z"
     },
     {
       "event": "Billie Eilish",
@@ -477,7 +477,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "54.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-05T20:36:32.314Z"
+      "lastUpdated": "2025-07-06T08:55:12.645Z"
     }
   ]
 }
