@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-06T13:35:19.949Z",
+  "scrapedAt": "2025-07-07T08:55:59.540Z",
   "vividSeats": [
     {
       "title": "Morgan Wallen",
@@ -9,72 +9,9 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "5",
-          "price": 152,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 155,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 155,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "9",
-          "price": 156,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 157,
+          "price": 162,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 158,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 158,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 160,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 163,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 163,
-          "ticketCount": 3,
           "feesIncluded": true
         },
         {
@@ -82,13 +19,6 @@
           "row": "11",
           "price": 163,
           "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 180,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -107,49 +37,119 @@
         },
         {
           "section": "N/A",
+          "row": "17",
+          "price": 231,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 236,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 256,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 269,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 271,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 271,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 271,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 273,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 273,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "9",
-          "price": 208,
+          "price": 273,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 0,
+          "row": "8",
+          "price": 273,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 275,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 0,
-          "ticketCount": 2,
+          "row": "23",
+          "price": 276,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 0,
-          "ticketCount": 2,
+          "row": "15",
+          "price": 276,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 0,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
+          "row": "5",
           "price": 0,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
       "minPrice": 0,
-      "maxPrice": 208
+      "maxPrice": 276
     },
     {
       "title": "Chris Brown",
@@ -157,6 +157,13 @@
       "venue": "Chase Field",
       "url": "https://www.vividseats.com/chris-brown-tickets-phoenix-chase-field-9-11-2025--concerts-rb/production/5660607",
       "listings": [
+        {
+          "section": "N/A",
+          "row": "32",
+          "price": 89,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
         {
           "section": "N/A",
           "row": "36",
@@ -174,20 +181,6 @@
         {
           "section": "N/A",
           "row": "32",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
           "price": 100,
           "ticketCount": 2,
           "feesIncluded": true
@@ -224,7 +217,7 @@
           "section": "N/A",
           "row": "26",
           "price": 100,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -236,30 +229,9 @@
         },
         {
           "section": "N/A",
-          "row": "28",
-          "price": 102,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "34",
           "price": 102,
           "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "31",
-          "price": 103,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -296,10 +268,38 @@
           "price": 105,
           "ticketCount": 8,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 105,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 105,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "32",
+          "price": 106,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 106,
+          "ticketCount": 3,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 96,
-      "maxPrice": 105
+      "minPrice": 89,
+      "maxPrice": 106
     },
     {
       "title": "Chris Stapleton",
@@ -400,6 +400,13 @@
         },
         {
           "section": "N/A",
+          "row": "I",
+          "price": 157,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "H",
           "price": 163,
           "ticketCount": 1,
@@ -428,28 +435,21 @@
         },
         {
           "section": "N/A",
+          "row": "L",
+          "price": 176,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "V",
           "price": 177,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 179,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "S",
-          "price": 179,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
       "minPrice": 135,
-      "maxPrice": 179
+      "maxPrice": 177
     }
   ],
   "stubHub": [],
@@ -465,20 +465,20 @@
       "minTicketCount": 1,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-06T13:35:19.948Z"
+      "lastUpdated": "2025-07-07T08:55:59.540Z"
     },
     {
       "event": "Chris Brown",
       "date": "Thu Sep 11•7:00 PM",
       "venue": "Chase Field",
       "buyFrom": "VividSeats",
-      "buyPrice": 96,
+      "buyPrice": 89,
       "sellOn": "StubHub",
-      "sellPrice": "115.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "19.20",
+      "sellPrice": "106.80",
+      "minTicketCount": 1,
+      "profitPerTicket": "17.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-06T13:35:19.948Z"
+      "lastUpdated": "2025-07-07T08:55:59.540Z"
     },
     {
       "event": "Chris Stapleton",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "27.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-06T13:35:19.948Z"
+      "lastUpdated": "2025-07-07T08:55:59.540Z"
     }
   ]
 }
