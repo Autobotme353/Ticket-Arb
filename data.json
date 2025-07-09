@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-09T08:56:12.369Z",
+  "scrapedAt": "2025-07-09T13:46:33.445Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -146,122 +146,10 @@
           "price": 114,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 115,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 117,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 117,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 118,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 125,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 129,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 131,
-          "ticketCount": 10,
-          "feesIncluded": true
         }
       ],
       "minPrice": 0,
-      "maxPrice": 131
+      "maxPrice": 114
     },
     {
       "title": "Foreigner",
@@ -350,6 +238,13 @@
           "section": "N/A",
           "row": "O",
           "price": 131,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 131,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -401,17 +296,10 @@
           "price": 134,
           "ticketCount": 6,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 136,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 116,
-      "maxPrice": 136
+      "maxPrice": 134
     },
     {
       "title": "Lucy Dacus",
@@ -577,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T08:56:12.369Z"
+      "lastUpdated": "2025-07-09T13:46:33.445Z"
     },
     {
       "event": "Foreigner",
@@ -590,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "23.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T08:56:12.369Z"
+      "lastUpdated": "2025-07-09T13:46:33.445Z"
     },
     {
       "event": "Lucy Dacus",
@@ -603,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "8.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T08:56:12.369Z"
+      "lastUpdated": "2025-07-09T13:46:33.445Z"
     }
   ]
 }
