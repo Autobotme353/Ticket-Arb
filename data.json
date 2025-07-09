@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-09T13:46:33.445Z",
+  "scrapedAt": "2025-07-09T16:54:55.525Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -30,6 +30,13 @@
         },
         {
           "section": "N/A",
+          "row": "K",
+          "price": 111,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "H",
           "price": 111,
           "ticketCount": 8,
@@ -46,7 +53,7 @@
           "section": "N/A",
           "row": "G",
           "price": 111,
-          "ticketCount": 10,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -128,13 +135,6 @@
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 114,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "N",
           "price": 114,
           "ticketCount": 2,
@@ -142,7 +142,7 @@
         },
         {
           "section": "N/A",
-          "row": "M",
+          "row": "N",
           "price": 114,
           "ticketCount": 4,
           "feesIncluded": true
@@ -195,8 +195,22 @@
         {
           "section": "N/A",
           "row": "N",
-          "price": 124,
-          "ticketCount": 4,
+          "price": 122,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 122,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 122,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -282,24 +296,10 @@
           "price": 132,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 133,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 134,
-          "ticketCount": 6,
-          "feesIncluded": true
         }
       ],
       "minPrice": 116,
-      "maxPrice": 134
+      "maxPrice": 132
     },
     {
       "title": "Lucy Dacus",
@@ -465,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T13:46:33.445Z"
+      "lastUpdated": "2025-07-09T16:54:55.525Z"
     },
     {
       "event": "Foreigner",
@@ -475,10 +475,10 @@
       "buyPrice": 116,
       "sellOn": "StubHub",
       "sellPrice": "139.20",
-      "minTicketCount": 1,
+      "minTicketCount": 2,
       "profitPerTicket": "23.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T13:46:33.445Z"
+      "lastUpdated": "2025-07-09T16:54:55.525Z"
     },
     {
       "event": "Lucy Dacus",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "8.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-09T13:46:33.445Z"
+      "lastUpdated": "2025-07-09T16:54:55.525Z"
     }
   ]
 }
