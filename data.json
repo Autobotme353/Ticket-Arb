@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-10T16:57:00.786Z",
+  "scrapedAt": "2025-07-10T20:42:35.214Z",
   "vividSeats": [
     {
       "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
@@ -10,15 +10,43 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 3043,
+          "price": 2191,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2196,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2265,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 2620,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
-          "price": 3078,
-          "ticketCount": 5,
+          "price": 2851,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 2877,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -44,13 +72,6 @@
         },
         {
           "section": "N/A",
-          "row": "VIP",
-          "price": 3419,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "3 DAY..",
           "price": 3455,
           "ticketCount": 4,
@@ -66,14 +87,7 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 7547,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 8058,
+          "price": 7216,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -94,7 +108,7 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 702,
+          "price": 692,
           "ticketCount": 1,
           "feesIncluded": true
         },
@@ -132,9 +146,16 @@
           "price": 850,
           "ticketCount": 6,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP 1",
+          "price": 4836,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 702,
+      "minPrice": 692,
       "maxPrice": 10474
     },
     {
@@ -166,7 +187,7 @@
         },
         {
           "section": "Section 416",
-          "row": "8",
+          "row": "10",
           "price": 238,
           "ticketCount": 8,
           "feesIncluded": true
@@ -196,40 +217,33 @@
           "section": "Section 416",
           "row": "20",
           "price": 238,
-          "ticketCount": 4,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "18",
           "price": 238,
-          "ticketCount": 6,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "16",
           "price": 238,
-          "ticketCount": 8,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "14",
           "price": 238,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "12",
-          "price": 238,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
-          "row": "10",
+          "row": "12",
           "price": 238,
           "ticketCount": 6,
           "feesIncluded": true
@@ -238,14 +252,28 @@
           "section": "Section 416",
           "row": "6",
           "price": 238,
-          "ticketCount": 2,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "4",
           "price": 238,
-          "ticketCount": 4,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "12",
+          "price": 241,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "10",
+          "price": 241,
+          "ticketCount": 12,
           "feesIncluded": true
         },
         {
@@ -263,29 +291,22 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 319",
-          "row": "2",
-          "price": 248,
-          "ticketCount": 2,
+          "section": "Section 416",
+          "row": "24",
+          "price": 244,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "4",
-          "price": 248,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "2",
-          "price": 248,
-          "ticketCount": 10,
+          "price": 244,
+          "ticketCount": 6,
           "feesIncluded": true
         }
       ],
       "minPrice": 231,
-      "maxPrice": 248
+      "maxPrice": 244
     },
     {
       "title": "Billie Eilish",
@@ -318,13 +339,6 @@
           "section": "N/A",
           "row": "14",
           "price": 306,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 307,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -432,6 +446,13 @@
           "price": 321,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 321,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 304,
@@ -445,13 +466,13 @@
       "date": "Fri Aug 1•11:59 AM+3 Dates",
       "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 702,
+      "buyPrice": 692,
       "sellOn": "StubHub",
-      "sellPrice": "842.40",
+      "sellPrice": "830.40",
       "minTicketCount": 1,
-      "profitPerTicket": "140.40",
+      "profitPerTicket": "138.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T16:57:00.786Z"
+      "lastUpdated": "2025-07-10T20:42:35.214Z"
     },
     {
       "event": "Morgan Wallen",
@@ -464,7 +485,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "46.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T16:57:00.786Z"
+      "lastUpdated": "2025-07-10T20:42:35.214Z"
     },
     {
       "event": "Billie Eilish",
@@ -477,7 +498,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "60.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T16:57:00.786Z"
+      "lastUpdated": "2025-07-10T20:42:35.214Z"
     }
   ]
 }
