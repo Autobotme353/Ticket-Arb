@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-10T20:42:35.214Z",
+  "scrapedAt": "2025-07-11T08:54:53.396Z",
   "vividSeats": [
     {
       "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
@@ -17,15 +17,15 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 2196,
-          "ticketCount": 4,
+          "price": 2213,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 2265,
-          "ticketCount": 6,
+          "row": "VIP",
+          "price": 2281,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -60,13 +60,6 @@
           "section": "N/A",
           "row": "GA",
           "price": 3307,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 3364,
           "ticketCount": 13,
           "feesIncluded": true
         },
@@ -108,7 +101,14 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 692,
+          "price": 687,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 702,
           "ticketCount": 1,
           "feesIncluded": true
         },
@@ -155,7 +155,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 692,
+      "minPrice": 687,
       "maxPrice": 10474
     },
     {
@@ -187,7 +187,7 @@
         },
         {
           "section": "Section 416",
-          "row": "10",
+          "row": "12",
           "price": 238,
           "ticketCount": 8,
           "feesIncluded": true
@@ -203,7 +203,7 @@
           "section": "Section 416",
           "row": "24",
           "price": 238,
-          "ticketCount": 4,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -224,7 +224,7 @@
           "section": "Section 416",
           "row": "18",
           "price": 238,
-          "ticketCount": 8,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -243,9 +243,16 @@
         },
         {
           "section": "Section 416",
-          "row": "12",
+          "row": "10",
           "price": 238,
-          "ticketCount": 6,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "8",
+          "price": 238,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -253,27 +260,6 @@
           "row": "6",
           "price": 238,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "4",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "12",
-          "price": 241,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "10",
-          "price": 241,
-          "ticketCount": 12,
           "feesIncluded": true
         },
         {
@@ -292,21 +278,35 @@
         },
         {
           "section": "Section 416",
-          "row": "24",
+          "row": "22",
           "price": 244,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "Section 416",
-          "row": "4",
-          "price": 244,
-          "ticketCount": 6,
+          "section": "Section 414",
+          "row": "18",
+          "price": 245,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 415",
+          "row": "28",
+          "price": 245,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "2",
+          "price": 248,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
       "minPrice": 231,
-      "maxPrice": 244
+      "maxPrice": 248
     },
     {
       "title": "Billie Eilish",
@@ -314,13 +314,6 @@
       "venue": "Chase Center",
       "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 304,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
         {
           "section": "N/A",
           "row": "11",
@@ -337,21 +330,21 @@
         },
         {
           "section": "N/A",
-          "row": "14",
+          "row": "21",
           "price": 306,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
-          "price": 310,
+          "row": "14",
+          "price": 308,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
+          "row": "16",
           "price": 310,
           "ticketCount": 2,
           "feesIncluded": true
@@ -365,8 +358,15 @@
         },
         {
           "section": "N/A",
+          "row": "21",
+          "price": 312,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "14",
-          "price": 313,
+          "price": 314,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -421,6 +421,20 @@
         },
         {
           "section": "N/A",
+          "row": "7",
+          "price": 318,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 318,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "16",
           "price": 318,
           "ticketCount": 2,
@@ -436,27 +450,13 @@
         {
           "section": "N/A",
           "row": "14",
-          "price": 319,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 321,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 321,
+          "price": 320,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 304,
-      "maxPrice": 321
+      "minPrice": 305,
+      "maxPrice": 320
     }
   ],
   "stubHub": [],
@@ -466,13 +466,13 @@
       "date": "Fri Aug 1•11:59 AM+3 Dates",
       "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 692,
+      "buyPrice": 687,
       "sellOn": "StubHub",
-      "sellPrice": "830.40",
+      "sellPrice": "824.40",
       "minTicketCount": 1,
-      "profitPerTicket": "138.40",
+      "profitPerTicket": "137.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T20:42:35.214Z"
+      "lastUpdated": "2025-07-11T08:54:53.396Z"
     },
     {
       "event": "Morgan Wallen",
@@ -485,20 +485,20 @@
       "minTicketCount": 2,
       "profitPerTicket": "46.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T20:42:35.214Z"
+      "lastUpdated": "2025-07-11T08:54:53.396Z"
     },
     {
       "event": "Billie Eilish",
       "date": "Sat Nov 22•7:00 PM+1 Date",
       "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 304,
+      "buyPrice": 305,
       "sellOn": "StubHub",
-      "sellPrice": "364.80",
+      "sellPrice": "366.00",
       "minTicketCount": 2,
-      "profitPerTicket": "60.80",
+      "profitPerTicket": "61.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-10T20:42:35.214Z"
+      "lastUpdated": "2025-07-11T08:54:53.396Z"
     }
   ]
 }
