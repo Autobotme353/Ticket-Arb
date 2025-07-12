@@ -1,6 +1,504 @@
 {
-  "scrapedAt": "2025-07-12T13:36:25.989Z",
-  "vividSeats": [],
+  "scrapedAt": "2025-07-12T16:49:16.656Z",
+  "vividSeats": [
+    {
+      "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
+      "url": "https://www.vividseats.com/dead-and-company-tickets-san-francisco-golden-gate-park-8-1-2025--concerts-rock/production/5773854",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2168,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2191,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2208,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 2620,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GENER..",
+          "price": 2763,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2851,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 2877,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "FIELD",
+          "price": 3243,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 3307,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3 DAY..",
+          "price": 3455,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3 DAY",
+          "price": 4103,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 7216,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GOLDE..",
+          "price": 9440,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 10474,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 687,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 697,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 741,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 745,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 755,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 850,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP 1",
+          "price": 4836,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 687,
+      "maxPrice": 10474
+    },
+    {
+      "title": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
+      "url": "https://www.vividseats.com/morgan-wallen-tickets-santa-clara-levis-stadium-8-2-2025--concerts-country-and-folk/production/5521028",
+      "listings": [
+        {
+          "section": "Section 416",
+          "row": "27",
+          "price": 226,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "27",
+          "price": 228,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "28",
+          "price": 231,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "5",
+          "price": 233,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "19",
+          "price": 234,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "19",
+          "price": 235,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "4",
+          "price": 237,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "6W",
+          "price": 237,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "12",
+          "price": 238,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "26",
+          "price": 238,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "24",
+          "price": 238,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "22",
+          "price": 238,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "21",
+          "price": 238,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "18",
+          "price": 238,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "16",
+          "price": 238,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "14",
+          "price": 238,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "10",
+          "price": 238,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "8",
+          "price": 238,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "24",
+          "price": 239,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "4",
+          "price": 244,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 226,
+      "maxPrice": 244
+    },
+    {
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 306,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 308,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 312,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 312,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 314,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 315,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 316,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 318,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 318,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 305,
+      "maxPrice": 318
+    }
+  ],
   "stubHub": [],
-  "opportunities": []
+  "opportunities": [
+    {
+      "event": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
+      "buyFrom": "VividSeats",
+      "buyPrice": 687,
+      "sellOn": "StubHub",
+      "sellPrice": "824.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "137.40",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-07-12T16:49:16.656Z"
+    },
+    {
+      "event": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
+      "buyFrom": "VividSeats",
+      "buyPrice": 226,
+      "sellOn": "StubHub",
+      "sellPrice": "271.20",
+      "minTicketCount": 1,
+      "profitPerTicket": "45.20",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-07-12T16:49:16.656Z"
+    },
+    {
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 305,
+      "sellOn": "StubHub",
+      "sellPrice": "366.00",
+      "minTicketCount": 2,
+      "profitPerTicket": "61.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-07-12T16:49:16.656Z"
+    }
+  ]
 }
