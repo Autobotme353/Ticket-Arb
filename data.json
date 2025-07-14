@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-14T13:49:43.837Z",
+  "scrapedAt": "2025-07-14T16:55:22.325Z",
   "vividSeats": [
     {
       "title": "2025 Lollapalooza - 4 Day Pass (7/31 - 8/3) (Olivia Rodrigo, Tyler The Creator, Sabrina Carpenter, Doechii)",
@@ -47,13 +47,6 @@
         },
         {
           "section": "N/A",
-          "row": "28",
-          "price": 560,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "16",
           "price": 560,
           "ticketCount": 4,
@@ -76,13 +69,6 @@
         {
           "section": "N/A",
           "row": "17",
-          "price": 561,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "25",
           "price": 561,
           "ticketCount": 4,
           "feesIncluded": true
@@ -163,10 +149,136 @@
           "price": 616,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 617,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 623,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 624,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 632,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 634,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 640,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 644,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 648,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 649,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 653,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 654,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 658,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 662,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 665,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 665,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 668,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 672,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 672,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
       "minPrice": 505,
-      "maxPrice": 616
+      "maxPrice": 672
     },
     {
       "title": "Chris Brown",
@@ -225,6 +337,13 @@
         },
         {
           "section": "N/A",
+          "row": "7",
+          "price": 284,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "3",
           "price": 286,
           "ticketCount": 2,
@@ -234,7 +353,7 @@
           "section": "N/A",
           "row": "9",
           "price": 286,
-          "ticketCount": 7,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -306,17 +425,10 @@
           "price": 291,
           "ticketCount": 3,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 292,
-          "ticketCount": 6,
-          "feesIncluded": true
         }
       ],
       "minPrice": 0,
-      "maxPrice": 292
+      "maxPrice": 291
     }
   ],
   "stubHub": [],
@@ -332,7 +444,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "144.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-14T13:49:43.836Z"
+      "lastUpdated": "2025-07-14T16:55:22.325Z"
     },
     {
       "event": "Oasis with Cage The Elephant",
@@ -345,7 +457,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "101.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-14T13:49:43.837Z"
+      "lastUpdated": "2025-07-14T16:55:22.325Z"
     },
     {
       "event": "Chris Brown",
@@ -358,7 +470,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "0.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-14T13:49:43.837Z"
+      "lastUpdated": "2025-07-14T16:55:22.325Z"
     }
   ]
 }
