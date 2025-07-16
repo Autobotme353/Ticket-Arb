@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-16T16:56:54.830Z",
+  "scrapedAt": "2025-07-16T20:45:23.825Z",
   "vividSeats": [
     {
       "title": "Tyler Childers",
@@ -25,7 +25,7 @@
           "section": "N/A",
           "row": "L",
           "price": 155,
-          "ticketCount": 6,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -47,6 +47,13 @@
           "row": "Q",
           "price": 165,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 165,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -114,6 +121,13 @@
         },
         {
           "section": "N/A",
+          "row": "L",
+          "price": 170,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "P",
           "price": 170,
           "ticketCount": 6,
@@ -132,24 +146,10 @@
           "price": 171,
           "ticketCount": 6,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 171,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 172,
-          "ticketCount": 6,
-          "feesIncluded": true
         }
       ],
       "minPrice": 114,
-      "maxPrice": 172
+      "maxPrice": 171
     },
     {
       "title": "Hozier",
@@ -425,10 +425,122 @@
           "price": 263,
           "ticketCount": 3,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "T",
+          "price": 268,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "HH",
+          "price": 274,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GG",
+          "price": 277,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 295,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "JJ",
+          "price": 296,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "LL",
+          "price": 297,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 300,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 302,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 304,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 317,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 330,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 341,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "EE",
+          "price": 341,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "DD",
+          "price": 341,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 370,
+          "ticketCount": 3,
+          "feesIncluded": true
         }
       ],
       "minPrice": 158,
-      "maxPrice": 263
+      "maxPrice": 370
     }
   ],
   "stubHub": [],
@@ -444,7 +556,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "22.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-16T16:56:54.830Z"
+      "lastUpdated": "2025-07-16T20:45:23.824Z"
     },
     {
       "event": "Hozier",
@@ -457,7 +569,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "13.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-16T16:56:54.830Z"
+      "lastUpdated": "2025-07-16T20:45:23.825Z"
     },
     {
       "event": "Cynthia Erivo",
@@ -470,7 +582,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "31.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-16T16:56:54.830Z"
+      "lastUpdated": "2025-07-16T20:45:23.825Z"
     }
   ]
 }
