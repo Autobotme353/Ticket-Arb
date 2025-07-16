@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-15T20:44:56.912Z",
+  "scrapedAt": "2025-07-16T13:53:26.100Z",
   "vividSeats": [
     {
       "title": "Morgan Wallen",
@@ -7,13 +7,6 @@
       "venue": "Levi's Stadium",
       "url": "https://www.vividseats.com/morgan-wallen-tickets-santa-clara-levis-stadium-8-2-2025--concerts-country-and-folk/production/5521028",
       "listings": [
-        {
-          "section": "Section 416",
-          "row": "19",
-          "price": 218,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
         {
           "section": "Section 416",
           "row": "27",
@@ -39,7 +32,7 @@
           "section": "Section 416",
           "row": "10",
           "price": 222,
-          "ticketCount": 6,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
@@ -66,6 +59,13 @@
         {
           "section": "Section 416",
           "row": "19",
+          "price": 233,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "19",
           "price": 234,
           "ticketCount": 6,
           "feesIncluded": true
@@ -79,37 +79,30 @@
         },
         {
           "section": "Section 416",
-          "row": "14",
-          "price": 238,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
           "row": "28",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 416",
-          "row": "24",
-          "price": 238,
+          "price": 237,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
           "row": "20",
-          "price": 238,
+          "price": 237,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
-          "row": "16",
-          "price": 238,
+          "row": "18",
+          "price": 237,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "16",
+          "price": 237,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -122,14 +115,14 @@
         {
           "section": "Section 416",
           "row": "16",
-          "price": 241,
-          "ticketCount": 12,
+          "price": 239,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "Section 416",
-          "row": "24",
-          "price": 244,
+          "row": "10",
+          "price": 241,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -142,13 +135,20 @@
         },
         {
           "section": "Section 416",
+          "row": "16",
+          "price": 248,
+          "ticketCount": 18,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
           "row": "14",
           "price": 248,
-          "ticketCount": 20,
+          "ticketCount": 16,
           "feesIncluded": true
         }
       ],
-      "minPrice": 218,
+      "minPrice": 219,
       "maxPrice": 248
     },
     {
@@ -251,7 +251,7 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 671,
+          "price": 665,
           "ticketCount": 1,
           "feesIncluded": true
         },
@@ -266,14 +266,14 @@
           "section": "N/A",
           "row": "GA",
           "price": 698,
-          "ticketCount": 2,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
-          "price": 698,
-          "ticketCount": 6,
+          "price": 715,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -291,7 +291,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 671,
+      "minPrice": 665,
       "maxPrice": 10474
     },
     {
@@ -452,26 +452,26 @@
       "date": "Sat Aug 2•5:30 PM+1 Date",
       "venue": "Levi's Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 218,
+      "buyPrice": 219,
       "sellOn": "StubHub",
-      "sellPrice": "261.60",
+      "sellPrice": "262.80",
       "minTicketCount": 2,
-      "profitPerTicket": "43.60",
+      "profitPerTicket": "43.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-15T20:44:56.911Z"
+      "lastUpdated": "2025-07-16T13:53:26.099Z"
     },
     {
       "event": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
       "date": "Fri Aug 1•11:59 AM+3 Dates",
       "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 671,
+      "buyPrice": 665,
       "sellOn": "StubHub",
-      "sellPrice": "805.20",
+      "sellPrice": "798.00",
       "minTicketCount": 1,
-      "profitPerTicket": "134.20",
+      "profitPerTicket": "133.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-15T20:44:56.912Z"
+      "lastUpdated": "2025-07-16T13:53:26.100Z"
     },
     {
       "event": "Billie Eilish",
@@ -484,7 +484,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "58.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-15T20:44:56.912Z"
+      "lastUpdated": "2025-07-16T13:53:26.100Z"
     }
   ]
 }
