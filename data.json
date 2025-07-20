@@ -1,588 +1,518 @@
 {
-  "scrapedAt": "2025-07-20T13:41:45.174Z",
+  "scrapedAt": "2025-07-20T16:50:49.907Z",
   "vividSeats": [
     {
-      "title": "Tyler Childers",
-      "date": "Sat Sep 27•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/tyler-childers-tickets-bristow-jiffy-lube-live-9-25-2025--concerts-country-and-folk/production/5359502",
+      "title": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
+      "url": "https://www.vividseats.com/morgan-wallen-tickets-santa-clara-levis-stadium-8-2-2025--concerts-country-and-folk/production/5521028",
       "listings": [
         {
-          "section": "N/A",
-          "row": "GA",
-          "price": 114,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 144,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 154,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 155,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 160,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 161,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 163,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 165,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 165,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 166,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 166,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 166,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 167,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 168,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 168,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 169,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 169,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 169,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 169,
-          "ticketCount": 4,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 114,
-      "maxPrice": 169
-    },
-    {
-      "title": "Hozier",
-      "date": "Tue Sep 16•8:00 PM+1 Date",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/hozier-tickets-bristow-jiffy-lube-live-9-16-2025--concerts-rock/production/5534331",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 74,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 77,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 79,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 79,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 79,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 79,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 79,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 80,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 82,
+          "section": "Section 417",
+          "row": "27",
+          "price": 233,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "H",
-          "price": 82,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 82,
+          "section": "Section 416",
+          "row": "19",
+          "price": 234,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "P",
-          "price": 82,
-          "ticketCount": 8,
+          "section": "Section 416",
+          "row": "19",
+          "price": 235,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "E",
-          "price": 83,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 83,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 83,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 84,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 84,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 84,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 84,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 74,
-      "maxPrice": 84
-    },
-    {
-      "title": "Cynthia Erivo",
-      "date": "Sun Sep 7•7:00 PM+1 Date",
-      "venue": "Filene Center at Wolf Trap",
-      "url": "https://www.vividseats.com/cynthia-erivo-tickets-vienna-filene-center-at-wolf-trap-9-7-2025--concerts-pop/production/5558163",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 158,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 169,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 178,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 207,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 210,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "PP",
-          "price": 210,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "KK",
-          "price": 214,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "DD",
-          "price": 217,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "MM",
-          "price": 223,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "NN",
-          "price": 229,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "FF",
-          "price": 229,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "QQ",
-          "price": 229,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GG",
+          "section": "Section 417",
+          "row": "7",
           "price": 238,
-          "ticketCount": 4,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 239,
-          "ticketCount": 2,
+          "section": "Section 417",
+          "row": "9",
+          "price": 240,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "CC",
-          "price": 239,
+          "section": "Section 417",
+          "row": "5",
+          "price": 240,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "5",
+          "price": 244,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "HH",
+          "section": "Section 416",
+          "row": "8",
           "price": 245,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "K",
+          "section": "Section 416",
+          "row": "15",
+          "price": 248,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "3",
+          "price": 248,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "2",
+          "price": 251,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "10",
+          "price": 253,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "21",
           "price": 255,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "MM",
-          "price": 263,
+          "section": "Section 417",
+          "row": "3",
+          "price": 255,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "3",
+          "price": 255,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 415",
+          "row": "28",
+          "price": 256,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "3",
+          "price": 259,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "T",
-          "price": 272,
+          "section": "Section 415",
+          "row": "19",
+          "price": 264,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
+          "section": "Section 415",
+          "row": "26",
+          "price": 265,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 222",
+          "row": "23",
+          "price": 268,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 233,
+      "maxPrice": 268
+    },
+    {
+      "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
+      "url": "https://www.vividseats.com/dead-and-company-tickets-san-francisco-golden-gate-park-8-1-2025--concerts-rock/production/5773854",
+      "listings": [
+        {
           "section": "N/A",
-          "row": "HH",
-          "price": 274,
+          "row": "GA",
+          "price": 2040,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GG",
-          "price": 277,
+          "row": "GA",
+          "price": 2074,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2096,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 2103,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 295,
+          "row": "VIP",
+          "price": 2394,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GENER..",
+          "price": 2463,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3 DAY..",
+          "price": 2585,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "JJ",
-          "price": 296,
+          "row": "1",
+          "price": 2905,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "LL",
-          "price": 297,
+          "row": "FIELD",
+          "price": 3243,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 3339,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3 DAY",
+          "price": 4144,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 6799,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 300,
+          "row": "GOLDE..",
+          "price": 9533,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 10576,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 302,
+          "row": "SVIP",
+          "price": 15985,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 676,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "R",
+          "row": "GA",
+          "price": 693,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 705,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 734,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 807,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 827,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 2771,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP 1",
+          "price": 4883,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 676,
+      "maxPrice": 15985
+    },
+    {
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 282,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 290,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 292,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 298,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 298,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 298,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
           "price": 304,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": 317,
+          "row": "14",
+          "price": 304,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 322,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 330,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "S",
-          "price": 341,
+          "row": "13",
+          "price": 306,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "EE",
-          "price": 341,
-          "ticketCount": 8,
+          "row": "14",
+          "price": 308,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "DD",
-          "price": 341,
-          "ticketCount": 3,
+          "row": "12",
+          "price": 308,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 370,
-          "ticketCount": 3,
+          "row": "21",
+          "price": 309,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 310,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 313,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 315,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 316,
+          "ticketCount": 1,
           "feesIncluded": true
         }
       ],
-      "minPrice": 158,
-      "maxPrice": 370
+      "minPrice": 282,
+      "maxPrice": 316
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Tyler Childers",
-      "date": "Sat Sep 27•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 114,
+      "buyPrice": 233,
       "sellOn": "StubHub",
-      "sellPrice": "136.80",
+      "sellPrice": "279.60",
       "minTicketCount": 2,
-      "profitPerTicket": "22.80",
+      "profitPerTicket": "46.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-20T13:41:45.174Z"
+      "lastUpdated": "2025-07-20T16:50:49.906Z"
     },
     {
-      "event": "Hozier",
-      "date": "Tue Sep 16•8:00 PM+1 Date",
-      "venue": "Jiffy Lube Live",
+      "event": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 74,
+      "buyPrice": 676,
       "sellOn": "StubHub",
-      "sellPrice": "88.80",
-      "minTicketCount": 2,
-      "profitPerTicket": "14.80",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-20T13:41:45.174Z"
-    },
-    {
-      "event": "Cynthia Erivo",
-      "date": "Sun Sep 7•7:00 PM+1 Date",
-      "venue": "Filene Center at Wolf Trap",
-      "buyFrom": "VividSeats",
-      "buyPrice": 158,
-      "sellOn": "StubHub",
-      "sellPrice": "189.60",
+      "sellPrice": "811.20",
       "minTicketCount": 1,
-      "profitPerTicket": "31.60",
+      "profitPerTicket": "135.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-20T13:41:45.174Z"
+      "lastUpdated": "2025-07-20T16:50:49.906Z"
+    },
+    {
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 282,
+      "sellOn": "StubHub",
+      "sellPrice": "338.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "56.40",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-07-20T16:50:49.906Z"
     }
   ]
 }
