@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-22T16:57:07.557Z",
+  "scrapedAt": "2025-07-22T20:44:44.285Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -100,13 +100,6 @@
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 118,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "O",
           "price": 119,
           "ticketCount": 4,
@@ -146,10 +139,17 @@
           "price": 125,
           "ticketCount": 1,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 126,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
       "minPrice": 113,
-      "maxPrice": 125
+      "maxPrice": 126
     },
     {
       "title": "Foreigner",
@@ -168,7 +168,7 @@
           "section": "N/A",
           "row": "O",
           "price": 97,
-          "ticketCount": 2,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -308,6 +308,13 @@
       "url": "https://www.vividseats.com/jamey-johnson-tickets-roanoke-rapids-carolina-crossroads-8-15-2025--concerts-country-and-folk/production/5811556",
       "listings": [
         {
+          "section": "Section 104",
+          "row": "C",
+          "price": 140,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
           "section": "Section 101",
           "row": "U",
           "price": 145,
@@ -331,13 +338,6 @@
         {
           "section": "Section 101",
           "row": "K",
-          "price": 148,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "I",
           "price": 148,
           "ticketCount": 6,
           "feesIncluded": true
@@ -378,9 +378,16 @@
           "feesIncluded": true
         },
         {
+          "section": "Section 104",
+          "row": "J",
+          "price": 148,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
           "section": "Section 102",
           "row": "Q",
-          "price": 198,
+          "price": 194,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -394,13 +401,13 @@
         {
           "section": "Section 103",
           "row": "Q",
-          "price": 210,
+          "price": 206,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 145,
-      "maxPrice": 210
+      "minPrice": 140,
+      "maxPrice": 206
     }
   ],
   "stubHub": [],
@@ -416,7 +423,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "22.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T16:57:07.557Z"
+      "lastUpdated": "2025-07-22T20:44:44.284Z"
     },
     {
       "event": "Foreigner",
@@ -429,20 +436,20 @@
       "minTicketCount": 2,
       "profitPerTicket": "19.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T16:57:07.557Z"
+      "lastUpdated": "2025-07-22T20:44:44.285Z"
     },
     {
       "event": "Jamey Johnson",
       "date": "Fri Aug 15•7:00 PM",
       "venue": "Carolina Crossroads",
       "buyFrom": "VividSeats",
-      "buyPrice": 145,
+      "buyPrice": 140,
       "sellOn": "StubHub",
-      "sellPrice": "174.00",
+      "sellPrice": "168.00",
       "minTicketCount": 2,
-      "profitPerTicket": "29.00",
+      "profitPerTicket": "28.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T16:57:07.557Z"
+      "lastUpdated": "2025-07-22T20:44:44.285Z"
     }
   ]
 }
