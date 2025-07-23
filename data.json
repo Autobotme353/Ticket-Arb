@@ -1,455 +1,490 @@
 {
-  "scrapedAt": "2025-07-22T20:44:44.285Z",
+  "scrapedAt": "2025-07-23T08:58:50.500Z",
   "vividSeats": [
     {
-      "title": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "title": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
+      "url": "https://www.vividseats.com/morgan-wallen-tickets-santa-clara-levis-stadium-8-2-2025--concerts-country-and-folk/production/5521028",
       "listings": [
         {
-          "section": "N/A",
-          "row": "P",
-          "price": 113,
-          "ticketCount": 6,
+          "section": "Section 418",
+          "row": "28",
+          "price": 216,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "L",
-          "price": 114,
-          "ticketCount": 4,
+          "section": "Section 418",
+          "row": "16",
+          "price": 218,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "L",
-          "price": 115,
-          "ticketCount": 4,
+          "section": "Section 418",
+          "row": "4",
+          "price": 222,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "P",
-          "price": 118,
+          "section": "Section 418",
+          "row": "26",
+          "price": 225,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "6",
+          "price": 225,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "20",
+          "price": 230,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "26",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "27",
+          "price": 233,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "5",
+          "price": 233,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "19",
+          "price": 240,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "15",
+          "price": 240,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "13",
+          "price": 240,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "11",
+          "price": 240,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "3",
+          "price": 240,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 416",
+          "row": "17",
+          "price": 241,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "16",
+          "price": 245,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "5",
+          "price": 246,
           "ticketCount": 10,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "P",
-          "price": 118,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 118,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 118,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 118,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 118,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 118,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 118,
+          "section": "Section 417",
+          "row": "25",
+          "price": 247,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "L",
-          "price": 118,
+          "section": "Section 417",
+          "row": "23",
+          "price": 247,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "L",
-          "price": 118,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 119,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 123,
+          "section": "Section 416",
+          "row": "18",
+          "price": 247,
           "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 123,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 125,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 125,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 125,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 126,
-          "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 113,
-      "maxPrice": 126
+      "minPrice": 216,
+      "maxPrice": 247
     },
     {
-      "title": "Foreigner",
-      "date": "Tue Jul 29•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/foreigner-tickets-durham-durham-performing-arts-center-7-29-2025--concerts-rock/production/5487885",
+      "title": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
+      "url": "https://www.vividseats.com/dead-and-company-tickets-san-francisco-golden-gate-park-8-1-2025--concerts-rock/production/5773854",
       "listings": [
         {
           "section": "N/A",
-          "row": "P",
-          "price": 96,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 97,
+          "row": "GA",
+          "price": 1890,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 99,
+          "row": "GA",
+          "price": 1901,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 101,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 2189,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 101,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 103,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 107,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 114,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 117,
+          "row": "VIP",
+          "price": 2283,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 119,
+          "row": "GENER..",
+          "price": 2433,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 121,
+          "row": "3 DAY..",
+          "price": 2443,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 2822,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 2905,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 122,
-          "ticketCount": 2,
+          "row": "FIELD",
+          "price": 3243,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "X",
-          "price": 123,
+          "row": "GA",
+          "price": 3339,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3 DAY",
+          "price": 4144,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 6123,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 6799,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "W",
-          "price": 126,
+          "row": "GOLDE..",
+          "price": 9533,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP",
+          "price": 10576,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "SVIP",
+          "price": 15985,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "R",
-          "price": 130,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 130,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 135,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "S",
-          "price": 135,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 149,
+          "row": "GA",
+          "price": 537,
           "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 553,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 653,
+          "ticketCount": 1,
           "feesIncluded": true
         }
       ],
-      "minPrice": 96,
-      "maxPrice": 149
+      "minPrice": 537,
+      "maxPrice": 15985
     },
     {
-      "title": "Jamey Johnson",
-      "date": "Fri Aug 15•7:00 PM",
-      "venue": "Carolina Crossroads",
-      "url": "https://www.vividseats.com/jamey-johnson-tickets-roanoke-rapids-carolina-crossroads-8-15-2025--concerts-country-and-folk/production/5811556",
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
         {
-          "section": "Section 104",
-          "row": "C",
-          "price": 140,
+          "section": "N/A",
+          "row": "12",
+          "price": 282,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "Section 101",
-          "row": "U",
-          "price": 145,
+          "section": "N/A",
+          "row": "12",
+          "price": 290,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "Section 104",
-          "row": "U",
-          "price": 145,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "F",
-          "price": 147,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "K",
-          "price": 148,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "H",
-          "price": 148,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "F",
-          "price": 148,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "E",
-          "price": 148,
+          "section": "N/A",
+          "row": "21",
+          "price": 292,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 104",
-          "row": "G",
-          "price": 148,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "G",
-          "price": 148,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "J",
-          "price": 148,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
-          "row": "Q",
-          "price": 194,
+          "section": "N/A",
+          "row": "14",
+          "price": 298,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "R",
-          "price": 198,
+          "section": "N/A",
+          "row": "21",
+          "price": 298,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 298,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 304,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 304,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 306,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 308,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 309,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 310,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "Q",
-          "price": 206,
+          "section": "N/A",
+          "row": "10",
+          "price": 314,
           "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 315,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 318,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 319,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 140,
-      "maxPrice": 206
+      "minPrice": 282,
+      "maxPrice": 319
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Morgan Wallen",
+      "date": "Sat Aug 2•5:30 PM+1 Date",
+      "venue": "Levi's Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 113,
+      "buyPrice": 216,
       "sellOn": "StubHub",
-      "sellPrice": "135.60",
+      "sellPrice": "259.20",
       "minTicketCount": 1,
-      "profitPerTicket": "22.60",
+      "profitPerTicket": "43.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T20:44:44.284Z"
+      "lastUpdated": "2025-07-23T08:58:50.499Z"
     },
     {
-      "event": "Foreigner",
-      "date": "Tue Jul 29•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Dead and Company - 3 Day Pass (8/1 - 8/3)",
+      "date": "Fri Aug 1•11:59 AM+3 Dates",
+      "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 96,
+      "buyPrice": 537,
       "sellOn": "StubHub",
-      "sellPrice": "115.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "19.20",
+      "sellPrice": "644.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "107.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T20:44:44.285Z"
+      "lastUpdated": "2025-07-23T08:58:50.500Z"
     },
     {
-      "event": "Jamey Johnson",
-      "date": "Fri Aug 15•7:00 PM",
-      "venue": "Carolina Crossroads",
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 140,
+      "buyPrice": 282,
       "sellOn": "StubHub",
-      "sellPrice": "168.00",
+      "sellPrice": "338.40",
       "minTicketCount": 2,
-      "profitPerTicket": "28.00",
+      "profitPerTicket": "56.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-22T20:44:44.285Z"
+      "lastUpdated": "2025-07-23T08:58:50.500Z"
     }
   ]
 }
