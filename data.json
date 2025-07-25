@@ -1,497 +1,497 @@
 {
-  "scrapedAt": "2025-07-25T08:29:58.960Z",
+  "scrapedAt": "2025-07-25T12:45:22.883Z",
   "vividSeats": [
     {
-      "title": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "title": "Megan Moroney",
+      "date": "Sat Aug 9•8:00 PM",
+      "venue": "Iowa State Fair",
+      "url": "https://www.vividseats.com/megan-moroney-tickets-des-moines-iowa-state-fair-8-9-2025--concerts-country-and-folk/production/5416327",
       "listings": [
         {
           "section": "N/A",
-          "row": "P",
-          "price": 111,
-          "ticketCount": 6,
+          "row": "16",
+          "price": 176,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 112,
+          "row": "30",
+          "price": 182,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 182,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 182,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 182,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 187,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 187,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 199,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 202,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 208,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 210,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 213,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "33",
+          "price": 227,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 227,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 233,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 250,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "35",
+          "price": 256,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "41",
+          "price": 258,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 262,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 262,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 176,
+      "maxPrice": 262
+    },
+    {
+      "title": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
+      "listings": [
+        {
+          "section": "Section 317",
+          "row": "Q",
+          "price": 234,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "Q",
+          "price": 240,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "Q",
+          "price": 240,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "P",
+          "price": 241,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 304",
+          "row": "N",
+          "price": 242,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "N",
+          "price": 246,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 304",
+          "row": "L",
+          "price": 249,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "N",
+          "price": 249,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "M",
+          "price": 250,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "M",
+          "price": 250,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "Q",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "L",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "N",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "Q",
+          "price": 251,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "M",
+          "price": 253,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "L",
+          "price": 253,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "J",
+          "price": 255,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 302",
+          "row": "K",
+          "price": 256,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "L",
+          "price": 256,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "H",
+          "price": 256,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 234,
+      "maxPrice": 256
+    },
+    {
+      "title": "Forrest Frank",
+      "date": "Thu Aug 7•8:00 PM",
+      "venue": "Iowa State Fair",
+      "url": "https://www.vividseats.com/forrest-frank-tickets-des-moines-iowa-state-fair-8-7-2025--concerts-pop/production/5416326",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 135,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 112,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 115,
+          "row": "29",
+          "price": 135,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 115,
+          "row": "30",
+          "price": 135,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 136,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 118,
-          "ticketCount": 10,
+          "row": "24",
+          "price": 136,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 118,
-          "ticketCount": 10,
+          "row": "27",
+          "price": 137,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 118,
-          "ticketCount": 12,
+          "row": "21",
+          "price": 138,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 118,
-          "ticketCount": 7,
+          "row": "20",
+          "price": 139,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 118,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 118,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 118,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 118,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 118,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 118,
+          "row": "22",
+          "price": 140,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 118,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 119,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 121,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 123,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 123,
+          "row": "27",
+          "price": 140,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 140,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 140,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "31",
+          "price": 141,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 143,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 144,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 144,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 145,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 145,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 146,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 146,
+          "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 111,
-      "maxPrice": 123
-    },
-    {
-      "title": "Foreigner",
-      "date": "Tue Jul 29•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/foreigner-tickets-durham-durham-performing-arts-center-7-29-2025--concerts-rock/production/5487885",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 84,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 86,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 89,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 90,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 91,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 94,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 95,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 96,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 98,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": 105,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 107,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 107,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 108,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 109,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "S",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 112,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 115,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 84,
-      "maxPrice": 115
-    },
-    {
-      "title": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 128,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 128,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 128,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 130,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 132,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 142,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 147,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 153,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 161,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 163,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 163,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 164,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 173,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 174,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 176,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 176,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 179,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 181,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 181,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 182,
-          "ticketCount": 10,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 128,
-      "maxPrice": 182
+      "minPrice": 135,
+      "maxPrice": 146
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Megan Moroney",
+      "date": "Sat Aug 9•8:00 PM",
+      "venue": "Iowa State Fair",
       "buyFrom": "VividSeats",
-      "buyPrice": 111,
+      "buyPrice": 176,
       "sellOn": "StubHub",
-      "sellPrice": "133.20",
+      "sellPrice": "211.20",
       "minTicketCount": 1,
-      "profitPerTicket": "22.20",
+      "profitPerTicket": "35.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T08:29:58.959Z"
+      "lastUpdated": "2025-07-25T12:45:22.883Z"
     },
     {
-      "event": "Foreigner",
-      "date": "Tue Jul 29•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 84,
+      "buyPrice": 234,
       "sellOn": "StubHub",
-      "sellPrice": "100.80",
-      "minTicketCount": 1,
-      "profitPerTicket": "16.80",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T08:29:58.960Z"
-    },
-    {
-      "event": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "buyFrom": "VividSeats",
-      "buyPrice": 128,
-      "sellOn": "StubHub",
-      "sellPrice": "153.60",
+      "sellPrice": "280.80",
       "minTicketCount": 2,
-      "profitPerTicket": "25.60",
+      "profitPerTicket": "46.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T08:29:58.960Z"
+      "lastUpdated": "2025-07-25T12:45:22.883Z"
+    },
+    {
+      "event": "Forrest Frank",
+      "date": "Thu Aug 7•8:00 PM",
+      "venue": "Iowa State Fair",
+      "buyFrom": "VividSeats",
+      "buyPrice": 135,
+      "sellOn": "StubHub",
+      "sellPrice": "162.00",
+      "minTicketCount": 2,
+      "profitPerTicket": "27.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-07-25T12:45:22.883Z"
     }
   ]
 }
