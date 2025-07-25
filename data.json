@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-25T12:45:22.883Z",
+  "scrapedAt": "2025-07-25T16:28:19.700Z",
   "vividSeats": [
     {
       "title": "Megan Moroney",
@@ -158,13 +158,6 @@
       "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
       "listings": [
         {
-          "section": "Section 317",
-          "row": "Q",
-          "price": 234,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
           "section": "Section 318",
           "row": "Q",
           "price": 240,
@@ -235,6 +228,13 @@
           "feesIncluded": true
         },
         {
+          "section": "Section 313",
+          "row": "N",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
           "section": "Section 310",
           "row": "L",
           "price": 251,
@@ -258,7 +258,7 @@
         {
           "section": "Section 313",
           "row": "M",
-          "price": 253,
+          "price": 252,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -298,7 +298,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 234,
+      "minPrice": 240,
       "maxPrice": 256
     },
     {
@@ -465,20 +465,20 @@
       "minTicketCount": 1,
       "profitPerTicket": "35.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T12:45:22.883Z"
+      "lastUpdated": "2025-07-25T16:28:19.700Z"
     },
     {
       "event": "Paul McCartney",
       "date": "Tue Oct 14•8:00 PM",
       "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 234,
+      "buyPrice": 240,
       "sellOn": "StubHub",
-      "sellPrice": "280.80",
+      "sellPrice": "288.00",
       "minTicketCount": 2,
-      "profitPerTicket": "46.80",
+      "profitPerTicket": "48.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T12:45:22.883Z"
+      "lastUpdated": "2025-07-25T16:28:19.700Z"
     },
     {
       "event": "Forrest Frank",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "27.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-25T12:45:22.883Z"
+      "lastUpdated": "2025-07-25T16:28:19.700Z"
     }
   ]
 }
