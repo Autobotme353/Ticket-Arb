@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-26T16:26:07.548Z",
+  "scrapedAt": "2025-07-26T20:23:06.564Z",
   "vividSeats": [
     {
       "title": "Chris Brown",
@@ -9,65 +9,23 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "25",
-          "price": 92,
+          "row": "29",
+          "price": 99,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "29",
-          "price": 95,
+          "price": 99,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "32",
-          "price": 97,
+          "price": 99,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 97,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "28",
-          "price": 97,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "31",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "28",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "32",
-          "price": 100,
-          "ticketCount": 7,
           "feesIncluded": true
         },
         {
@@ -75,13 +33,6 @@
           "row": "22",
           "price": 100,
           "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "32",
-          "price": 100,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -102,6 +53,34 @@
           "section": "N/A",
           "row": "32",
           "price": 102,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "32",
+          "price": 102,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "31",
+          "price": 102,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 102,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 102,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -114,22 +93,15 @@
         },
         {
           "section": "N/A",
-          "row": "31",
-          "price": 103,
-          "ticketCount": 2,
+          "row": "39",
+          "price": 104,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "29",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 103,
+          "row": "32",
+          "price": 104,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -142,14 +114,42 @@
         },
         {
           "section": "N/A",
-          "row": "39",
+          "row": "31",
           "price": 105,
-          "ticketCount": 3,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 105,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 105,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 105,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 106,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 92,
-      "maxPrice": 105
+      "minPrice": 99,
+      "maxPrice": 106
     },
     {
       "title": "Chris Stapleton",
@@ -189,13 +189,6 @@
           "section": "N/A",
           "row": "F",
           "price": 153,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 168,
           "ticketCount": 1,
           "feesIncluded": true
         },
@@ -271,13 +264,6 @@
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 196,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "S",
           "price": 201,
           "ticketCount": 4,
@@ -289,10 +275,24 @@
           "price": 203,
           "ticketCount": 4,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "U",
+          "price": 206,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 207,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 135,
-      "maxPrice": 203
+      "maxPrice": 207
     },
     {
       "title": "Billie Eilish",
@@ -312,20 +312,6 @@
           "row": "14",
           "price": 234,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 236,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 236,
-          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -358,6 +344,13 @@
         },
         {
           "section": "N/A",
+          "row": "12",
+          "price": 241,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "8",
           "price": 242,
           "ticketCount": 1,
@@ -372,7 +365,7 @@
         },
         {
           "section": "N/A",
-          "row": "11",
+          "row": "14",
           "price": 244,
           "ticketCount": 2,
           "feesIncluded": true
@@ -382,13 +375,6 @@
           "row": "9",
           "price": 244,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 245,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -422,15 +408,8 @@
         {
           "section": "N/A",
           "row": "14",
-          "price": 246,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
           "price": 247,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -439,10 +418,31 @@
           "price": 248,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 249,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 250,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 229,
-      "maxPrice": 248
+      "maxPrice": 251
     }
   ],
   "stubHub": [],
@@ -452,13 +452,13 @@
       "date": "Thu Sep 11•7:00 PM",
       "venue": "Chase Field",
       "buyFrom": "VividSeats",
-      "buyPrice": 92,
+      "buyPrice": 99,
       "sellOn": "StubHub",
-      "sellPrice": "110.40",
+      "sellPrice": "118.80",
       "minTicketCount": 2,
-      "profitPerTicket": "18.40",
+      "profitPerTicket": "19.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-26T16:26:07.548Z"
+      "lastUpdated": "2025-07-26T20:23:06.564Z"
     },
     {
       "event": "Chris Stapleton",
@@ -471,7 +471,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "27.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-26T16:26:07.548Z"
+      "lastUpdated": "2025-07-26T20:23:06.564Z"
     },
     {
       "event": "Billie Eilish",
@@ -484,7 +484,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "45.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-26T16:26:07.548Z"
+      "lastUpdated": "2025-07-26T20:23:06.564Z"
     }
   ]
 }
