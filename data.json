@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-07-27T08:27:28.527Z",
+  "scrapedAt": "2025-07-27T12:42:38.650Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -465,7 +465,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "22.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-27T08:27:28.527Z"
+      "lastUpdated": "2025-07-27T12:42:38.650Z"
     },
     {
       "event": "Foreigner",
@@ -478,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "9.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-27T08:27:28.527Z"
+      "lastUpdated": "2025-07-27T12:42:38.650Z"
     },
     {
       "event": "Diana Ross",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "25.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-07-27T08:27:28.527Z"
+      "lastUpdated": "2025-07-27T12:42:38.650Z"
     }
   ]
 }
