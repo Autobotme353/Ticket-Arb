@@ -1,511 +1,490 @@
 {
-  "scrapedAt": "2025-08-01T20:24:33.143Z",
+  "scrapedAt": "2025-08-02T08:27:31.420Z",
   "vividSeats": [
     {
-      "title": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "title": "Morgan Wallen",
+      "date": "Sat Aug 2•5:15 PM",
+      "venue": "Levi's Stadium",
+      "url": "https://www.vividseats.com/morgan-wallen-tickets-santa-clara-levis-stadium-8-2-2025--concerts-country-and-folk/production/5521028",
+      "listings": [
+        {
+          "section": "Section 224",
+          "row": "19",
+          "price": 240,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 131",
+          "row": "28",
+          "price": 252,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "7",
+          "price": 263,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 132",
+          "row": "3",
+          "price": 269,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "18",
+          "price": 285,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 418",
+          "row": "7",
+          "price": 296,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 223",
+          "row": "2",
+          "price": 299,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 417",
+          "row": "16",
+          "price": 299,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 131",
+          "row": "32",
+          "price": 299,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 131",
+          "row": "20",
+          "price": 299,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 123",
+          "row": "18",
+          "price": 299,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 131",
+          "row": "26",
+          "price": 299,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 131",
+          "row": "36",
+          "price": 299,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 224",
+          "row": "21",
+          "price": 299,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 223",
+          "row": "15",
+          "price": 299,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "2",
+          "price": 301,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "3",
+          "price": 302,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "6",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 223",
+          "row": "13",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 122",
+          "row": "17",
+          "price": 323,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 240,
+      "maxPrice": 323
+    },
+    {
+      "title": "Dead and Company",
+      "date": "Sat Aug 2•4:00 PM+1 Date",
+      "venue": "Golden Gate Park",
+      "url": "https://www.vividseats.com/dead-and-company-tickets-san-francisco-golden-gate-park-8-2-2025--concerts-rock/production/5751641",
       "listings": [
         {
           "section": "N/A",
-          "row": "P",
-          "price": 114,
+          "row": "1",
+          "price": 559,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 575,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 115,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 116,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 119,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 119,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 119,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 119,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 119,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 119,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 119,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 119,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 119,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 119,
+          "row": "GA",
+          "price": 576,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 120,
+          "row": "ANY",
+          "price": 867,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 121,
+          "row": "GA",
+          "price": 1943,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 121,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 124,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 125,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 129,
+          "row": "2",
+          "price": 2049,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 134,
-          "ticketCount": 2,
+          "row": "1",
+          "price": 2075,
+          "ticketCount": 1,
           "feesIncluded": true
-        }
-      ],
-      "minPrice": 114,
-      "maxPrice": 134
-    },
-    {
-      "title": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
-      "listings": [
+        },
         {
           "section": "N/A",
-          "row": "L",
+          "row": "GA",
           "price": 132,
-          "ticketCount": 6,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 134,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
+          "row": "GA",
           "price": 135,
-          "ticketCount": 4,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 136,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 139,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
+          "row": "GA",
           "price": 143,
-          "ticketCount": 8,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
+          "row": "GA",
           "price": 146,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 150,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 154,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 154,
+          "row": "GENER..",
+          "price": 153,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 159,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 168,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 154,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 155,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 158,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 165,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 166,
+          "row": "GA",
+          "price": 175,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 170,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 170,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 171,
+          "row": "GA",
+          "price": 177,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 175,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 178,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 132,
-      "maxPrice": 178
-    },
-    {
-      "title": "Alabama",
-      "date": "Sat Sep 13•7:00 PM",
-      "venue": "Carolina Crossroads",
-      "url": "https://www.vividseats.com/alabama-tickets-roanoke-rapids-carolina-crossroads-9-13-2025--concerts-country-and-folk/production/5858098",
-      "listings": [
-        {
-          "section": "Section 104",
-          "row": "D",
-          "price": 224,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 103",
-          "row": "DD",
-          "price": 229,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
-          "row": "DD",
-          "price": 229,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "DD",
-          "price": 229,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "DD",
-          "price": 229,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
-          "row": "P",
-          "price": 231,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "J",
-          "price": 231,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
-          "row": "V",
+          "row": "GA",
           "price": 234,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "Q",
-          "price": 246,
+          "section": "N/A",
+          "row": "GA",
+          "price": 240,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 263,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 132,
+      "maxPrice": 2075
+    },
+    {
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 304,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 104",
-          "row": "DD",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "15",
+          "price": 304,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 101",
-          "row": "H",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "21",
+          "price": 311,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "U",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "19",
+          "price": 315,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "Section 101",
-          "row": "M",
-          "price": 246,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "G",
-          "price": 246,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
-          "row": "Q",
-          "price": 246,
+          "section": "N/A",
+          "row": "19",
+          "price": 322,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "Section 101",
-          "row": "DD",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "13",
+          "price": 325,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "S",
-          "price": 246,
+          "section": "N/A",
+          "row": "18",
+          "price": 326,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "Section 102",
-          "row": "S",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "16",
+          "price": 327,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 101",
-          "row": "E",
-          "price": 246,
-          "ticketCount": 4,
+          "section": "N/A",
+          "row": "19",
+          "price": 327,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "V",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "19",
+          "price": 327,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 104",
-          "row": "M",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "21",
+          "price": 328,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 103",
-          "row": "DD",
-          "price": 246,
-          "ticketCount": 6,
+          "section": "N/A",
+          "row": "19",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 334,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 334,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 224,
-      "maxPrice": 246
+      "minPrice": 304,
+      "maxPrice": 334
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Morgan Wallen",
+      "date": "Sat Aug 2•5:15 PM",
+      "venue": "Levi's Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 114,
+      "buyPrice": 240,
       "sellOn": "StubHub",
-      "sellPrice": "136.80",
+      "sellPrice": "288.00",
       "minTicketCount": 1,
-      "profitPerTicket": "22.80",
+      "profitPerTicket": "48.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-01T20:24:33.143Z"
+      "lastUpdated": "2025-08-02T08:27:31.420Z"
     },
     {
-      "event": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Dead and Company",
+      "date": "Sat Aug 2•4:00 PM+1 Date",
+      "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
       "buyPrice": 132,
       "sellOn": "StubHub",
       "sellPrice": "158.40",
-      "minTicketCount": 2,
+      "minTicketCount": 1,
       "profitPerTicket": "26.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-01T20:24:33.143Z"
+      "lastUpdated": "2025-08-02T08:27:31.420Z"
     },
     {
-      "event": "Alabama",
-      "date": "Sat Sep 13•7:00 PM",
-      "venue": "Carolina Crossroads",
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 224,
+      "buyPrice": 304,
       "sellOn": "StubHub",
-      "sellPrice": "268.80",
+      "sellPrice": "364.80",
       "minTicketCount": 2,
-      "profitPerTicket": "44.80",
+      "profitPerTicket": "60.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-01T20:24:33.143Z"
+      "lastUpdated": "2025-08-02T08:27:31.420Z"
     }
   ]
 }
