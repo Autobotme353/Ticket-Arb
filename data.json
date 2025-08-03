@@ -1,37 +1,6 @@
 {
-  "scrapedAt": "2025-08-02T20:23:06.809Z",
+  "scrapedAt": "2025-08-03T08:27:25.416Z",
   "vividSeats": [
-    {
-      "title": "2025 Lollapalooza - 4 Day Pass (7/31 - 8/3) (Olivia Rodrigo, Tyler The Creator, Sabrina Carpenter, Doechii, Dom Dolla) (IN PROGRESS)",
-      "date": "Sat Aug 2•7:00 PM+2 Dates",
-      "venue": "Hutchinson Field at Grant Park",
-      "url": "https://www.vividseats.com/lollapalooza-tickets-chicago-hutchinson-field-at-grant-park-7-31-2025--concerts-music-festivals/production/5591973",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 741,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 767,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "ARTIST",
-          "price": 1788,
-          "ticketCount": 4,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 741,
-      "maxPrice": 1788
-    },
     {
       "title": "Oasis with Cage The Elephant",
       "date": "Thu Aug 28•7:30 PM",
@@ -40,134 +9,99 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "8",
-          "price": 638,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "13",
-          "price": 648,
+          "price": 677,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 651,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "26",
-          "price": 662,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "34",
-          "price": 667,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 670,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "32",
-          "price": 673,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "22",
-          "price": 675,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "25",
-          "price": 683,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 683,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
           "price": 684,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "32",
+          "price": 687,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "22",
+          "price": 689,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 697,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 697,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "34",
+          "price": 697,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 697,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "12",
-          "price": 693,
+          "price": 701,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "36",
-          "price": 693,
+          "price": 707,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "14",
-          "price": 694,
+          "price": 708,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "26",
-          "price": 700,
+          "price": 714,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "32",
-          "price": 701,
+          "price": 715,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "27",
-          "price": 702,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 718,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 718,
+          "price": 716,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -177,10 +111,45 @@
           "price": 723,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 725,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 730,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 732,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 732,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "33",
+          "price": 738,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 638,
-      "maxPrice": 723
+      "minPrice": 677,
+      "maxPrice": 738
     },
     {
       "title": "Chris Brown",
@@ -191,188 +160,338 @@
         {
           "section": "N/A",
           "row": "6",
-          "price": 282,
+          "price": 287,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "4",
-          "price": 282,
+          "price": 288,
           "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "7",
-          "price": 282,
+          "price": 288,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "6",
-          "price": 283,
+          "price": 288,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "6",
-          "price": 284,
+          "price": 289,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "8",
-          "price": 284,
+          "price": 290,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "7",
-          "price": 284,
+          "price": 290,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "6",
-          "price": 285,
+          "price": 291,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "5",
-          "price": 286,
+          "price": 292,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "5",
-          "price": 287,
+          "price": 292,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "5",
-          "price": 287,
+          "price": 293,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 288,
+          "price": 294,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "4",
-          "price": 288,
+          "price": 294,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "7",
-          "price": 288,
+          "price": 294,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 288,
+          "price": 294,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "4",
-          "price": 288,
+          "price": 294,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "5",
-          "price": 288,
+          "price": 294,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 289,
+          "price": 295,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "4",
-          "price": 289,
+          "price": 295,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "6",
-          "price": 289,
-          "ticketCount": 6,
+          "price": 295,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 282,
-      "maxPrice": 289
+      "minPrice": 287,
+      "maxPrice": 295
+    },
+    {
+      "title": "System of A Down and Avenged Sevenfold with Polyphia",
+      "date": "Sun Aug 31•5:30 PM+1 Date",
+      "venue": "Soldier Field",
+      "url": "https://www.vividseats.com/system-of-a-down-tickets-chicago-soldier-field-parking-8-31-2025--concerts-hard-rock/production/5410871",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "32",
+          "price": 183,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 184,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 187,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "34",
+          "price": 187,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 189,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 189,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 190,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 190,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 192,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "22",
+          "price": 192,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 192,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 192,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 193,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 195,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 195,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 195,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 196,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 197,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "32",
+          "price": 198,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 198,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 183,
+      "maxPrice": 198
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "2025 Lollapalooza - 4 Day Pass (7/31 - 8/3) (Olivia Rodrigo, Tyler The Creator, Sabrina Carpenter, Doechii, Dom Dolla) (IN PROGRESS)",
-      "date": "Sat Aug 2•7:00 PM+2 Dates",
-      "venue": "Hutchinson Field at Grant Park",
-      "buyFrom": "VividSeats",
-      "buyPrice": 741,
-      "sellOn": "StubHub",
-      "sellPrice": "889.20",
-      "minTicketCount": 1,
-      "profitPerTicket": "148.20",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-02T20:23:06.809Z"
-    },
-    {
       "event": "Oasis with Cage The Elephant",
       "date": "Thu Aug 28•7:30 PM",
       "venue": "Soldier Field",
       "buyFrom": "VividSeats",
-      "buyPrice": 638,
+      "buyPrice": 677,
       "sellOn": "StubHub",
-      "sellPrice": "765.60",
+      "sellPrice": "812.40",
       "minTicketCount": 2,
-      "profitPerTicket": "127.60",
+      "profitPerTicket": "135.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-02T20:23:06.809Z"
+      "lastUpdated": "2025-08-03T08:27:25.416Z"
     },
     {
       "event": "Chris Brown",
       "date": "Thu Aug 28•7:00 PM",
       "venue": "Wrigley Field",
       "buyFrom": "VividSeats",
-      "buyPrice": 282,
+      "buyPrice": 287,
       "sellOn": "StubHub",
-      "sellPrice": "338.40",
+      "sellPrice": "344.40",
       "minTicketCount": 2,
-      "profitPerTicket": "56.40",
+      "profitPerTicket": "57.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-02T20:23:06.809Z"
+      "lastUpdated": "2025-08-03T08:27:25.416Z"
+    },
+    {
+      "event": "System of A Down and Avenged Sevenfold with Polyphia",
+      "date": "Sun Aug 31•5:30 PM+1 Date",
+      "venue": "Soldier Field",
+      "buyFrom": "VividSeats",
+      "buyPrice": 183,
+      "sellOn": "StubHub",
+      "sellPrice": "219.60",
+      "minTicketCount": 1,
+      "profitPerTicket": "36.60",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-08-03T08:27:25.416Z"
     }
   ]
 }
