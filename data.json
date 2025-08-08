@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-07T20:25:25.987Z",
+  "scrapedAt": "2025-08-08T08:31:10.071Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -7,13 +7,6 @@
       "venue": "Chase Center",
       "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 305,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
         {
           "section": "N/A",
           "row": "7",
@@ -146,10 +139,17 @@
           "price": 333,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 339,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 305,
-      "maxPrice": 333
+      "minPrice": 312,
+      "maxPrice": 339
     },
     {
       "title": "Rufus Du Sol",
@@ -160,15 +160,22 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 136,
-          "ticketCount": 8,
+          "price": 134,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
           "price": 137,
-          "ticketCount": 7,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 141,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
@@ -176,13 +183,6 @@
           "row": "GA",
           "price": 143,
           "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 146,
-          "ticketCount": 12,
           "feesIncluded": true
         },
         {
@@ -208,9 +208,16 @@
         },
         {
           "section": "N/A",
+          "row": "GA",
+          "price": 273,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "1",
           "price": 276,
-          "ticketCount": 8,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -224,7 +231,7 @@
           "section": "N/A",
           "row": "GA",
           "price": 302,
-          "ticketCount": 38,
+          "ticketCount": 36,
           "feesIncluded": true
         },
         {
@@ -244,14 +251,14 @@
         {
           "section": "N/A",
           "row": "J",
-          "price": 354,
+          "price": 345,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 379,
+          "price": 362,
           "ticketCount": 1,
           "feesIncluded": true
         },
@@ -271,16 +278,16 @@
         },
         {
           "section": "N/A",
-          "row": "J",
+          "row": "T",
           "price": 396,
-          "ticketCount": 1,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "T",
-          "price": 399,
-          "ticketCount": 2,
+          "row": "J",
+          "price": 396,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
@@ -296,10 +303,115 @@
           "price": 402,
           "ticketCount": 1,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 409,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "WC",
+          "price": 417,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 431,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 442,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 458,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 467,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 470,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "T",
+          "price": 482,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 482,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R-VIP",
+          "price": 486,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 516,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 531,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 568,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "T",
+          "price": 573,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 586,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 136,
-      "maxPrice": 402
+      "minPrice": 134,
+      "maxPrice": 586
     },
     {
       "title": "Zach Bryan with Kings of Leon",
@@ -310,34 +422,34 @@
         {
           "section": "N/A",
           "row": "1",
-          "price": 2400,
+          "price": 2727,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "2",
-          "price": 2727,
+          "price": 3271,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "1",
-          "price": 2727,
+          "price": 3816,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
-          "price": 701,
+          "price": 810,
           "ticketCount": 5,
           "feesIncluded": true
         }
       ],
-      "minPrice": 701,
-      "maxPrice": 2727
+      "minPrice": 810,
+      "maxPrice": 3816
     }
   ],
   "stubHub": [],
@@ -347,39 +459,39 @@
       "date": "Sat Nov 22•7:00 PM+1 Date",
       "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 305,
+      "buyPrice": 312,
       "sellOn": "StubHub",
-      "sellPrice": "366.00",
+      "sellPrice": "374.40",
       "minTicketCount": 2,
-      "profitPerTicket": "61.00",
+      "profitPerTicket": "62.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-07T20:25:25.987Z"
+      "lastUpdated": "2025-08-08T08:31:10.071Z"
     },
     {
       "event": "Rufus Du Sol",
       "date": "Thu Aug 14•7:30 PM",
       "venue": "Shoreline Amphitheatre - CA",
       "buyFrom": "VividSeats",
-      "buyPrice": 136,
+      "buyPrice": 134,
       "sellOn": "StubHub",
-      "sellPrice": "163.20",
+      "sellPrice": "160.80",
       "minTicketCount": 1,
-      "profitPerTicket": "27.20",
+      "profitPerTicket": "26.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-07T20:25:25.987Z"
+      "lastUpdated": "2025-08-08T08:31:10.071Z"
     },
     {
       "event": "Zach Bryan with Kings of Leon",
       "date": "Fri Aug 15•3:00 PM",
       "venue": "Golden Gate Park",
       "buyFrom": "VividSeats",
-      "buyPrice": 701,
+      "buyPrice": 810,
       "sellOn": "StubHub",
-      "sellPrice": "841.20",
+      "sellPrice": "972.00",
       "minTicketCount": 2,
-      "profitPerTicket": "140.20",
+      "profitPerTicket": "162.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-07T20:25:25.987Z"
+      "lastUpdated": "2025-08-08T08:31:10.071Z"
     }
   ]
 }
