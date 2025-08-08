@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-08T08:31:10.071Z",
+  "scrapedAt": "2025-08-08T12:47:31.612Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -174,6 +174,13 @@
         {
           "section": "N/A",
           "row": "GA",
+          "price": 137,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
           "price": 141,
           "ticketCount": 1,
           "feesIncluded": true
@@ -230,7 +237,7 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 302,
+          "price": 297,
           "ticketCount": 36,
           "feesIncluded": true
         },
@@ -401,17 +408,10 @@
           "price": 573,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 586,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
       "minPrice": 134,
-      "maxPrice": 586
+      "maxPrice": 573
     },
     {
       "title": "Zach Bryan with Kings of Leon",
@@ -465,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "62.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-08T08:31:10.071Z"
+      "lastUpdated": "2025-08-08T12:47:31.611Z"
     },
     {
       "event": "Rufus Du Sol",
@@ -478,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "26.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-08T08:31:10.071Z"
+      "lastUpdated": "2025-08-08T12:47:31.612Z"
     },
     {
       "event": "Zach Bryan with Kings of Leon",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "162.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-08T08:31:10.071Z"
+      "lastUpdated": "2025-08-08T12:47:31.612Z"
     }
   ]
 }
