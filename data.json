@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-12T16:27:49.852Z",
+  "scrapedAt": "2025-08-12T20:24:27.474Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -8,9 +8,9 @@
       "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
       "listings": [
         {
-          "section": "Section 313",
-          "row": "N",
-          "price": 241,
+          "section": "Section 316",
+          "row": "J",
+          "price": 240,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -29,6 +29,13 @@
           "feesIncluded": true
         },
         {
+          "section": "Section 310",
+          "row": "K",
+          "price": 242,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
           "section": "Section 314",
           "row": "M",
           "price": 242,
@@ -36,9 +43,23 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 313",
-          "row": "M",
-          "price": 243,
+          "section": "Section 320",
+          "row": "H",
+          "price": 246,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "J",
+          "price": 247,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "J",
+          "price": 247,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -64,9 +85,9 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 320",
-          "row": "H",
-          "price": 250,
+          "section": "Section 313",
+          "row": "N",
+          "price": 251,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -125,31 +146,10 @@
           "price": 257,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "L",
-          "price": 258,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "J",
-          "price": 258,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 319",
-          "row": "K",
-          "price": 259,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
-      "minPrice": 241,
-      "maxPrice": 259
+      "minPrice": 240,
+      "maxPrice": 257
     },
     {
       "title": "Rascal Flatts",
@@ -159,147 +159,154 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "25",
-          "price": 26,
+          "row": "22",
+          "price": 34,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "22",
-          "price": 26,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 35,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 35,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
+          "row": "24",
           "price": 40,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 41,
-          "ticketCount": 2,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "24",
-          "price": 42,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 42,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 42,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
           "price": 43,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 44,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 46,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 47,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 48,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 49,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 50,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 51,
           "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 44,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 44,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "30",
-          "price": 58,
+          "price": 47,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "3",
-          "price": 63,
+          "price": 57,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "28",
+          "row": "24",
+          "price": 60,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 60,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 60,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 65,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
           "price": 71,
-          "ticketCount": 8,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 73,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 77,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 81,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 82,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "35",
+          "price": 84,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 86,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 88,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 114,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 156,
+          "ticketCount": 6,
           "feesIncluded": true
         }
       ],
-      "minPrice": 26,
-      "maxPrice": 71
+      "minPrice": 34,
+      "maxPrice": 156
     },
     {
       "title": "T-Pain",
@@ -307,27 +314,6 @@
       "venue": "Iowa State Fair",
       "url": "https://www.vividseats.com/t-pain---faheem-rashad-najm-tickets-des-moines-iowa-state-fair-8-16-2025--concerts-rb/production/5547057",
       "listings": [
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 112,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 114,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
         {
           "section": "N/A",
           "row": "31",
@@ -345,14 +331,14 @@
         {
           "section": "N/A",
           "row": "29",
-          "price": 121,
+          "price": 120,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "29",
-          "price": 121,
+          "price": 120,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -365,6 +351,13 @@
         },
         {
           "section": "N/A",
+          "row": "26",
+          "price": 122,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "31",
           "price": 122,
           "ticketCount": 6,
@@ -380,20 +373,13 @@
         {
           "section": "N/A",
           "row": "31",
-          "price": 123,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
           "price": 123,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "29",
+          "row": "23",
           "price": 123,
           "ticketCount": 2,
           "feesIncluded": true
@@ -436,20 +422,41 @@
         {
           "section": "N/A",
           "row": "26",
-          "price": 126,
+          "price": 127,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "26",
-          "price": 127,
-          "ticketCount": 8,
+          "row": "22",
+          "price": 128,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 129,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 132,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 134,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 110,
-      "maxPrice": 127
+      "minPrice": 116,
+      "maxPrice": 134
     }
   ],
   "stubHub": [],
@@ -459,39 +466,39 @@
       "date": "Tue Oct 14•8:00 PM",
       "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 241,
+      "buyPrice": 240,
       "sellOn": "StubHub",
-      "sellPrice": "289.20",
+      "sellPrice": "288.00",
       "minTicketCount": 2,
-      "profitPerTicket": "48.20",
+      "profitPerTicket": "48.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-12T16:27:49.852Z"
+      "lastUpdated": "2025-08-12T20:24:27.473Z"
     },
     {
       "event": "Rascal Flatts",
       "date": "Tue Aug 12•8:00 PM",
       "venue": "Iowa State Fair",
       "buyFrom": "VividSeats",
-      "buyPrice": 26,
+      "buyPrice": 34,
       "sellOn": "StubHub",
-      "sellPrice": "31.20",
+      "sellPrice": "40.80",
       "minTicketCount": 1,
-      "profitPerTicket": "5.20",
+      "profitPerTicket": "6.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-12T16:27:49.852Z"
+      "lastUpdated": "2025-08-12T20:24:27.474Z"
     },
     {
       "event": "T-Pain",
       "date": "Sat Aug 16•8:00 PM",
       "venue": "Iowa State Fair",
       "buyFrom": "VividSeats",
-      "buyPrice": 110,
+      "buyPrice": 116,
       "sellOn": "StubHub",
-      "sellPrice": "132.00",
+      "sellPrice": "139.20",
       "minTicketCount": 2,
-      "profitPerTicket": "22.00",
+      "profitPerTicket": "23.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-12T16:27:49.852Z"
+      "lastUpdated": "2025-08-12T20:24:27.474Z"
     }
   ]
 }
