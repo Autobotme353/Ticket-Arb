@@ -1,497 +1,385 @@
 {
-  "scrapedAt": "2025-08-14T08:30:21.623Z",
+  "scrapedAt": "2025-08-14T12:45:42.954Z",
   "vividSeats": [
     {
-      "title": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
-      "url": "https://www.vividseats.com/chris-brown-tickets-phoenix-chase-field-9-11-2025--concerts-rb/production/5660607",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "37",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 106,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 106,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 107,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 107,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 108,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "31",
-          "price": 108,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "37",
-          "price": 108,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "31",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "35",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 109,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 110,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "29",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "33",
-          "price": 110,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "33",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "32",
-          "price": 111,
-          "ticketCount": 3,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 106,
-      "maxPrice": 111
-    },
-    {
       "title": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "PHX Arena",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-phoenix-phx-arena-11-18-2025--concerts-pop/production/5768469",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
         {
           "section": "N/A",
+          "row": "16",
+          "price": 333,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 333,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 333,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 333,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 341,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 341,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 344,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "14",
-          "price": 246,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 247,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 248,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 248,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 248,
+          "price": 345,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "11",
-          "price": 250,
+          "price": 345,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 347,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 350,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 350,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 352,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "13",
-          "price": 250,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 250,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 254,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 256,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 257,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 257,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 259,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 259,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 259,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 259,
+          "price": 356,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "11",
-          "price": 259,
+          "price": 356,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": 259,
+          "row": "17",
+          "price": 358,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 260,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 261,
-          "ticketCount": 5,
           "feesIncluded": true
         }
       ],
-      "minPrice": 246,
-      "maxPrice": 261
+      "minPrice": 333,
+      "maxPrice": 358
     },
     {
-      "title": "Benson Boone",
-      "date": "Wed Sep 24•8:00 PM",
-      "venue": "Desert Diamond Arena",
-      "url": "https://www.vividseats.com/benson-boone-tickets-glendale-desert-diamond-arena-9-24-2025--concerts-pop/production/5737411",
+      "title": "Rufus Du Sol",
+      "date": "Thu Aug 14•7:30 PM",
+      "venue": "Shoreline Amphitheatre - CA",
+      "url": "https://www.vividseats.com/rufus-du-sol-tickets-mountain-view-shoreline-amphitheatre---ca-8-14-2025--concerts-dance-electronica/production/5299765",
       "listings": [
         {
           "section": "N/A",
-          "row": "I",
-          "price": 155,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 149,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 158,
+          "row": "LAWN3",
+          "price": 154,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 158,
+          "row": "LAWN1",
+          "price": 154,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 161,
-          "ticketCount": 6,
+          "row": "GA",
+          "price": 157,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 163,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 163,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 167,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 168,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
+          "row": "1",
           "price": 169,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 202,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 170,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 241,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 170,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 247,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 174,
+          "row": "1",
+          "price": 257,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 266,
+          "ticketCount": 15,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "UGA",
+          "price": 267,
           "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 174,
-          "ticketCount": 2,
+          "row": "17",
+          "price": 273,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 177,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 178,
+          "row": "1",
+          "price": 279,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 180,
+          "row": "GENER..",
+          "price": 279,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 180,
+          "row": "R",
+          "price": 284,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 299,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "WC",
+          "price": 307,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 180,
+          "row": "S",
+          "price": 311,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 180,
-          "ticketCount": 2,
+          "row": "J",
+          "price": 312,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 314,
+          "ticketCount": 11,
           "feesIncluded": true
         }
       ],
-      "minPrice": 155,
-      "maxPrice": 180
+      "minPrice": 149,
+      "maxPrice": 314
+    },
+    {
+      "title": "Zach Bryan with Kings of Leon",
+      "date": "Fri Aug 15•3:00 PM",
+      "venue": "Golden Gate Park",
+      "url": "https://www.vividseats.com/zach-bryan-tickets-san-francisco-golden-gate-park-8-15-2025--concerts-country-and-folk/production/5400326",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 1799,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 2538,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 2749,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 594,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 594,
+      "maxPrice": 2749
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
-      "buyFrom": "VividSeats",
-      "buyPrice": 106,
-      "sellOn": "StubHub",
-      "sellPrice": "127.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "21.20",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-14T08:30:21.623Z"
-    },
-    {
       "event": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "PHX Arena",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 246,
+      "buyPrice": 333,
       "sellOn": "StubHub",
-      "sellPrice": "295.20",
+      "sellPrice": "399.60",
       "minTicketCount": 1,
-      "profitPerTicket": "49.20",
+      "profitPerTicket": "66.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-14T08:30:21.623Z"
+      "lastUpdated": "2025-08-14T12:45:42.954Z"
     },
     {
-      "event": "Benson Boone",
-      "date": "Wed Sep 24•8:00 PM",
-      "venue": "Desert Diamond Arena",
+      "event": "Rufus Du Sol",
+      "date": "Thu Aug 14•7:30 PM",
+      "venue": "Shoreline Amphitheatre - CA",
       "buyFrom": "VividSeats",
-      "buyPrice": 155,
+      "buyPrice": 149,
       "sellOn": "StubHub",
-      "sellPrice": "186.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "31.00",
+      "sellPrice": "178.80",
+      "minTicketCount": 1,
+      "profitPerTicket": "29.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-14T08:30:21.623Z"
+      "lastUpdated": "2025-08-14T12:45:42.954Z"
+    },
+    {
+      "event": "Zach Bryan with Kings of Leon",
+      "date": "Fri Aug 15•3:00 PM",
+      "venue": "Golden Gate Park",
+      "buyFrom": "VividSeats",
+      "buyPrice": 594,
+      "sellOn": "StubHub",
+      "sellPrice": "712.80",
+      "minTicketCount": 2,
+      "profitPerTicket": "118.80",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-08-14T12:45:42.954Z"
     }
   ]
 }
