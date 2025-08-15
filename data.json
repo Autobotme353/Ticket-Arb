@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-15T16:26:55.121Z",
+  "scrapedAt": "2025-08-15T20:23:12.810Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -30,14 +30,14 @@
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 131,
-          "ticketCount": 1,
+          "row": "O",
+          "price": 130,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
+          "row": "D",
           "price": 131,
           "ticketCount": 1,
           "feesIncluded": true
@@ -47,6 +47,20 @@
           "row": "G",
           "price": 133,
           "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 133,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 136,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -72,6 +86,13 @@
         },
         {
           "section": "N/A",
+          "row": "M",
+          "price": 148,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "L",
           "price": 152,
           "ticketCount": 3,
@@ -86,21 +107,7 @@
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 156,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 156,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
+          "row": "F",
           "price": 156,
           "ticketCount": 1,
           "feesIncluded": true
@@ -121,7 +128,7 @@
         },
         {
           "section": "N/A",
-          "row": "F",
+          "row": "M",
           "price": 156,
           "ticketCount": 1,
           "feesIncluded": true
@@ -135,133 +142,14 @@
         },
         {
           "section": "N/A",
-          "row": "BB",
-          "price": 157,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 157,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 157,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 157,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 158,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "DD",
-          "price": 158,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 161,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 161,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "L",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 177,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 183,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 183,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 184,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 184,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 188,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 190,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "CC",
-          "price": 191,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": 191,
+          "price": 156,
           "ticketCount": 1,
           "feesIncluded": true
         }
       ],
       "minPrice": 117,
-      "maxPrice": 191
+      "maxPrice": 156
     },
     {
       "title": "Diana Ross",
@@ -308,7 +196,7 @@
           "section": "N/A",
           "row": "N",
           "price": 191,
-          "ticketCount": 2,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -330,13 +218,6 @@
           "row": "E",
           "price": 192,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 196,
-          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -397,21 +278,28 @@
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 229,
-          "ticketCount": 2,
+          "row": "A",
+          "price": 230,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 236,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "A",
-          "price": 230,
+          "price": 236,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
       "minPrice": 169,
-      "maxPrice": 230
+      "maxPrice": 236
     },
     {
       "title": "Alabama",
@@ -570,7 +458,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "23.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-15T16:26:55.121Z"
+      "lastUpdated": "2025-08-15T20:23:12.810Z"
     },
     {
       "event": "Diana Ross",
@@ -583,7 +471,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "33.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-15T16:26:55.121Z"
+      "lastUpdated": "2025-08-15T20:23:12.810Z"
     },
     {
       "event": "Alabama",
@@ -596,7 +484,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "42.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-15T16:26:55.121Z"
+      "lastUpdated": "2025-08-15T20:23:12.810Z"
     }
   ]
 }
