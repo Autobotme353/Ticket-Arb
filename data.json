@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-18T20:21:27.717Z",
+  "scrapedAt": "2025-08-19T08:27:55.515Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -16,28 +16,7 @@
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 333,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 333,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "21",
-          "price": 333,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
           "price": 333,
           "ticketCount": 2,
           "feesIncluded": true
@@ -51,6 +30,20 @@
         },
         {
           "section": "N/A",
+          "row": "18",
+          "price": 335,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 335,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "21",
           "price": 337,
           "ticketCount": 2,
@@ -59,7 +52,7 @@
         {
           "section": "N/A",
           "row": "20",
-          "price": 339,
+          "price": 337,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -128,13 +121,6 @@
         },
         {
           "section": "N/A",
-          "row": "7",
-          "price": 347,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "18",
           "price": 348,
           "ticketCount": 4,
@@ -146,10 +132,24 @@
           "price": 350,
           "ticketCount": 1,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 353,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 353,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 333,
-      "maxPrice": 350
+      "maxPrice": 353
     },
     {
       "title": "Sleep Token",
@@ -310,14 +310,21 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 305,
-          "ticketCount": 4,
+          "price": 313,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
-          "price": 311,
+          "price": 314,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 323,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -345,20 +352,20 @@
         {
           "section": "N/A",
           "row": "1",
-          "price": 552,
+          "price": 595,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "A",
-          "price": 558,
+          "price": 602,
           "ticketCount": 7,
           "feesIncluded": true
         }
       ],
-      "minPrice": 305,
-      "maxPrice": 558
+      "minPrice": 313,
+      "maxPrice": 602
     }
   ],
   "stubHub": [],
@@ -374,7 +381,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "66.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-18T20:21:27.717Z"
+      "lastUpdated": "2025-08-19T08:27:55.514Z"
     },
     {
       "event": "Sleep Token",
@@ -387,20 +394,20 @@
       "minTicketCount": 2,
       "profitPerTicket": "44.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-18T20:21:27.717Z"
+      "lastUpdated": "2025-08-19T08:27:55.515Z"
     },
     {
       "event": "Lorde",
       "date": "Sun Oct 19•6:00 PM",
       "venue": "Greek Theatre - Berkeley",
       "buyFrom": "VividSeats",
-      "buyPrice": 305,
+      "buyPrice": 313,
       "sellOn": "StubHub",
-      "sellPrice": "366.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "61.00",
+      "sellPrice": "375.60",
+      "minTicketCount": 1,
+      "profitPerTicket": "62.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-18T20:21:27.717Z"
+      "lastUpdated": "2025-08-19T08:27:55.515Z"
     }
   ]
 }
