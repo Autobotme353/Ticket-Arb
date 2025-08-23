@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-23T16:21:52.273Z",
+  "scrapedAt": "2025-08-23T20:20:17.785Z",
   "vividSeats": [
     {
       "title": "Tyler Childers",
@@ -182,7 +182,7 @@
           "section": "N/A",
           "row": "K",
           "price": 50,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -208,6 +208,13 @@
         },
         {
           "section": "N/A",
+          "row": "L",
+          "price": 54,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "H",
           "price": 54,
           "ticketCount": 3,
@@ -218,13 +225,6 @@
           "row": "G",
           "price": 54,
           "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 54,
-          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -425,10 +425,122 @@
           "price": 222,
           "ticketCount": 4,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 225,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 227,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "CC",
+          "price": 232,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 233,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GG",
+          "price": 234,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 238,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 244,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 277,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 279,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 320,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 337,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 370,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "CCC",
+          "price": 407,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 430,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 442,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 442,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
       "minPrice": 125,
-      "maxPrice": 222
+      "maxPrice": 442
     }
   ],
   "stubHub": [],
@@ -444,7 +556,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "20.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-23T16:21:52.273Z"
+      "lastUpdated": "2025-08-23T20:20:17.785Z"
     },
     {
       "event": "Hozier",
@@ -457,7 +569,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "9.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-23T16:21:52.273Z"
+      "lastUpdated": "2025-08-23T20:20:17.785Z"
     },
     {
       "event": "Cynthia Erivo",
@@ -470,7 +582,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "25.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-23T16:21:52.273Z"
+      "lastUpdated": "2025-08-23T20:20:17.785Z"
     }
   ]
 }
