@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-08-31T12:37:07.481Z",
+  "scrapedAt": "2025-08-31T16:22:06.650Z",
   "vividSeats": [
     {
       "title": "Tyler Childers",
@@ -10,7 +10,14 @@
         {
           "section": "N/A",
           "row": "GA",
-          "price": 112,
+          "price": 109,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 117,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -44,9 +51,9 @@
         },
         {
           "section": "N/A",
-          "row": "P",
+          "row": "N",
           "price": 150,
-          "ticketCount": 2,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
@@ -58,9 +65,9 @@
         },
         {
           "section": "N/A",
-          "row": "N",
+          "row": "P",
           "price": 151,
-          "ticketCount": 3,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -72,15 +79,8 @@
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 152,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "M",
-          "price": 153,
+          "price": 152,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -114,6 +114,13 @@
         },
         {
           "section": "N/A",
+          "row": "M",
+          "price": 156,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "G",
           "price": 156,
           "ticketCount": 2,
@@ -122,13 +129,6 @@
         {
           "section": "N/A",
           "row": "Q",
-          "price": 156,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
           "price": 156,
           "ticketCount": 2,
           "feesIncluded": true
@@ -148,7 +148,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 112,
+      "minPrice": 109,
       "maxPrice": 157
     },
     {
@@ -238,6 +238,13 @@
           "section": "N/A",
           "row": "H",
           "price": 49,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 49,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -253,6 +260,13 @@
           "row": "N",
           "price": 50,
           "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 51,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -275,136 +289,10 @@
           "price": 55,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 56,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 56,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 56,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 57,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 59,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 59,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 59,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 60,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 60,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 60,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 60,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 60,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 60,
-          "ticketCount": 22,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 60,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
       "minPrice": 37,
-      "maxPrice": 60
+      "maxPrice": 55
     },
     {
       "title": "Cynthia Erivo",
@@ -550,13 +438,13 @@
       "date": "Sat Sep 27•7:00 PM",
       "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 112,
+      "buyPrice": 109,
       "sellOn": "StubHub",
-      "sellPrice": "134.40",
+      "sellPrice": "130.80",
       "minTicketCount": 1,
-      "profitPerTicket": "22.40",
+      "profitPerTicket": "21.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-31T12:37:07.480Z"
+      "lastUpdated": "2025-08-31T16:22:06.649Z"
     },
     {
       "event": "Hozier",
@@ -569,7 +457,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "7.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-31T12:37:07.481Z"
+      "lastUpdated": "2025-08-31T16:22:06.649Z"
     },
     {
       "event": "Cynthia Erivo",
@@ -582,7 +470,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "25.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-31T12:37:07.481Z"
+      "lastUpdated": "2025-08-31T16:22:06.649Z"
     }
   ]
 }
