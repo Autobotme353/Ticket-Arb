@@ -1,497 +1,497 @@
 {
-  "scrapedAt": "2025-08-30T20:19:48.369Z",
+  "scrapedAt": "2025-08-31T08:22:58.623Z",
   "vividSeats": [
     {
-      "title": "Billie Eilish",
-      "date": "Sat Nov 22•7:00 PM+1 Date",
-      "venue": "Chase Center",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
+      "title": "System of A Down and Avenged Sevenfold with Polyphia",
+      "date": "Sun Aug 31•5:30 PM+1 Date",
+      "venue": "Soldier Field",
+      "url": "https://www.vividseats.com/system-of-a-down-tickets-chicago-soldier-field-parking-8-31-2025--concerts-hard-rock/production/5410871",
       "listings": [
         {
           "section": "N/A",
-          "row": "19",
-          "price": 322,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 323,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 326,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 327,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 332,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 332,
-          "ticketCount": 2,
+          "row": "24",
+          "price": 109,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "18",
-          "price": 332,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 333,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 338,
+          "price": 138,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
-          "price": 338,
+          "row": "26",
+          "price": 139,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 338,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 338,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 343,
+          "row": "15",
+          "price": 142,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 344,
+          "row": "26",
+          "price": 142,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 345,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 346,
+          "row": "15",
+          "price": 145,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "17",
-          "price": 349,
+          "price": 145,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 349,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 349,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 349,
-          "ticketCount": 1,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 322,
-      "maxPrice": 349
-    },
-    {
-      "title": "Sleep Token",
-      "date": "Fri Oct 10•8:00 PM",
-      "venue": "Oakland Arena",
-      "url": "https://www.vividseats.com/sleep-token-tickets-oakland-oakland-arena-10-10-2025--concerts-hard-rock/production/5632402",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 170,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 179,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 183,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 185,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 186,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 187,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 188,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 188,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 188,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 191,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 195,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 195,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 197,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 203,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 203,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 210,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 212,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 220,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 223,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 225,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 170,
-      "maxPrice": 225
-    },
-    {
-      "title": "Benson Boone",
-      "date": "Wed Oct 1•8:00 PM",
-      "venue": "Chase Center",
-      "url": "https://www.vividseats.com/benson-boone-tickets-san-francisco-chase-center-10-1-2025--concerts-pop/production/5782081",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 144,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
+          "row": "15",
           "price": 146,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
+          "row": "9",
           "price": 147,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
+          "row": "9",
+          "price": 147,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 149,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 149,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
           "price": 150,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 152,
+          "row": "10",
+          "price": 151,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
+          "row": "13",
+          "price": 152,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 152,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
           "price": 153,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "20",
-          "price": 155,
+          "row": "7",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 154,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 109,
+      "maxPrice": 154
+    },
+    {
+      "title": "Lady Gaga",
+      "date": "Mon Sep 15•8:00 PM+2 Dates",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/lady-gaga-tickets-chicago-united-center-9-15-2025--concerts-pop/production/5657292",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 565,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 599,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 599,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 603,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 605,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 606,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 610,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 611,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 615,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 615,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 615,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 615,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 616,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 622,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 623,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 624,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 624,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 624,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 628,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 630,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 565,
+      "maxPrice": 630
+    },
+    {
+      "title": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 338,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 344,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 349,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 349,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 366,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 155,
+          "row": "11",
+          "price": 378,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 155,
+          "row": "7",
+          "price": 383,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 388,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 155,
+          "row": "11",
+          "price": 393,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "20",
-          "price": 156,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 156,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 156,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 156,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 157,
+          "row": "7",
+          "price": 394,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "17",
-          "price": 157,
-          "ticketCount": 2,
+          "price": 397,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 157,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 158,
+          "row": "13",
+          "price": 410,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
-          "price": 158,
+          "row": "9",
+          "price": 416,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
-          "price": 158,
+          "row": "11",
+          "price": 416,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 417,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 426,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 427,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 427,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 429,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 431,
+          "ticketCount": 6,
           "feesIncluded": true
         }
       ],
-      "minPrice": 144,
-      "maxPrice": 158
+      "minPrice": 338,
+      "maxPrice": 431
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Billie Eilish",
-      "date": "Sat Nov 22•7:00 PM+1 Date",
-      "venue": "Chase Center",
+      "event": "System of A Down and Avenged Sevenfold with Polyphia",
+      "date": "Sun Aug 31•5:30 PM+1 Date",
+      "venue": "Soldier Field",
       "buyFrom": "VividSeats",
-      "buyPrice": 322,
+      "buyPrice": 109,
       "sellOn": "StubHub",
-      "sellPrice": "386.40",
+      "sellPrice": "130.80",
       "minTicketCount": 1,
-      "profitPerTicket": "64.40",
+      "profitPerTicket": "21.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-30T20:19:48.369Z"
+      "lastUpdated": "2025-08-31T08:22:58.623Z"
     },
     {
-      "event": "Sleep Token",
-      "date": "Fri Oct 10•8:00 PM",
-      "venue": "Oakland Arena",
+      "event": "Lady Gaga",
+      "date": "Mon Sep 15•8:00 PM+2 Dates",
+      "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 170,
+      "buyPrice": 565,
       "sellOn": "StubHub",
-      "sellPrice": "204.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "34.00",
+      "sellPrice": "678.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "113.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-30T20:19:48.369Z"
+      "lastUpdated": "2025-08-31T08:22:58.623Z"
     },
     {
-      "event": "Benson Boone",
-      "date": "Wed Oct 1•8:00 PM",
-      "venue": "Chase Center",
+      "event": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 144,
+      "buyPrice": 338,
       "sellOn": "StubHub",
-      "sellPrice": "172.80",
+      "sellPrice": "405.60",
       "minTicketCount": 2,
-      "profitPerTicket": "28.80",
+      "profitPerTicket": "67.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-08-30T20:19:48.369Z"
+      "lastUpdated": "2025-08-31T08:22:58.623Z"
     }
   ]
 }
