@@ -1,833 +1,476 @@
 {
-  "scrapedAt": "2025-09-02T12:41:38.309Z",
+  "scrapedAt": "2025-09-02T16:25:41.521Z",
   "vividSeats": [
     {
-      "title": "Billie Eilish",
-      "date": "Fri Oct 17•7:00 PM+1 Date",
-      "venue": "Lenovo Center",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-raleigh-lenovo-center-10-17-2025--concerts-pop/production/5768435",
+      "title": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/tyler-childers-tickets-bristow-jiffy-lube-live-9-25-2025--concerts-country-and-folk/production/5359502",
       "listings": [
         {
           "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "row": "GA",
+          "price": 113,
+          "ticketCount": 3,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "row": "GA",
+          "price": 116,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 117,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 120,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "LAWN",
+          "price": 135,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 146,
+          "ticketCount": 1,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "N",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "price": 150,
+          "ticketCount": 3,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": null,
+          "price": 151,
           "ticketCount": 4,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "row": "P",
+          "price": 151,
+          "ticketCount": 4,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": null,
+          "price": 152,
           "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 1,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": null,
-          "ticketCount": 1,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "I",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": null,
+          "price": 153,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 156,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 157,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 158,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 158,
+          "ticketCount": 6,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": null,
+          "price": 163,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": null,
+          "row": "L",
+          "price": 165,
           "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "H",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "price": 166,
+          "ticketCount": 6,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": null,
+          "row": "Q",
+          "price": 170,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "row": "Q",
+          "price": 171,
+          "ticketCount": 6,
+          "feesIncluded": true
         }
       ],
-      "minPrice": null,
-      "maxPrice": null
+      "minPrice": 113,
+      "maxPrice": 171
     },
     {
-      "title": "Chris Brown",
-      "date": "Tue Oct 14•7:00 PM",
-      "venue": "Carter-Finley Stadium",
-      "url": "https://www.vividseats.com/chris-brown-tickets-raleigh-carter-finley-stadium-10-14-2025--concerts-rb/production/5699371",
+      "title": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/hozier-tickets-bristow-jiffy-lube-live-9-16-2025--concerts-rock/production/5534331",
       "listings": [
         {
           "section": "N/A",
-          "row": "O",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
           "row": "N",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": null,
+          "price": 38,
           "ticketCount": 6,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Z",
-          "price": null,
+          "row": "L",
+          "price": 42,
           "ticketCount": 3,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": null,
-          "ticketCount": 6,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "AA",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": null,
-          "ticketCount": 7,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 6,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": null,
-          "ticketCount": 3,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 6,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "EE",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": null,
-          "ticketCount": 7,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        }
-      ],
-      "minPrice": null,
-      "maxPrice": null
-    },
-    {
-      "title": "Tate McRae",
-      "date": "Sat Oct 25•7:30 PM",
-      "venue": "Lenovo Center",
-      "url": "https://www.vividseats.com/tate-mcrae-tickets-raleigh-lenovo-center-10-25-2025--concerts-pop/production/5578841",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 8,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "C",
-          "price": null,
+          "price": 44,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 45,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 47,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 47,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 48,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 49,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 49,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 50,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 50,
+          "ticketCount": 10,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "E",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
+          "price": 53,
           "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "G",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "price": 54,
+          "ticketCount": 4,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": null,
+          "row": "E",
+          "price": 54,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
+          "row": "L",
+          "price": 55,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 55,
+          "ticketCount": 1,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": null,
+          "price": 56,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 56,
           "ticketCount": 4,
-          "feesIncluded": false
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 38,
+      "maxPrice": 56
+    },
+    {
+      "title": "Cynthia Erivo",
+      "date": "Sun Sep 7•7:00 PM+1 Date",
+      "venue": "Filene Center at Wolf Trap",
+      "url": "https://www.vividseats.com/cynthia-erivo-tickets-vienna-filene-center-at-wolf-trap-9-7-2025--concerts-pop/production/5558163",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 112,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 140,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "LL",
+          "price": 142,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "EE",
+          "price": 155,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 172,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "T",
+          "price": 172,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "NN",
+          "price": 177,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GG",
+          "price": 185,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 187,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 193,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "JJ",
+          "price": 198,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "HH",
+          "price": 198,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 202,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "JJ",
+          "price": 208,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 213,
+          "ticketCount": 4,
+          "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "A",
-          "price": null,
+          "price": 214,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": null,
+          "row": "F",
+          "price": 252,
           "ticketCount": 2,
-          "feesIncluded": false
+          "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": null,
+          "row": "R",
+          "price": 276,
           "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": null,
-          "ticketCount": 6,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 2,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": null,
-          "ticketCount": 3,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": null,
-          "ticketCount": 4,
-          "feesIncluded": false
+          "feesIncluded": true
         }
       ],
-      "minPrice": null,
-      "maxPrice": null
+      "minPrice": 112,
+      "maxPrice": 276
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Billie Eilish",
-      "date": "Fri Oct 17•7:00 PM+1 Date",
-      "venue": "Lenovo Center",
+      "event": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": null,
+      "buyPrice": 113,
       "sellOn": "StubHub",
-      "sellPrice": "NaN",
+      "sellPrice": "135.60",
       "minTicketCount": 1,
-      "profitPerTicket": "NaN",
+      "profitPerTicket": "22.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-02T12:41:38.308Z"
+      "lastUpdated": "2025-09-02T16:25:41.521Z"
     },
     {
-      "event": "Chris Brown",
-      "date": "Tue Oct 14•7:00 PM",
-      "venue": "Carter-Finley Stadium",
+      "event": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": null,
+      "buyPrice": 38,
       "sellOn": "StubHub",
-      "sellPrice": "NaN",
-      "minTicketCount": 2,
-      "profitPerTicket": "NaN",
+      "sellPrice": "45.60",
+      "minTicketCount": 1,
+      "profitPerTicket": "7.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-02T12:41:38.309Z"
+      "lastUpdated": "2025-09-02T16:25:41.521Z"
     },
     {
-      "event": "Tate McRae",
-      "date": "Sat Oct 25•7:30 PM",
-      "venue": "Lenovo Center",
+      "event": "Cynthia Erivo",
+      "date": "Sun Sep 7•7:00 PM+1 Date",
+      "venue": "Filene Center at Wolf Trap",
       "buyFrom": "VividSeats",
-      "buyPrice": null,
+      "buyPrice": 112,
       "sellOn": "StubHub",
-      "sellPrice": "NaN",
+      "sellPrice": "134.40",
       "minTicketCount": 2,
-      "profitPerTicket": "NaN",
+      "profitPerTicket": "22.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-02T12:41:38.309Z"
+      "lastUpdated": "2025-09-02T16:25:41.521Z"
     }
   ]
 }
