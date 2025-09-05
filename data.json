@@ -1,497 +1,476 @@
 {
-  "scrapedAt": "2025-09-04T20:20:45.254Z",
+  "scrapedAt": "2025-09-05T08:26:05.902Z",
   "vividSeats": [
     {
-      "title": "Billie Eilish",
-      "date": "Sat Nov 22•7:00 PM+1 Date",
-      "venue": "Chase Center",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
+      "title": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/tyler-childers-tickets-bristow-jiffy-lube-live-9-25-2025--concerts-country-and-folk/production/5359502",
       "listings": [
         {
           "section": "N/A",
-          "row": "17",
-          "price": 325,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 327,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 332,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 333,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 333,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 335,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 337,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 337,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 338,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 338,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 338,
+          "row": "GA",
+          "price": 106,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 338,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 340,
+          "row": "GA",
+          "price": 107,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 340,
-          "ticketCount": 4,
+          "row": "GA",
+          "price": 117,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 343,
+          "row": "GA",
+          "price": 119,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GENER..",
+          "price": 125,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 347,
+          "row": "LAWN",
+          "price": 135,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 143,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 146,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 148,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 347,
-          "ticketCount": 4,
+          "row": "N",
+          "price": 152,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 349,
-          "ticketCount": 4,
+          "row": "N",
+          "price": 153,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 349,
+          "row": "L",
+          "price": 153,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 349,
-          "ticketCount": 1,
+          "row": "P",
+          "price": 153,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 153,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 155,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 155,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 156,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 158,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 158,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 325,
-      "maxPrice": 349
+      "minPrice": 106,
+      "maxPrice": 158
     },
     {
-      "title": "Sleep Token",
-      "date": "Fri Oct 10•8:00 PM",
-      "venue": "Oakland Arena",
-      "url": "https://www.vividseats.com/sleep-token-tickets-oakland-oakland-arena-10-10-2025--concerts-hard-rock/production/5632402",
+      "title": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/hozier-tickets-bristow-jiffy-lube-live-9-16-2025--concerts-rock/production/5534331",
       "listings": [
         {
           "section": "N/A",
-          "row": "13",
-          "price": 179,
-          "ticketCount": 4,
+          "row": "L",
+          "price": 34,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 185,
-          "ticketCount": 4,
+          "row": "J",
+          "price": 35,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 185,
-          "ticketCount": 4,
+          "row": "L",
+          "price": 35,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 186,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 191,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 191,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 195,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 197,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 199,
+          "row": "Q",
+          "price": 37,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": 201,
-          "ticketCount": 4,
+          "row": "N",
+          "price": 38,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 201,
+          "row": "G",
+          "price": 39,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 203,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 204,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 206,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 208,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 209,
+          "row": "H",
+          "price": 40,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
+          "row": "P",
+          "price": 40,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 41,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 41,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 44,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 44,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 47,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 48,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 49,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 49,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 50,
+          "ticketCount": 5,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 34,
+      "maxPrice": 50
+    },
+    {
+      "title": "Cynthia Erivo",
+      "date": "Sun Sep 7•7:00 PM+1 Date",
+      "venue": "Filene Center at Wolf Trap",
+      "url": "https://www.vividseats.com/cynthia-erivo-tickets-vienna-filene-center-at-wolf-trap-9-7-2025--concerts-pop/production/5558163",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 105,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 137,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "EE",
+          "price": 139,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 144,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "NN",
+          "price": 144,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 159,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GG",
+          "price": 161,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "HH",
+          "price": 166,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "T",
+          "price": 187,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 202,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "JJ",
+          "price": 205,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
           "price": 213,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 214,
+          "row": "JJ",
+          "price": 215,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 215,
+          "row": "QQ",
+          "price": 263,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 276,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": 215,
+          "row": "B",
+          "price": 306,
           "ticketCount": 3,
           "feesIncluded": true
-        }
-      ],
-      "minPrice": 179,
-      "maxPrice": 215
-    },
-    {
-      "title": "Benson Boone",
-      "date": "Wed Oct 1•8:00 PM",
-      "venue": "Chase Center",
-      "url": "https://www.vividseats.com/benson-boone-tickets-san-francisco-chase-center-10-1-2025--concerts-pop/production/5782081",
-      "listings": [
+        },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 118,
+          "row": "N",
+          "price": 339,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 121,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 122,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 123,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 124,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 124,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 126,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 127,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 128,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 130,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 133,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 133,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 134,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 134,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 136,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 138,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 138,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 138,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 138,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 138,
+          "row": "AAA",
+          "price": 382,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 118,
-      "maxPrice": 138
+      "minPrice": 105,
+      "maxPrice": 382
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Billie Eilish",
-      "date": "Sat Nov 22•7:00 PM+1 Date",
-      "venue": "Chase Center",
+      "event": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 325,
+      "buyPrice": 106,
       "sellOn": "StubHub",
-      "sellPrice": "390.00",
+      "sellPrice": "127.20",
       "minTicketCount": 1,
-      "profitPerTicket": "65.00",
+      "profitPerTicket": "21.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-04T20:20:45.253Z"
+      "lastUpdated": "2025-09-05T08:26:05.901Z"
     },
     {
-      "event": "Sleep Token",
-      "date": "Fri Oct 10•8:00 PM",
-      "venue": "Oakland Arena",
+      "event": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 179,
+      "buyPrice": 34,
       "sellOn": "StubHub",
-      "sellPrice": "214.80",
+      "sellPrice": "40.80",
       "minTicketCount": 2,
-      "profitPerTicket": "35.80",
+      "profitPerTicket": "6.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-04T20:20:45.254Z"
+      "lastUpdated": "2025-09-05T08:26:05.902Z"
     },
     {
-      "event": "Benson Boone",
-      "date": "Wed Oct 1•8:00 PM",
-      "venue": "Chase Center",
+      "event": "Cynthia Erivo",
+      "date": "Sun Sep 7•7:00 PM+1 Date",
+      "venue": "Filene Center at Wolf Trap",
       "buyFrom": "VividSeats",
-      "buyPrice": 118,
+      "buyPrice": 105,
       "sellOn": "StubHub",
-      "sellPrice": "141.60",
+      "sellPrice": "126.00",
       "minTicketCount": 2,
-      "profitPerTicket": "23.60",
+      "profitPerTicket": "21.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-04T20:20:45.254Z"
+      "lastUpdated": "2025-09-05T08:26:05.902Z"
     }
   ]
 }
