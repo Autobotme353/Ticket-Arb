@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-06T12:35:02.517Z",
+  "scrapedAt": "2025-09-06T16:21:11.457Z",
   "vividSeats": [
     {
       "title": "Lady Gaga",
@@ -10,146 +10,146 @@
         {
           "section": "N/A",
           "row": "7",
-          "price": 396,
+          "price": 371,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "5",
-          "price": 402,
+          "price": 377,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "10",
-          "price": 407,
+          "price": 381,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "4",
-          "price": 408,
+          "price": 382,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "2",
-          "price": 414,
+          "price": 388,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "14",
+          "price": 395,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 403,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 406,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "17",
-          "price": 415,
+          "price": 411,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "15",
+          "price": 412,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "16",
-          "price": 423,
+          "price": 416,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "14",
-          "price": 423,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 425,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 425,
+          "price": 416,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "12",
-          "price": 426,
+          "price": 421,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "15",
-          "price": 433,
+          "price": 425,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "15",
-          "price": 433,
+          "price": 425,
           "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 425,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "11",
-          "price": 434,
+          "price": 429,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 436,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 439,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 439,
-          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "17",
-          "price": 440,
+          "price": 432,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 440,
-          "ticketCount": 2,
+          "row": "13",
+          "price": 433,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 440,
-          "ticketCount": 3,
+          "row": "13",
+          "price": 433,
+          "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 396,
-      "maxPrice": 440
+      "minPrice": 371,
+      "maxPrice": 433
     },
     {
       "title": "Paul McCartney",
@@ -311,7 +311,7 @@
           "section": "N/A",
           "row": "K",
           "price": 306,
-          "ticketCount": 8,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -372,13 +372,6 @@
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 349,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "M",
           "price": 350,
           "ticketCount": 2,
@@ -401,6 +394,13 @@
         {
           "section": "N/A",
           "row": "K",
+          "price": 351,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
           "price": 352,
           "ticketCount": 4,
           "feesIncluded": true
@@ -415,7 +415,7 @@
         {
           "section": "N/A",
           "row": "J",
-          "price": 361,
+          "price": 362,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -436,7 +436,7 @@
         {
           "section": "N/A",
           "row": "F",
-          "price": 370,
+          "price": 371,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -459,13 +459,13 @@
       "date": "Mon Sep 15•8:00 PM+2 Dates",
       "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 396,
+      "buyPrice": 371,
       "sellOn": "StubHub",
-      "sellPrice": "475.20",
+      "sellPrice": "445.20",
       "minTicketCount": 2,
-      "profitPerTicket": "79.20",
+      "profitPerTicket": "74.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-06T12:35:02.517Z"
+      "lastUpdated": "2025-09-06T16:21:11.457Z"
     },
     {
       "event": "Paul McCartney",
@@ -478,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "67.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-06T12:35:02.517Z"
+      "lastUpdated": "2025-09-06T16:21:11.457Z"
     },
     {
       "event": "Sleep Token",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "61.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-06T12:35:02.517Z"
+      "lastUpdated": "2025-09-06T16:21:11.457Z"
     }
   ]
 }
