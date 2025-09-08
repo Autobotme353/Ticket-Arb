@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-08T12:42:18.568Z",
+  "scrapedAt": "2025-09-08T16:23:31.439Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -9,30 +9,9 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "L",
-          "price": 121,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "P",
-          "price": 123,
+          "price": 124,
           "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 127,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 127,
-          "ticketCount": 1,
           "feesIncluded": true
         },
         {
@@ -44,6 +23,13 @@
         },
         {
           "section": "N/A",
+          "row": "F",
+          "price": 130,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "G",
           "price": 130,
           "ticketCount": 1,
@@ -54,6 +40,20 @@
           "row": "F",
           "price": 130,
           "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 131,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 132,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -107,14 +107,7 @@
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 153,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
+          "row": "J",
           "price": 153,
           "ticketCount": 1,
           "feesIncluded": true
@@ -135,20 +128,27 @@
         },
         {
           "section": "N/A",
-          "row": "J",
+          "row": "M",
           "price": 153,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
+          "row": "O",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "DD",
           "price": 154,
           "ticketCount": 1,
           "feesIncluded": true
         }
       ],
-      "minPrice": 121,
+      "minPrice": 124,
       "maxPrice": 154
     },
     {
@@ -459,13 +459,13 @@
       "date": "Thu Nov 20•7:30 PM",
       "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 121,
+      "buyPrice": 124,
       "sellOn": "StubHub",
-      "sellPrice": "145.20",
+      "sellPrice": "148.80",
       "minTicketCount": 1,
-      "profitPerTicket": "24.20",
+      "profitPerTicket": "24.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T12:42:18.568Z"
+      "lastUpdated": "2025-09-08T16:23:31.439Z"
     },
     {
       "event": "Diana Ross",
@@ -478,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "36.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T12:42:18.568Z"
+      "lastUpdated": "2025-09-08T16:23:31.439Z"
     },
     {
       "event": "Alabama",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "43.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T12:42:18.568Z"
+      "lastUpdated": "2025-09-08T16:23:31.439Z"
     }
   ]
 }
