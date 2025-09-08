@@ -1,399 +1,497 @@
 {
-  "scrapedAt": "2025-09-08T08:28:36.707Z",
+  "scrapedAt": "2025-09-08T12:42:18.568Z",
   "vividSeats": [
     {
-      "title": "Cole Swindell",
-      "date": "Thu Oct 2•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
-      "url": "https://www.vividseats.com/cole-swindell-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-10-2-2025--concerts-country-and-folk/production/5683971",
+      "title": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
       "listings": [
         {
           "section": "N/A",
-          "row": "16",
-          "price": 48,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 49,
+          "row": "L",
+          "price": 121,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 51,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 52,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 56,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 56,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 57,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 57,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 58,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 58,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 59,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 60,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 62,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 63,
+          "row": "P",
+          "price": 123,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 64,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 65,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 65,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 65,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 65,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 65,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 48,
-      "maxPrice": 65
-    },
-    {
-      "title": "Cameron Whitcomb (18+ Event)",
-      "date": "Sun Oct 12•8:00 PM",
-      "venue": "Aggie Theatre",
-      "url": "https://www.vividseats.com/cameron-whitcomb-tickets-fort-collins-aggie-theatre-10-12-2025--concerts-country-and-folk/production/5803287",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 59,
+          "row": "F",
+          "price": 127,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 61,
+          "row": "G",
+          "price": 127,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 127,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 130,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 130,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 133,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 63,
+          "row": "L",
+          "price": 134,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 136,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 64,
-          "ticketCount": 4,
+          "row": "G",
+          "price": 138,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 74,
-          "ticketCount": 6,
+          "row": "B",
+          "price": 147,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
+          "row": "L",
           "price": 150,
-          "ticketCount": 7,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 151,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 154,
+          "ticketCount": 1,
           "feesIncluded": true
         }
       ],
-      "minPrice": 59,
-      "maxPrice": 150
+      "minPrice": 121,
+      "maxPrice": 154
     },
     {
-      "title": "MercyMe",
-      "date": "Thu Nov 6•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
-      "url": "https://www.vividseats.com/mercyme-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-11-6-2025--concerts-new-age/production/5733577",
+      "title": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
       "listings": [
         {
           "section": "N/A",
-          "row": "17",
-          "price": 50,
+          "row": "O",
+          "price": 180,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 51,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 52,
+          "row": "O",
+          "price": 185,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 52,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 55,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 57,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 58,
+          "row": "O",
+          "price": 190,
           "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 59,
+          "row": "N",
+          "price": 195,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 59,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 59,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 59,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 60,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 62,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 63,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 66.48,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 64,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 65,
+          "row": "O",
+          "price": 197,
           "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 66,
+          "row": "N",
+          "price": 201,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 209,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 211,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 66,
+          "row": "M",
+          "price": 216,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 217,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 220,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 225,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 226,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 231,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 232,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 232,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 237,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 261,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 261,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 263,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 50,
-      "maxPrice": 66.48
+      "minPrice": 180,
+      "maxPrice": 263
+    },
+    {
+      "title": "Alabama",
+      "date": "Sat Sep 13•7:00 PM",
+      "venue": "Carolina Crossroads",
+      "url": "https://www.vividseats.com/alabama-tickets-roanoke-rapids-carolina-crossroads-9-13-2025--concerts-country-and-folk/production/5858098",
+      "listings": [
+        {
+          "section": "Section 102",
+          "row": "DD",
+          "price": 218,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "DD",
+          "price": 218,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "DD",
+          "price": 218,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "DD",
+          "price": 218,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "L",
+          "price": 220,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "Y",
+          "price": 223,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "P",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "V",
+          "price": 226,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "I",
+          "price": 226,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "J",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "U",
+          "price": 226,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "H",
+          "price": 226,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "I",
+          "price": 226,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "J",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "V",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "DD",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "P",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "X",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "DD",
+          "price": 226,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "T",
+          "price": 226,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 218,
+      "maxPrice": 226
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Cole Swindell",
-      "date": "Thu Oct 2•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "event": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 48,
+      "buyPrice": 121,
       "sellOn": "StubHub",
-      "sellPrice": "57.60",
-      "minTicketCount": 2,
-      "profitPerTicket": "9.60",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T08:28:36.706Z"
-    },
-    {
-      "event": "Cameron Whitcomb (18+ Event)",
-      "date": "Sun Oct 12•8:00 PM",
-      "venue": "Aggie Theatre",
-      "buyFrom": "VividSeats",
-      "buyPrice": 59,
-      "sellOn": "StubHub",
-      "sellPrice": "70.80",
+      "sellPrice": "145.20",
       "minTicketCount": 1,
-      "profitPerTicket": "11.80",
+      "profitPerTicket": "24.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T08:28:36.706Z"
+      "lastUpdated": "2025-09-08T12:42:18.568Z"
     },
     {
-      "event": "MercyMe",
-      "date": "Thu Nov 6•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "event": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 50,
+      "buyPrice": 180,
       "sellOn": "StubHub",
-      "sellPrice": "60.00",
+      "sellPrice": "216.00",
       "minTicketCount": 2,
-      "profitPerTicket": "10.00",
+      "profitPerTicket": "36.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-08T08:28:36.707Z"
+      "lastUpdated": "2025-09-08T12:42:18.568Z"
+    },
+    {
+      "event": "Alabama",
+      "date": "Sat Sep 13•7:00 PM",
+      "venue": "Carolina Crossroads",
+      "buyFrom": "VividSeats",
+      "buyPrice": 218,
+      "sellOn": "StubHub",
+      "sellPrice": "261.60",
+      "minTicketCount": 2,
+      "profitPerTicket": "43.60",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-09-08T12:42:18.568Z"
     }
   ]
 }
