@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-09T12:42:44.615Z",
+  "scrapedAt": "2025-09-09T16:25:32.333Z",
   "vividSeats": [
     {
       "title": "Tyler Childers",
@@ -9,9 +9,23 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 127,
-          "ticketCount": 2,
+          "row": "N",
+          "price": 122,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 123,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 129,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -23,13 +37,6 @@
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 133,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "H",
           "price": 135,
           "ticketCount": 1,
@@ -37,22 +44,15 @@
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 136,
-          "ticketCount": 3,
+          "row": "1",
+          "price": 137,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "GA",
           "price": 140,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 142,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -148,7 +148,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 127,
+      "minPrice": 122,
       "maxPrice": 152
     },
     {
@@ -173,9 +173,9 @@
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 38,
-          "ticketCount": 2,
+          "row": "L",
+          "price": 37,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -201,9 +201,16 @@
         },
         {
           "section": "N/A",
-          "row": "L",
+          "row": "K",
+          "price": 41,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
           "price": 42,
-          "ticketCount": 6,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -216,6 +223,13 @@
         {
           "section": "N/A",
           "row": "H",
+          "price": 43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
           "price": 43,
           "ticketCount": 2,
           "feesIncluded": true
@@ -236,16 +250,9 @@
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 46,
+          "row": "J",
+          "price": 44,
           "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 47,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -257,16 +264,16 @@
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 48,
-          "ticketCount": 2,
+          "row": "G",
+          "price": 47,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
+          "row": "H",
           "price": 48,
-          "ticketCount": 2,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
@@ -282,17 +289,10 @@
           "price": 48,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 49,
-          "ticketCount": 6,
-          "feesIncluded": true
         }
       ],
       "minPrice": 33,
-      "maxPrice": 49
+      "maxPrice": 48
     },
     {
       "title": "Zach Top",
@@ -304,7 +304,7 @@
           "section": "N/A",
           "row": "V",
           "price": 71,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -452,13 +452,13 @@
       "date": "Sat Sep 27•7:00 PM",
       "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 127,
+      "buyPrice": 122,
       "sellOn": "StubHub",
-      "sellPrice": "152.40",
+      "sellPrice": "146.40",
       "minTicketCount": 1,
-      "profitPerTicket": "25.40",
+      "profitPerTicket": "24.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-09T12:42:44.615Z"
+      "lastUpdated": "2025-09-09T16:25:32.332Z"
     },
     {
       "event": "Hozier",
@@ -471,7 +471,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "6.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-09T12:42:44.615Z"
+      "lastUpdated": "2025-09-09T16:25:32.333Z"
     },
     {
       "event": "Zach Top",
@@ -484,7 +484,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "14.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-09T12:42:44.615Z"
+      "lastUpdated": "2025-09-09T16:25:32.333Z"
     }
   ]
 }
