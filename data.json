@@ -1,497 +1,469 @@
 {
-  "scrapedAt": "2025-09-10T12:39:57.071Z",
+  "scrapedAt": "2025-09-10T16:24:49.529Z",
   "vividSeats": [
     {
-      "title": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
-      "url": "https://www.vividseats.com/chris-brown-tickets-phoenix-chase-field-9-11-2025--concerts-rb/production/5660607",
+      "title": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
       "listings": [
         {
           "section": "N/A",
-          "row": "31",
-          "price": 85,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 86,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 86,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
-          "price": 88,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "40",
-          "price": 88,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "27",
-          "price": 88,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "26",
-          "price": 88,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 88,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 88,
-          "ticketCount": 4,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 85,
-      "maxPrice": 88
-    },
-    {
-      "title": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "PHX Arena",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-phoenix-phx-arena-11-18-2025--concerts-pop/production/5768469",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 226,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 236,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 236,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 237,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 239,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 240,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 241,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 243,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 244,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 244,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 245,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 245,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 245,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 247,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 247,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 226,
-      "maxPrice": 247
-    },
-    {
-      "title": "Benson Boone",
-      "date": "Wed Sep 24•8:00 PM",
-      "venue": "Desert Diamond Arena",
-      "url": "https://www.vividseats.com/benson-boone-tickets-glendale-desert-diamond-arena-9-24-2025--concerts-pop/production/5737411",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 115,
+          "row": "P",
+          "price": 124,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 121,
-          "ticketCount": 3,
+          "row": "G",
+          "price": 127,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": 122,
-          "ticketCount": 3,
+          "row": "D",
+          "price": 127,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "G",
-          "price": 125,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 125,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
           "price": 127,
-          "ticketCount": 3,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "I",
+          "row": "F",
           "price": 129,
-          "ticketCount": 2,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 131,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "I",
+          "row": "L",
           "price": 132,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
+          "row": "O",
+          "price": 133,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
           "price": 134,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 135,
-          "ticketCount": 2,
+          "row": "N",
+          "price": 136,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 136,
-          "ticketCount": 2,
+          "row": "B",
+          "price": 147,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 150,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 151,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "J",
-          "price": 137,
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 153,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 154,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "DD",
+          "price": 155,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 124,
+      "maxPrice": 155
+    },
+    {
+      "title": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 180,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 185,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 190,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 195,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 197,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 201,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 209,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 211,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 138,
+          "price": 216,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 217,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 220,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 225,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 226,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 231,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 232,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 232,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 237,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 261,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "D",
-          "price": 138,
+          "price": 261,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 139,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 139,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 141,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "I",
-          "price": 142,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 142,
+          "row": "C",
+          "price": 263,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 115,
-      "maxPrice": 142
+      "minPrice": 180,
+      "maxPrice": 263
+    },
+    {
+      "title": "Alabama",
+      "date": "Sat Sep 13•7:00 PM",
+      "venue": "Carolina Crossroads",
+      "url": "https://www.vividseats.com/alabama-tickets-roanoke-rapids-carolina-crossroads-9-13-2025--concerts-country-and-folk/production/5858098",
+      "listings": [
+        {
+          "section": "Section 101",
+          "row": "L",
+          "price": 220,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "Y",
+          "price": 223,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "K",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "T",
+          "price": 231,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "I",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "P",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "X",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "U",
+          "price": 231,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "DD",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "H",
+          "price": 231,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "J",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "P",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 101",
+          "row": "I",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 104",
+          "row": "DD",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 103",
+          "row": "V",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "W",
+          "price": 231,
+          "ticketCount": 3,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 220,
+      "maxPrice": 231
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Chris Brown",
-      "date": "Thu Sep 11•7:00 PM",
-      "venue": "Chase Field",
+      "event": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 85,
+      "buyPrice": 124,
       "sellOn": "StubHub",
-      "sellPrice": "102.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "17.00",
+      "sellPrice": "148.80",
+      "minTicketCount": 1,
+      "profitPerTicket": "24.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-10T12:39:57.071Z"
+      "lastUpdated": "2025-09-10T16:24:49.528Z"
     },
     {
-      "event": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "PHX Arena",
+      "event": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 226,
+      "buyPrice": 180,
       "sellOn": "StubHub",
-      "sellPrice": "271.20",
+      "sellPrice": "216.00",
       "minTicketCount": 2,
-      "profitPerTicket": "45.20",
+      "profitPerTicket": "36.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-10T12:39:57.071Z"
+      "lastUpdated": "2025-09-10T16:24:49.529Z"
     },
     {
-      "event": "Benson Boone",
-      "date": "Wed Sep 24•8:00 PM",
-      "venue": "Desert Diamond Arena",
+      "event": "Alabama",
+      "date": "Sat Sep 13•7:00 PM",
+      "venue": "Carolina Crossroads",
       "buyFrom": "VividSeats",
-      "buyPrice": 115,
+      "buyPrice": 220,
       "sellOn": "StubHub",
-      "sellPrice": "138.00",
+      "sellPrice": "264.00",
       "minTicketCount": 2,
-      "profitPerTicket": "23.00",
+      "profitPerTicket": "44.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-10T12:39:57.071Z"
+      "lastUpdated": "2025-09-10T16:24:49.529Z"
     }
   ]
 }
