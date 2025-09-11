@@ -1,609 +1,497 @@
 {
-  "scrapedAt": "2025-09-11T12:39:06.239Z",
+  "scrapedAt": "2025-09-11T16:24:32.915Z",
   "vividSeats": [
     {
-      "title": "Paul McCartney",
-      "date": "Tue Oct 14•8:00 PM",
-      "venue": "Casey's Center",
-      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
+      "title": "Chris Brown",
+      "date": "Tue Oct 14•7:00 PM",
+      "venue": "Carter-Finley Stadium",
+      "url": "https://www.vividseats.com/chris-brown-tickets-raleigh-carter-finley-stadium-10-14-2025--concerts-rb/production/5699371",
       "listings": [
         {
-          "section": "Section 311",
-          "row": "M",
-          "price": 225,
-          "ticketCount": 2,
-          "feesIncluded": true
+          "section": "N/A",
+          "row": "Z",
+          "price": 186,
+          "ticketCount": 4,
+          "feesIncluded": false
         },
         {
-          "section": "Section 320",
-          "row": "L",
-          "price": 225,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 303",
-          "row": "M",
-          "price": 225,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "J",
-          "price": 226,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 322",
-          "row": "H",
-          "price": 226,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
+          "section": "N/A",
           "row": "N",
-          "price": 231,
-          "ticketCount": 2,
-          "feesIncluded": true
+          "price": 186,
+          "ticketCount": 4,
+          "feesIncluded": false
         },
         {
-          "section": "Section 313",
-          "row": "L",
-          "price": 231,
-          "ticketCount": 2,
-          "feesIncluded": true
+          "section": "N/A",
+          "row": "Y",
+          "price": 187,
+          "ticketCount": 4,
+          "feesIncluded": false
         },
         {
-          "section": "Section 311",
-          "row": "J",
-          "price": 232,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 306",
-          "row": "H",
-          "price": 232,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "Q",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "M",
-          "price": 238,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "M",
-          "price": 238,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 302",
-          "row": "K",
-          "price": 238,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 303",
-          "row": "H",
-          "price": 239,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "K",
-          "price": 242,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "L",
-          "price": 242,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 318",
-          "row": "Q",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "P",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "J",
-          "price": 243,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
+          "section": "N/A",
           "row": "N",
-          "price": 243,
+          "price": 187,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 188,
+          "ticketCount": 5,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 188,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 189,
+          "ticketCount": 8,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 189,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 189,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 189,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 190,
+          "ticketCount": 6,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 190,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 190,
+          "ticketCount": 8,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 190,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 190,
+          "ticketCount": 5,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 190,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 191,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 191,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 191,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 191,
+          "ticketCount": 4,
+          "feesIncluded": false
         }
       ],
-      "minPrice": 225,
-      "maxPrice": 243
+      "minPrice": 186,
+      "maxPrice": 191
     },
     {
-      "title": "Jason Aldean",
-      "date": "Fri Sep 19•7:30 PM",
-      "venue": "Casey's Center",
-      "url": "https://www.vividseats.com/jason-aldean-tickets-des-moines-wells-fargo-arena---des-moines-9-19-2025--concerts-country-and-folk/production/5511667",
+      "title": "Billie Eilish",
+      "date": "Fri Oct 17•7:00 PM+1 Date",
+      "venue": "Lenovo Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-raleigh-lenovo-center-10-17-2025--concerts-pop/production/5768435",
       "listings": [
         {
-          "section": "Section 321",
-          "row": "C",
-          "price": 81,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "F",
-          "price": 81,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "C",
-          "price": 81,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "D",
-          "price": 81,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "B",
-          "price": 81,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 214",
-          "row": "B",
-          "price": 81,
+          "section": "N/A",
+          "row": "K",
+          "price": 144,
           "ticketCount": 4,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 315",
-          "row": "Q",
-          "price": 98,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "P",
-          "price": 102,
+          "section": "N/A",
+          "row": "J",
+          "price": 146,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 315",
+          "section": "N/A",
+          "row": "F",
+          "price": 148,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 148,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
           "row": "N",
-          "price": 103,
+          "price": 148,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 315",
-          "row": "M",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 113",
-          "row": "R",
-          "price": 105,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "A",
-          "price": 105,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
+          "section": "N/A",
           "row": "L",
-          "price": 105,
+          "price": 149,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 314",
-          "row": "Q",
+          "section": "N/A",
+          "row": "P",
+          "price": 149,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 150,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 150,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 150,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 150,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 150,
+          "ticketCount": 1,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 151,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 152,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 153,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 153,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 153,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 154,
+          "ticketCount": 2,
+          "feesIncluded": false
+        }
+      ],
+      "minPrice": 144,
+      "maxPrice": 154
+    },
+    {
+      "title": "Tate McRae",
+      "date": "Sat Oct 25•7:30 PM",
+      "venue": "Lenovo Center",
+      "url": "https://www.vividseats.com/tate-mcrae-tickets-raleigh-lenovo-center-10-25-2025--concerts-pop/production/5578841",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 106,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 107,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 107,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "M",
           "price": 109,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 209",
-          "row": "E",
-          "price": 110,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 113",
-          "row": "N",
-          "price": 110,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 107",
-          "row": "S",
-          "price": 111,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 108",
+          "section": "N/A",
           "row": "H",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
+          "price": 109,
+          "ticketCount": 4,
+          "feesIncluded": false
         },
         {
-          "section": "Section 108",
+          "section": "N/A",
+          "row": "H",
+          "price": 109,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
           "row": "G",
-          "price": 111,
+          "price": 109,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 112",
-          "row": "F",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 81,
-      "maxPrice": 111
-    },
-    {
-      "title": "Eric Church",
-      "date": "Sat Sep 27•7:30 PM",
-      "venue": "Casey's Center",
-      "url": "https://www.vividseats.com/eric-church-tickets-des-moines-wells-fargo-arena---des-moines-9-27-2025--concerts-country-and-folk/production/5727722",
-      "listings": [
-        {
-          "section": "Section 313",
-          "row": "N",
-          "price": 67,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "H",
-          "price": 68,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "J",
-          "price": 70,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "M",
-          "price": 70,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "M",
-          "price": 70,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "N",
-          "price": 70,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "J",
-          "price": 70,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "J",
-          "price": 70,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
+          "section": "N/A",
           "row": "L",
-          "price": 70,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "J",
-          "price": 70,
+          "price": 110,
           "ticketCount": 6,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 317",
+          "section": "N/A",
+          "row": "L",
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 111,
+          "ticketCount": 2,
+          "feesIncluded": false
+        },
+        {
+          "section": "N/A",
           "row": "M",
-          "price": 70,
-          "ticketCount": 6,
-          "feesIncluded": true
+          "price": 111,
+          "ticketCount": 4,
+          "feesIncluded": false
         },
         {
-          "section": "Section 317",
+          "section": "N/A",
           "row": "F",
-          "price": 72,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 319",
-          "row": "H",
-          "price": 74,
+          "price": 111,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 317",
-          "row": "D",
-          "price": 78,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "D",
-          "price": 81,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 308",
-          "row": "F",
-          "price": 81,
+          "section": "N/A",
+          "row": "J",
+          "price": 112,
           "ticketCount": 2,
-          "feesIncluded": true
+          "feesIncluded": false
         },
         {
-          "section": "Section 312",
-          "row": "J",
-          "price": 82,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "J",
-          "price": 82,
+          "section": "N/A",
+          "row": "L",
+          "price": 112,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "K",
-          "price": 82,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "F",
-          "price": 82,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "G",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "F",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "H",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "J",
-          "price": 82,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "M",
-          "price": 83,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 319",
-          "row": "H",
-          "price": 87,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "E",
-          "price": 91,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "Q",
-          "price": 92,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "E",
-          "price": 94,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "E",
-          "price": 95,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "RESER..",
-          "price": 99,
-          "ticketCount": 5,
-          "feesIncluded": true
+          "feesIncluded": false
         }
       ],
-      "minPrice": 67,
-      "maxPrice": 99
+      "minPrice": 106,
+      "maxPrice": 112
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Paul McCartney",
-      "date": "Tue Oct 14•8:00 PM",
-      "venue": "Casey's Center",
+      "event": "Chris Brown",
+      "date": "Tue Oct 14•7:00 PM",
+      "venue": "Carter-Finley Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 225,
+      "buyPrice": 186,
       "sellOn": "StubHub",
-      "sellPrice": "270.00",
+      "sellPrice": "223.20",
       "minTicketCount": 2,
-      "profitPerTicket": "45.00",
+      "profitPerTicket": "37.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T12:39:06.238Z"
+      "lastUpdated": "2025-09-11T16:24:32.915Z"
     },
     {
-      "event": "Jason Aldean",
-      "date": "Fri Sep 19•7:30 PM",
-      "venue": "Casey's Center",
+      "event": "Billie Eilish",
+      "date": "Fri Oct 17•7:00 PM+1 Date",
+      "venue": "Lenovo Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 81,
+      "buyPrice": 144,
       "sellOn": "StubHub",
-      "sellPrice": "97.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "16.20",
+      "sellPrice": "172.80",
+      "minTicketCount": 1,
+      "profitPerTicket": "28.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T12:39:06.239Z"
+      "lastUpdated": "2025-09-11T16:24:32.915Z"
     },
     {
-      "event": "Eric Church",
-      "date": "Sat Sep 27•7:30 PM",
-      "venue": "Casey's Center",
+      "event": "Tate McRae",
+      "date": "Sat Oct 25•7:30 PM",
+      "venue": "Lenovo Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 67,
+      "buyPrice": 106,
       "sellOn": "StubHub",
-      "sellPrice": "80.40",
+      "sellPrice": "127.20",
       "minTicketCount": 2,
-      "profitPerTicket": "13.40",
+      "profitPerTicket": "21.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T12:39:06.239Z"
+      "lastUpdated": "2025-09-11T16:24:32.915Z"
     }
   ]
 }
