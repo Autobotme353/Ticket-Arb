@@ -1,455 +1,490 @@
 {
-  "scrapedAt": "2025-09-11T20:18:34.086Z",
+  "scrapedAt": "2025-09-12T08:24:50.614Z",
   "vividSeats": [
     {
-      "title": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "title": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/tyler-childers-tickets-bristow-jiffy-lube-live-9-25-2025--concerts-country-and-folk/production/5359502",
       "listings": [
         {
           "section": "N/A",
-          "row": "P",
-          "price": 124,
-          "ticketCount": 6,
+          "row": "GA",
+          "price": 105,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
+          "row": "GA",
           "price": 127,
-          "ticketCount": 1,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 127,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
+          "row": "H",
           "price": 129,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 130,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
+          "row": "GA",
           "price": 132,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 133,
-          "ticketCount": 2,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "L",
-          "price": 134,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
           "price": 136,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 145,
-          "ticketCount": 1,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "L",
-          "price": 150,
-          "ticketCount": 3,
+          "price": 136,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 151,
-          "ticketCount": 4,
+          "row": "1",
+          "price": 137,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 153,
-          "ticketCount": 1,
+          "row": "L",
+          "price": 139,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 153,
-          "ticketCount": 1,
+          "row": "H",
+          "price": 140,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 153,
-          "ticketCount": 1,
+          "row": "G",
+          "price": 140,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 141,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "J",
-          "price": 153,
-          "ticketCount": 1,
+          "price": 142,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "O",
-          "price": 153,
-          "ticketCount": 1,
+          "row": "M",
+          "price": 142,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 142,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 143,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 144,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 145,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 145,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 145,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 146,
+          "ticketCount": 5,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 105,
+      "maxPrice": 146
+    },
+    {
+      "title": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/hozier-tickets-bristow-jiffy-lube-live-9-16-2025--concerts-rock/production/5534331",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 36,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 36,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 36,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 36,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 36,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 37,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "F",
-          "price": 153,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 154,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 157,
-          "ticketCount": 1,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 124,
-      "maxPrice": 157
-    },
-    {
-      "title": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 180,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 185,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 190,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 195,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 197,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 201,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 209,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 211,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 216,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 217,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 220,
+          "price": 38,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 225,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 226,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 231,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 232,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 232,
+          "row": "J",
+          "price": 38,
           "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 237,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 261,
-          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "D",
-          "price": 261,
+          "price": 39,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "G",
+          "price": 39,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "C",
-          "price": 263,
-          "ticketCount": 4,
+          "price": 40,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 40,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 40,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 41,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 41,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 42,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 43,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 43,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 43,
+          "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 180,
-      "maxPrice": 263
+      "minPrice": 36,
+      "maxPrice": 43
     },
     {
-      "title": "Alabama",
-      "date": "Sat Sep 13•7:00 PM",
-      "venue": "Carolina Crossroads",
-      "url": "https://www.vividseats.com/alabama-tickets-roanoke-rapids-carolina-crossroads-9-13-2025--concerts-country-and-folk/production/5858098",
+      "title": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
+      "url": "https://www.vividseats.com/zach-top-tickets-charlottesville-john-paul-jones-arena-10-3-2025--concerts-country-and-folk/production/5830507",
       "listings": [
         {
-          "section": "Section 104",
-          "row": "I",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "P",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 103",
-          "row": "X",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 103",
-          "row": "U",
-          "price": 265,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "DD",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "H",
-          "price": 265,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "J",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "P",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "I",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 104",
-          "row": "DD",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 103",
-          "row": "V",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "K",
-          "price": 265,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 102",
+          "section": "N/A",
           "row": "W",
-          "price": 265,
-          "ticketCount": 3,
+          "price": 71,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 102",
-          "row": "T",
-          "price": 265,
+          "section": "N/A",
+          "row": "AA",
+          "price": 72,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "AA",
+          "price": 72,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 73,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "AA",
+          "price": 73,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 73,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 73,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 74,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 74,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 74,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 74,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 75,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 75,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 79,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 80,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 82,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 84,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 84,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 265,
-      "maxPrice": 265
+      "minPrice": 71,
+      "maxPrice": 84
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Tyler Childers",
+      "date": "Sat Sep 27•7:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 124,
+      "buyPrice": 105,
       "sellOn": "StubHub",
-      "sellPrice": "148.80",
+      "sellPrice": "126.00",
       "minTicketCount": 1,
-      "profitPerTicket": "24.80",
+      "profitPerTicket": "21.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T20:18:34.086Z"
+      "lastUpdated": "2025-09-12T08:24:50.614Z"
     },
     {
-      "event": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Hozier",
+      "date": "Tue Sep 16•8:00 PM+1 Date",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 180,
+      "buyPrice": 36,
       "sellOn": "StubHub",
-      "sellPrice": "216.00",
+      "sellPrice": "43.20",
       "minTicketCount": 2,
-      "profitPerTicket": "36.00",
+      "profitPerTicket": "7.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T20:18:34.086Z"
+      "lastUpdated": "2025-09-12T08:24:50.614Z"
     },
     {
-      "event": "Alabama",
-      "date": "Sat Sep 13•7:00 PM",
-      "venue": "Carolina Crossroads",
+      "event": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 265,
+      "buyPrice": 71,
       "sellOn": "StubHub",
-      "sellPrice": "318.00",
+      "sellPrice": "85.20",
       "minTicketCount": 2,
-      "profitPerTicket": "53.00",
+      "profitPerTicket": "14.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-11T20:18:34.086Z"
+      "lastUpdated": "2025-09-12T08:24:50.614Z"
     }
   ]
 }
