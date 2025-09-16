@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-16T12:40:49.249Z",
+  "scrapedAt": "2025-09-16T16:25:30.978Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -10,7 +10,7 @@
         {
           "section": "N/A",
           "row": "14",
-          "price": 206,
+          "price": 205,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -30,8 +30,15 @@
         },
         {
           "section": "N/A",
+          "row": "13",
+          "price": 212,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "11",
-          "price": 214,
+          "price": 213,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -139,16 +146,9 @@
           "price": 221,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 221,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
-      "minPrice": 206,
+      "minPrice": 205,
       "maxPrice": 221
     },
     {
@@ -173,13 +173,6 @@
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "M",
           "price": 82,
           "ticketCount": 2,
@@ -196,7 +189,14 @@
           "section": "N/A",
           "row": "L",
           "price": 82,
-          "ticketCount": 6,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 87,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -229,8 +229,22 @@
         },
         {
           "section": "N/A",
+          "row": "C",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "K",
           "price": 98,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 103,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -278,28 +292,14 @@
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 115,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "G",
           "price": 115,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 116,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 82,
-      "maxPrice": 116
+      "maxPrice": 115
     },
     {
       "title": "Stevie Nicks",
@@ -459,13 +459,13 @@
       "date": "Tue Nov 18•7:00 PM+1 Date",
       "venue": "PHX Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 206,
+      "buyPrice": 205,
       "sellOn": "StubHub",
-      "sellPrice": "247.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "41.20",
+      "sellPrice": "246.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "41.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-16T12:40:49.249Z"
+      "lastUpdated": "2025-09-16T16:25:30.978Z"
     },
     {
       "event": "Benson Boone",
@@ -478,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "16.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-16T12:40:49.249Z"
+      "lastUpdated": "2025-09-16T16:25:30.978Z"
     },
     {
       "event": "Stevie Nicks",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "40.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-16T12:40:49.249Z"
+      "lastUpdated": "2025-09-16T16:25:30.978Z"
     }
   ]
 }
