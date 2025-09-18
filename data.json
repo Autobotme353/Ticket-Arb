@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-18T08:26:07.474Z",
+  "scrapedAt": "2025-09-18T12:39:50.567Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -18,7 +18,7 @@
           "section": "N/A",
           "row": "17",
           "price": 293,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -446,122 +446,10 @@
           "price": 809,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 837,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 837,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 869,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 880,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 887,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 897,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 897,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 897,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 897,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "24",
-          "price": 897,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "DS",
-          "price": 916,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 919,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "25",
-          "price": 919,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 919,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "22",
-          "price": 922,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "4",
-          "price": 923,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
       "minPrice": 554,
-      "maxPrice": 923
+      "maxPrice": 809
     }
   ],
   "stubHub": [],
@@ -577,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "58.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T08:26:07.474Z"
+      "lastUpdated": "2025-09-18T12:39:50.567Z"
     },
     {
       "event": "Sleep Token",
@@ -590,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "25.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T08:26:07.474Z"
+      "lastUpdated": "2025-09-18T12:39:50.567Z"
     },
     {
       "event": "Ariana Grande",
@@ -603,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "110.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T08:26:07.474Z"
+      "lastUpdated": "2025-09-18T12:39:50.567Z"
     }
   ]
 }
