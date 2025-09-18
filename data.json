@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-18T12:39:50.567Z",
+  "scrapedAt": "2025-09-18T16:25:06.984Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -10,22 +10,50 @@
         {
           "section": "N/A",
           "row": "17",
-          "price": 293,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 293,
+          "price": 278,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "21",
+          "price": 279,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "17",
+          "price": 291,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 291,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
           "price": 293,
           "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 297,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 297,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -33,6 +61,13 @@
           "row": "21",
           "price": 298,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 302,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -45,111 +80,76 @@
         {
           "section": "N/A",
           "row": "21",
-          "price": 303,
+          "price": 309,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "20",
-          "price": 303,
+          "price": 309,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "18",
-          "price": 303,
+          "price": 309,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 305,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 306,
+          "row": "16",
+          "price": 310,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "17",
-          "price": 310,
+          "price": 311,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "4",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
+          "row": "10",
           "price": 314,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 314,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 314,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 315,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 316,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 293,
-      "maxPrice": 314
+      "minPrice": 278,
+      "maxPrice": 316
     },
     {
       "title": "Sleep Token",
@@ -183,13 +183,6 @@
           "row": "9",
           "price": 139,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 142,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -230,7 +223,7 @@
         {
           "section": "N/A",
           "row": "18",
-          "price": 163,
+          "price": 166,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -257,16 +250,16 @@
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 203,
+          "row": "RESER..",
+          "price": 201,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
+          "row": "19",
           "price": 203,
-          "ticketCount": 3,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -278,9 +271,16 @@
         },
         {
           "section": "N/A",
+          "row": "15",
+          "price": 207,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "10",
           "price": 208,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -317,7 +317,7 @@
         {
           "section": "N/A",
           "row": "8",
-          "price": 560,
+          "price": 572,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -338,7 +338,7 @@
         {
           "section": "N/A",
           "row": "6",
-          "price": 629,
+          "price": 641,
           "ticketCount": 6,
           "feesIncluded": true
         },
@@ -358,13 +358,6 @@
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 672,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "7",
           "price": 679,
           "ticketCount": 2,
@@ -372,9 +365,9 @@
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 759,
-          "ticketCount": 4,
+          "row": "14",
+          "price": 685,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
@@ -382,6 +375,13 @@
           "row": "18",
           "price": 766,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 774,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -409,28 +409,28 @@
           "section": "N/A",
           "row": "11",
           "price": 785,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 785,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "25",
-          "price": 785,
-          "ticketCount": 3,
+          "row": "17",
+          "price": 791,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 785,
-          "ticketCount": 1,
+          "row": "14",
+          "price": 791,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 791,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -442,14 +442,14 @@
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 809,
-          "ticketCount": 4,
+          "row": "11",
+          "price": 801,
+          "ticketCount": 3,
           "feesIncluded": true
         }
       ],
       "minPrice": 554,
-      "maxPrice": 809
+      "maxPrice": 801
     }
   ],
   "stubHub": [],
@@ -459,13 +459,13 @@
       "date": "Sat Nov 22•7:00 PM+1 Date",
       "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 293,
+      "buyPrice": 278,
       "sellOn": "StubHub",
-      "sellPrice": "351.60",
+      "sellPrice": "333.60",
       "minTicketCount": 2,
-      "profitPerTicket": "58.60",
+      "profitPerTicket": "55.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T12:39:50.567Z"
+      "lastUpdated": "2025-09-18T16:25:06.984Z"
     },
     {
       "event": "Sleep Token",
@@ -478,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "25.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T12:39:50.567Z"
+      "lastUpdated": "2025-09-18T16:25:06.984Z"
     },
     {
       "event": "Ariana Grande",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "110.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-18T12:39:50.567Z"
+      "lastUpdated": "2025-09-18T16:25:06.984Z"
     }
   ]
 }
