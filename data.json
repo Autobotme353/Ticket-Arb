@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-21T08:21:51.345Z",
+  "scrapedAt": "2025-09-21T12:36:20.097Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -465,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "67.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-21T08:21:51.345Z"
+      "lastUpdated": "2025-09-21T12:36:20.097Z"
     },
     {
       "event": "Sleep Token",
@@ -478,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "55.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-21T08:21:51.345Z"
+      "lastUpdated": "2025-09-21T12:36:20.097Z"
     },
     {
       "event": "Ariana Grande",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "129.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-21T08:21:51.345Z"
+      "lastUpdated": "2025-09-21T12:36:20.097Z"
     }
   ]
 }
