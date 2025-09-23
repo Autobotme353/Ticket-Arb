@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-23T08:26:10.564Z",
+  "scrapedAt": "2025-09-23T12:40:14.046Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -160,35 +160,49 @@
         {
           "section": "N/A",
           "row": "M",
-          "price": 270,
+          "price": 219,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 285,
-          "ticketCount": 1,
+          "row": "L",
+          "price": 245,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 295,
+          "row": "J",
+          "price": 260,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 301,
+          "row": "G",
+          "price": 269,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 286,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": 301,
+          "price": 296,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 297,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -201,15 +215,22 @@
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 322,
+          "row": "C",
+          "price": 314,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 319,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 323,
+          "row": "L",
+          "price": 322,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -236,13 +257,6 @@
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 335,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "S",
           "price": 338,
           "ticketCount": 2,
@@ -250,56 +264,42 @@
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 339,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 356,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 356,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 357,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 376,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 381,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "F",
-          "price": 391,
+          "price": 340,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 353,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 356,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 367,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 367,
+          "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 270,
-      "maxPrice": 391
+      "minPrice": 219,
+      "maxPrice": 367
     },
     {
       "title": "Ariana Grande",
@@ -326,13 +326,6 @@
           "row": "15",
           "price": 646,
           "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 646,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -446,10 +439,17 @@
           "price": 742,
           "ticketCount": 2,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 744,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
       "minPrice": 642,
-      "maxPrice": 742
+      "maxPrice": 744
     }
   ],
   "stubHub": [],
@@ -465,20 +465,20 @@
       "minTicketCount": 2,
       "profitPerTicket": "65.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-23T08:26:10.564Z"
+      "lastUpdated": "2025-09-23T12:40:14.046Z"
     },
     {
       "event": "Sleep Token",
       "date": "Sun Sep 28•8:00 PM",
       "venue": "Allstate Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 270,
+      "buyPrice": 219,
       "sellOn": "StubHub",
-      "sellPrice": "324.00",
+      "sellPrice": "262.80",
       "minTicketCount": 1,
-      "profitPerTicket": "54.00",
+      "profitPerTicket": "43.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-23T08:26:10.564Z"
+      "lastUpdated": "2025-09-23T12:40:14.046Z"
     },
     {
       "event": "Ariana Grande",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "128.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-23T08:26:10.564Z"
+      "lastUpdated": "2025-09-23T12:40:14.046Z"
     }
   ]
 }
