@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-25T16:24:53.401Z",
+  "scrapedAt": "2025-09-25T20:22:06.806Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -15,17 +15,17 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 317",
-          "row": "M",
-          "price": 185,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
           "section": "Section 309",
           "row": "P",
           "price": 186,
           "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "M",
+          "price": 189,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -38,7 +38,7 @@
         {
           "section": "Section 309",
           "row": "L",
-          "price": 190,
+          "price": 193,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -50,16 +50,16 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 308",
-          "row": "J",
-          "price": 195,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
           "section": "Section 314",
           "row": "P",
           "price": 196,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "J",
+          "price": 198,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -68,6 +68,13 @@
           "row": "M",
           "price": 198,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "J",
+          "price": 198,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -120,15 +127,15 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 320",
-          "row": "L",
+          "section": "Section 321",
+          "row": "K",
           "price": 203,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 309",
-          "row": "P",
+          "section": "Section 320",
+          "row": "L",
           "price": 203,
           "ticketCount": 2,
           "feesIncluded": true
@@ -139,17 +146,10 @@
           "price": 203,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "Section 308",
-          "row": "H",
-          "price": 204,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 181,
-      "maxPrice": 204
+      "maxPrice": 203
     },
     {
       "title": "Eric Church",
@@ -159,16 +159,65 @@
       "listings": [
         {
           "section": "Section 317",
-          "row": "F",
-          "price": 59,
+          "row": "D",
+          "price": 42,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "Section 322",
           "row": "J",
-          "price": 60,
+          "price": 43,
           "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "F",
+          "price": 45,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 316",
+          "row": "D",
+          "price": 45,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "H",
+          "price": 46,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "L",
+          "price": 52,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "E",
+          "price": 55,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "E",
+          "price": 58,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "E",
+          "price": 59,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -179,27 +228,6 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 320",
-          "row": "H",
-          "price": 63,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "L",
-          "price": 64,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 317",
-          "row": "D",
-          "price": 64,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
           "section": "Section 305",
           "row": "F",
           "price": 65,
@@ -207,22 +235,22 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 308",
-          "row": "F",
+          "section": "Section 309",
+          "row": "J",
           "price": 68,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "Section 316",
-          "row": "D",
+          "row": "J",
           "price": 68,
-          "ticketCount": 3,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 309",
-          "row": "J",
+          "section": "Section 316",
+          "row": "M",
           "price": 68,
           "ticketCount": 2,
           "feesIncluded": true
@@ -246,20 +274,6 @@
           "row": "M",
           "price": 68,
           "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "J",
-          "price": 68,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 316",
-          "row": "M",
-          "price": 68,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -277,29 +291,15 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 319",
-          "row": "H",
+          "section": "Section 307",
+          "row": "D",
           "price": 75,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "E",
-          "price": 78,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "E",
-          "price": 80,
-          "ticketCount": 3,
+          "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 59,
-      "maxPrice": 80
+      "minPrice": 42,
+      "maxPrice": 75
     },
     {
       "title": "Brandon Lake",
@@ -311,7 +311,7 @@
           "section": "Section 310",
           "row": "Q",
           "price": 49,
-          "ticketCount": 3,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
@@ -322,10 +322,10 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 310",
-          "row": "Q",
+          "section": "Section 315",
+          "row": "N",
           "price": 55,
-          "ticketCount": 7,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -339,13 +339,6 @@
           "section": "Section 313",
           "row": "N",
           "price": 60,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "N",
-          "price": 61,
           "ticketCount": 8,
           "feesIncluded": true
         },
@@ -396,6 +389,13 @@
           "row": "L",
           "price": 66,
           "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "Q",
+          "price": 67,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -465,20 +465,20 @@
       "minTicketCount": 1,
       "profitPerTicket": "36.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-25T16:24:53.401Z"
+      "lastUpdated": "2025-09-25T20:22:06.806Z"
     },
     {
       "event": "Eric Church",
       "date": "Sat Sep 27•7:30 PM",
       "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 59,
+      "buyPrice": 42,
       "sellOn": "StubHub",
-      "sellPrice": "70.80",
+      "sellPrice": "50.40",
       "minTicketCount": 2,
-      "profitPerTicket": "11.80",
+      "profitPerTicket": "8.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-25T16:24:53.401Z"
+      "lastUpdated": "2025-09-25T20:22:06.806Z"
     },
     {
       "event": "Brandon Lake",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "9.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-25T16:24:53.401Z"
+      "lastUpdated": "2025-09-25T20:22:06.806Z"
     }
   ]
 }
