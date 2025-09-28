@@ -1,392 +1,483 @@
 {
-  "scrapedAt": "2025-09-28T16:21:18.087Z",
+  "scrapedAt": "2025-09-28T20:19:48.460Z",
   "vividSeats": [
     {
-      "title": "TobyMac with Crowder and Jeremy Camp",
-      "date": "Sat Mar 7•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
-      "url": "https://www.vividseats.com/tobymac-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-3-7-2026--concerts-adult-contemporary/production/5978549",
+      "title": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
+      "url": "https://www.vividseats.com/zach-top-tickets-charlottesville-john-paul-jones-arena-10-3-2025--concerts-country-and-folk/production/5830507",
       "listings": [
         {
           "section": "N/A",
-          "row": "19",
-          "price": 55,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 58,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 65.17,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 65.17,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 66,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 66,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 66,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 66,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 77,
+          "row": "Y",
+          "price": 65,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 79,
+          "row": "Y",
+          "price": 67,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 81,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 81,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 82,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 82,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 82,
-          "ticketCount": 14,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 82,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 82,
-          "ticketCount": 15,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 82,
-          "ticketCount": 9,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 82,
-          "ticketCount": 12,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 55,
-      "maxPrice": 82
-    },
-    {
-      "title": "Cole Swindell",
-      "date": "Thu Oct 2•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
-      "url": "https://www.vividseats.com/cole-swindell-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-10-2-2025--concerts-country-and-folk/production/5683971",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 32,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 43,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 45,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 48,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 50,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 52,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 52,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 52,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 52,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 53,
-          "ticketCount": 9,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 53,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 55,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 55,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 58,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 58,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 60,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 60,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 61,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 62,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 63,
-          "ticketCount": 3,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 32,
-      "maxPrice": 63
-    },
-    {
-      "title": "Cameron Whitcomb (18+ Event)",
-      "date": "Sun Oct 12•8:00 PM",
-      "venue": "Aggie Theatre",
-      "url": "https://www.vividseats.com/cameron-whitcomb-tickets-fort-collins-aggie-theatre-10-12-2025--concerts-country-and-folk/production/5803287",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 62,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 63,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
+          "row": "BB",
           "price": 68,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 119,
+          "row": "Z",
+          "price": 69,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 72,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 73,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "AA",
+          "price": 75,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 78,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 78,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 78,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 78,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 78,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 78,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 79,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 79,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "U",
+          "price": 79,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 79,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 79,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 79,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 79,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 65,
+      "maxPrice": 79
+    },
+    {
+      "title": "Twenty One Pilots",
+      "date": "Sun Oct 5•8:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/twenty-one-pilots-tickets-bristow-jiffy-lube-live-10-5-2025--concerts-rock/production/5813645",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 109,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 136,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 136,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 139,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 140,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 140,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
+          "row": "L",
+          "price": 141,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 144,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 148,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
           "price": 150,
-          "ticketCount": 7,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 150,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 152,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 155,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 155,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 155,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 156,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 162,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 162,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 162,
+          "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 62,
-      "maxPrice": 150
+      "minPrice": 109,
+      "maxPrice": 162
+    },
+    {
+      "title": "Keith Urban",
+      "date": "Sat Oct 4•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/keith-urban-tickets-bristow-jiffy-lube-live-10-4-2025--concerts-country-and-folk/production/5410985",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 74.43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 76,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 78,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 74.43,
+      "maxPrice": 78
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "TobyMac with Crowder and Jeremy Camp",
-      "date": "Sat Mar 7•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "event": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 55,
+      "buyPrice": 65,
       "sellOn": "StubHub",
-      "sellPrice": "66.00",
+      "sellPrice": "78.00",
       "minTicketCount": 1,
-      "profitPerTicket": "11.00",
+      "profitPerTicket": "13.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T16:21:18.087Z"
+      "lastUpdated": "2025-09-28T20:19:48.460Z"
     },
     {
-      "event": "Cole Swindell",
-      "date": "Thu Oct 2•7:00 PM",
-      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "event": "Twenty One Pilots",
+      "date": "Sun Oct 5•8:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 32,
+      "buyPrice": 109,
       "sellOn": "StubHub",
-      "sellPrice": "38.40",
+      "sellPrice": "130.80",
+      "minTicketCount": 1,
+      "profitPerTicket": "21.80",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-09-28T20:19:48.460Z"
+    },
+    {
+      "event": "Keith Urban",
+      "date": "Sat Oct 4•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "buyFrom": "VividSeats",
+      "buyPrice": 74.43,
+      "sellOn": "StubHub",
+      "sellPrice": "89.32",
       "minTicketCount": 2,
-      "profitPerTicket": "6.40",
+      "profitPerTicket": "14.89",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T16:21:18.087Z"
-    },
-    {
-      "event": "Cameron Whitcomb (18+ Event)",
-      "date": "Sun Oct 12•8:00 PM",
-      "venue": "Aggie Theatre",
-      "buyFrom": "VividSeats",
-      "buyPrice": 62,
-      "sellOn": "StubHub",
-      "sellPrice": "74.40",
-      "minTicketCount": 1,
-      "profitPerTicket": "12.40",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T16:21:18.087Z"
+      "lastUpdated": "2025-09-28T20:19:48.460Z"
     }
   ]
 }
