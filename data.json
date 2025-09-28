@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-09-28T08:22:39.016Z",
+  "scrapedAt": "2025-09-28T12:36:37.835Z",
   "vividSeats": [
     {
       "title": "TobyMac with Crowder and Jeremy Camp",
@@ -18,7 +18,7 @@
           "section": "N/A",
           "row": "18",
           "price": 58,
-          "ticketCount": 13,
+          "ticketCount": 11,
           "feesIncluded": true
         },
         {
@@ -121,30 +121,30 @@
         },
         {
           "section": "N/A",
-          "row": "12",
+          "row": "9",
           "price": 82,
-          "ticketCount": 18,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 82,
-          "ticketCount": 15,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "10",
           "price": 82,
-          "ticketCount": 10,
+          "ticketCount": 15,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "9",
+          "row": "11",
           "price": 82,
-          "ticketCount": 10,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 82,
+          "ticketCount": 12,
           "feesIncluded": true
         }
       ],
@@ -296,6 +296,118 @@
           "price": 63,
           "ticketCount": 3,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 63,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 63,
+          "ticketCount": 17,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 63,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 63,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 63,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 63,
+          "ticketCount": 17,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 63,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 63,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 63,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 63,
+          "ticketCount": 14,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 63,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 63,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 63,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 63,
+          "ticketCount": 8,
+          "feesIncluded": true
         }
       ],
       "minPrice": 32,
@@ -360,7 +472,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "11.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T08:22:39.015Z"
+      "lastUpdated": "2025-09-28T12:36:37.835Z"
     },
     {
       "event": "Cole Swindell",
@@ -373,7 +485,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "6.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T08:22:39.016Z"
+      "lastUpdated": "2025-09-28T12:36:37.835Z"
     },
     {
       "event": "Cameron Whitcomb (18+ Event)",
@@ -386,7 +498,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "12.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-28T08:22:39.016Z"
+      "lastUpdated": "2025-09-28T12:36:37.835Z"
     }
   ]
 }
