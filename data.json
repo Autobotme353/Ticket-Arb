@@ -1,497 +1,392 @@
 {
-  "scrapedAt": "2025-09-27T20:19:51.242Z",
+  "scrapedAt": "2025-09-28T08:22:39.016Z",
   "vividSeats": [
     {
-      "title": "Sleep Token",
-      "date": "Sun Sep 28•8:00 PM",
-      "venue": "Allstate Arena",
-      "url": "https://www.vividseats.com/sleep-token-tickets-rosemont-allstate-arena-9-28-2025--concerts-hard-rock/production/5632271",
+      "title": "TobyMac with Crowder and Jeremy Camp",
+      "date": "Sat Mar 7•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "url": "https://www.vividseats.com/tobymac-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-3-7-2026--concerts-adult-contemporary/production/5978549",
       "listings": [
         {
           "section": "N/A",
-          "row": "S",
-          "price": 219,
-          "ticketCount": 2,
+          "row": "19",
+          "price": 55,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 261,
+          "row": "18",
+          "price": 58,
+          "ticketCount": 13,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 65.17,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 65.17,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 66,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 262,
+          "row": "17",
+          "price": 66,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 327,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 327,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 330,
+          "row": "18",
+          "price": 66,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 336,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 352,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 353,
+          "row": "17",
+          "price": 66,
           "ticketCount": 1,
           "feesIncluded": true
         },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 357,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 358,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "ROW P",
-          "price": 369,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 372,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 375,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 384,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "S",
-          "price": 397,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "LOWER",
-          "price": 418,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 419,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 423,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "LOWER",
-          "price": 436,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 219,
-      "maxPrice": 436
-    },
-    {
-      "title": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
-      "listings": [
         {
           "section": "N/A",
           "row": "14",
-          "price": 328,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 336,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 336,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 336,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 337,
+          "price": 77,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "13",
-          "price": 338,
+          "price": 79,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 338,
-          "ticketCount": 4,
+          "row": "14",
+          "price": 81,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 339,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 339,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 340,
-          "ticketCount": 2,
+          "row": "18",
+          "price": 81,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "11",
-          "price": 340,
+          "price": 82,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "15",
-          "price": 341,
-          "ticketCount": 2,
+          "price": 82,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "17",
-          "price": 343,
-          "ticketCount": 2,
+          "row": "14",
+          "price": 82,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 82,
+          "ticketCount": 14,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 82,
+          "ticketCount": 18,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 82,
+          "ticketCount": 15,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "10",
-          "price": 344,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 345,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 345,
-          "ticketCount": 2,
+          "price": 82,
+          "ticketCount": 10,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 345,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 346,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 349,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 349,
-          "ticketCount": 2,
+          "price": 82,
+          "ticketCount": 10,
           "feesIncluded": true
         }
       ],
-      "minPrice": 328,
-      "maxPrice": 349
+      "minPrice": 55,
+      "maxPrice": 82
     },
     {
-      "title": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/ariana-grande-tickets-chicago-united-center-8-6-2026--concerts-pop/production/5995835",
+      "title": "Cole Swindell",
+      "date": "Thu Oct 2•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "url": "https://www.vividseats.com/cole-swindell-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-10-2-2025--concerts-country-and-folk/production/5683971",
       "listings": [
         {
           "section": "N/A",
-          "row": "15",
-          "price": 630,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 630,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 642,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 642,
-          "ticketCount": 2,
+          "row": "19",
+          "price": 32,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "12",
-          "price": 647,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 652,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 658,
+          "price": 43,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 664,
+          "row": "11",
+          "price": 45,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 48,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 50,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 52,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "3",
-          "price": 668,
-          "ticketCount": 2,
+          "row": "18",
+          "price": 52,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 52,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 52,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 53,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 53,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 55,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "6",
-          "price": 673,
-          "ticketCount": 4,
+          "price": 55,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "5",
-          "price": 673,
-          "ticketCount": 4,
+          "row": "13",
+          "price": 58,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 675,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 679,
+          "row": "8",
+          "price": 58,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 679,
+          "row": "6",
+          "price": 60,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 679,
+          "row": "13",
+          "price": 60,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 683,
+          "row": "9",
+          "price": 61,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "11",
-          "price": 684,
+          "price": 62,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 687,
+          "row": "19",
+          "price": 63,
+          "ticketCount": 3,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 32,
+      "maxPrice": 63
+    },
+    {
+      "title": "Cameron Whitcomb (18+ Event)",
+      "date": "Sun Oct 12•8:00 PM",
+      "venue": "Aggie Theatre",
+      "url": "https://www.vividseats.com/cameron-whitcomb-tickets-fort-collins-aggie-theatre-10-12-2025--concerts-country-and-folk/production/5803287",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 62,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 687,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 63,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 687,
-          "ticketCount": 2,
+          "row": "GA",
+          "price": 68,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 119,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 150,
+          "ticketCount": 7,
           "feesIncluded": true
         }
       ],
-      "minPrice": 630,
-      "maxPrice": 687
+      "minPrice": 62,
+      "maxPrice": 150
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Sleep Token",
-      "date": "Sun Sep 28•8:00 PM",
-      "venue": "Allstate Arena",
+      "event": "TobyMac with Crowder and Jeremy Camp",
+      "date": "Sat Mar 7•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
       "buyFrom": "VividSeats",
-      "buyPrice": 219,
+      "buyPrice": 55,
       "sellOn": "StubHub",
-      "sellPrice": "262.80",
+      "sellPrice": "66.00",
       "minTicketCount": 1,
-      "profitPerTicket": "43.80",
+      "profitPerTicket": "11.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-27T20:19:51.242Z"
+      "lastUpdated": "2025-09-28T08:22:39.015Z"
     },
     {
-      "event": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
+      "event": "Cole Swindell",
+      "date": "Thu Oct 2•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
       "buyFrom": "VividSeats",
-      "buyPrice": 328,
+      "buyPrice": 32,
       "sellOn": "StubHub",
-      "sellPrice": "393.60",
+      "sellPrice": "38.40",
       "minTicketCount": 2,
-      "profitPerTicket": "65.60",
+      "profitPerTicket": "6.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-27T20:19:51.242Z"
+      "lastUpdated": "2025-09-28T08:22:39.016Z"
     },
     {
-      "event": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
+      "event": "Cameron Whitcomb (18+ Event)",
+      "date": "Sun Oct 12•8:00 PM",
+      "venue": "Aggie Theatre",
       "buyFrom": "VividSeats",
-      "buyPrice": 630,
+      "buyPrice": 62,
       "sellOn": "StubHub",
-      "sellPrice": "756.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "126.00",
+      "sellPrice": "74.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "12.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-27T20:19:51.242Z"
+      "lastUpdated": "2025-09-28T08:22:39.016Z"
     }
   ]
 }
