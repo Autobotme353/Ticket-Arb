@@ -1,518 +1,497 @@
 {
-  "scrapedAt": "2025-09-29T20:19:41.138Z",
+  "scrapedAt": "2025-09-30T08:28:00.291Z",
   "vividSeats": [
     {
-      "title": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
-      "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
+      "title": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
       "listings": [
         {
-          "section": "N/A",
-          "row": "M",
-          "price": 393,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 414,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 421,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 473,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 473,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 475,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 478,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 574,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 574,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 603,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 637,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 673,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 700,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 700,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 748,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 764,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 765,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 891,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BBB",
-          "price": 1203,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 4,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 393,
-      "maxPrice": 2116
-    },
-    {
-      "title": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/machine-gun-kelly-tickets-bristow-jiffy-lube-live-6-3-2026--concerts-rap-hip-hop/production/6046075",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 51,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 51,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENERAL",
-          "price": 58,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 94,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
+          "section": "Section 309",
           "row": "L",
-          "price": 94,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 94,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 96,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 96,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 96,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 97,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "LAWN",
-          "price": 104,
-          "ticketCount": 16,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 109,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 109,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 109,
-          "ticketCount": 24,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 109,
-          "ticketCount": 10,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 51,
-      "maxPrice": 109
-    },
-    {
-      "title": "Riley Green",
-      "date": "Sat Aug 8•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/riley-green-tickets-bristow-jiffy-lube-live-8-8-2026--concerts-country-and-folk/production/6016970",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 56,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENER..",
-          "price": 59,
+          "price": 162,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "GENER..",
-          "price": 60,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENER..",
-          "price": 63,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "ROWGAL2",
-          "price": 65,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 76,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 82,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 83,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 89.62,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 93.95,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 93,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
+          "section": "Section 308",
           "row": "J",
-          "price": 96,
-          "ticketCount": 8,
+          "price": 168,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "H",
-          "price": 96,
-          "ticketCount": 8,
+          "section": "Section 318",
+          "row": "J",
+          "price": 171,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "G",
-          "price": 96,
-          "ticketCount": 8,
+          "section": "Section 313",
+          "row": "K",
+          "price": 171,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
+          "section": "Section 312",
+          "row": "K",
+          "price": 171,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
           "row": "F",
-          "price": 96,
+          "price": 174,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "L",
+          "price": 174,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "G",
+          "price": 174,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 304",
+          "row": "K",
+          "price": 175,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "F",
+          "price": 177,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "M",
+          "price": 177,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "C",
+          "price": 177,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "H",
+          "price": 177,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "H",
+          "price": 177,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 316",
+          "row": "D",
+          "price": 179,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "F",
+          "price": 179,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "G",
+          "price": 179,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "Q",
+          "price": 180,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "Q",
+          "price": 181,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "A",
+          "price": 181,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 162,
+      "maxPrice": 181
+    },
+    {
+      "title": "Brandon Lake",
+      "date": "Thu Oct 9•7:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/brandon-lake-tickets-des-moines-wells-fargo-arena---des-moines-10-9-2025--concerts-adult-contemporary/production/5682881",
+      "listings": [
+        {
+          "section": "Section 310",
+          "row": "N",
+          "price": 44,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "Q",
+          "price": 46,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "N",
+          "price": 48,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "Q",
+          "price": 48,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "Q",
+          "price": 49,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "N",
+          "price": 51,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "N",
+          "price": 52,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "Q",
+          "price": 53,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "Q",
+          "price": 54,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "L",
+          "price": 55,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "G",
+          "price": 55,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "F",
+          "price": 57,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "E",
+          "price": 57,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "F",
+          "price": 57,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "D",
+          "price": 57,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "F",
+          "price": 57,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "E",
+          "price": 57,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "F",
+          "price": 57,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "F",
+          "price": 57,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "J",
+          "price": 57,
           "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 56,
-      "maxPrice": 96
+      "minPrice": 44,
+      "maxPrice": 57
+    },
+    {
+      "title": "Jonas Brothers",
+      "date": "Sun Oct 5•7:30 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/jonas-brothers-tickets-des-moines-wells-fargo-arena---des-moines-10-5-2025--concerts-pop/production/5651207",
+      "listings": [
+        {
+          "section": "Section 308",
+          "row": "L",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "L",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "L",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "M",
+          "price": 63,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "L",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "M",
+          "price": 73,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "N",
+          "price": 74,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 316",
+          "row": "K",
+          "price": 75,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "M",
+          "price": 75,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "P",
+          "price": 75,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 316",
+          "row": "K",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "K",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "Q",
+          "price": 77,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "M",
+          "price": 77,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 309",
+          "row": "L",
+          "price": 77,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "L",
+          "price": 79,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 63,
+      "maxPrice": 79
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
+      "event": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 393,
+      "buyPrice": 162,
       "sellOn": "StubHub",
-      "sellPrice": "471.60",
+      "sellPrice": "194.40",
       "minTicketCount": 2,
-      "profitPerTicket": "78.60",
+      "profitPerTicket": "32.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-29T20:19:41.138Z"
+      "lastUpdated": "2025-09-30T08:28:00.290Z"
     },
     {
-      "event": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "Brandon Lake",
+      "date": "Thu Oct 9•7:00 PM",
+      "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 51,
+      "buyPrice": 44,
       "sellOn": "StubHub",
-      "sellPrice": "61.20",
+      "sellPrice": "52.80",
       "minTicketCount": 3,
-      "profitPerTicket": "10.20",
+      "profitPerTicket": "8.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-29T20:19:41.138Z"
+      "lastUpdated": "2025-09-30T08:28:00.291Z"
     },
     {
-      "event": "Riley Green",
-      "date": "Sat Aug 8•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "Jonas Brothers",
+      "date": "Sun Oct 5•7:30 PM",
+      "venue": "Casey's Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 56,
+      "buyPrice": 63,
       "sellOn": "StubHub",
-      "sellPrice": "67.20",
+      "sellPrice": "75.60",
       "minTicketCount": 2,
-      "profitPerTicket": "11.20",
+      "profitPerTicket": "12.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-09-29T20:19:41.138Z"
+      "lastUpdated": "2025-09-30T08:28:00.291Z"
     }
   ]
 }
