@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-02T12:39:17.926Z",
+  "scrapedAt": "2025-10-02T16:24:25.031Z",
   "vividSeats": [
     {
       "title": "Billie Eilish",
@@ -7,6 +7,20 @@
       "venue": "Chase Center",
       "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 230,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 235,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
         {
           "section": "N/A",
           "row": "19",
@@ -17,14 +31,49 @@
         {
           "section": "N/A",
           "row": "21",
-          "price": 248,
-          "ticketCount": 2,
+          "price": 242,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 242,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 242,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 242,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 242,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "18",
           "price": 250,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 251,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -44,13 +93,6 @@
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 253,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "20",
           "price": 255,
           "ticketCount": 2,
@@ -65,6 +107,13 @@
         },
         {
           "section": "N/A",
+          "row": "19",
+          "price": 255,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "15",
           "price": 258,
           "ticketCount": 2,
@@ -72,21 +121,14 @@
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": 258,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
+          "row": "7",
           "price": 259,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
+          "row": "17",
           "price": 259,
           "ticketCount": 2,
           "feesIncluded": true
@@ -100,56 +142,14 @@
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 260,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "15",
           "price": 260,
           "ticketCount": 4,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 261,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 262,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 264,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 266,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 266,
-          "ticketCount": 2,
-          "feesIncluded": true
         }
       ],
-      "minPrice": 240,
-      "maxPrice": 266
+      "minPrice": 230,
+      "maxPrice": 260
     },
     {
       "title": "Sleep Token",
@@ -159,6 +159,27 @@
       "listings": [
         {
           "section": "N/A",
+          "row": "18",
+          "price": 96,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 100,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 114,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "17",
           "price": 122,
           "ticketCount": 4,
@@ -166,22 +187,8 @@
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 127,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 140,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 158,
+          "row": "15",
+          "price": 123,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -285,21 +292,14 @@
         },
         {
           "section": "N/A",
-          "row": "27",
-          "price": 293,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 299,
+          "row": "22",
+          "price": 291,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 122,
-      "maxPrice": 299
+      "minPrice": 96,
+      "maxPrice": 291
     },
     {
       "title": "Ariana Grande",
@@ -459,26 +459,26 @@
       "date": "Sat Nov 22•7:00 PM+1 Date",
       "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 240,
+      "buyPrice": 230,
       "sellOn": "StubHub",
-      "sellPrice": "288.00",
+      "sellPrice": "276.00",
       "minTicketCount": 2,
-      "profitPerTicket": "48.00",
+      "profitPerTicket": "46.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-02T12:39:17.926Z"
+      "lastUpdated": "2025-10-02T16:24:25.031Z"
     },
     {
       "event": "Sleep Token",
       "date": "Fri Oct 10•8:00 PM",
       "venue": "Oakland Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 122,
+      "buyPrice": 96,
       "sellOn": "StubHub",
-      "sellPrice": "146.40",
+      "sellPrice": "115.20",
       "minTicketCount": 2,
-      "profitPerTicket": "24.40",
+      "profitPerTicket": "19.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-02T12:39:17.926Z"
+      "lastUpdated": "2025-10-02T16:24:25.031Z"
     },
     {
       "event": "Ariana Grande",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "92.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-02T12:39:17.926Z"
+      "lastUpdated": "2025-10-02T16:24:25.031Z"
     }
   ]
 }
