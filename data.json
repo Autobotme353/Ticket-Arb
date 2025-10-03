@@ -1,609 +1,483 @@
 {
-  "scrapedAt": "2025-10-03T12:39:31.120Z",
+  "scrapedAt": "2025-10-03T16:24:03.319Z",
   "vividSeats": [
     {
-      "title": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "Mortgage Matchup Center",
-      "url": "https://www.vividseats.com/billie-eilish-tickets-phoenix-phx-arena-11-18-2025--concerts-pop/production/5768469",
+      "title": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
+      "url": "https://www.vividseats.com/zach-top-tickets-charlottesville-john-paul-jones-arena-10-3-2025--concerts-country-and-folk/production/5830507",
       "listings": [
         {
           "section": "N/A",
-          "row": "12",
+          "row": "BB",
+          "price": 51,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 51,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 51,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "AA",
+          "price": 52,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 52,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 52,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 53,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "U",
+          "price": 60,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 64,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 70,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 71,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "S",
+          "price": 73,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 73,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 75,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "U",
+          "price": 75,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "AA",
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 79,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 79,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 51,
+      "maxPrice": 79
+    },
+    {
+      "title": "Twenty One Pilots",
+      "date": "Sun Oct 5•8:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/twenty-one-pilots-tickets-bristow-jiffy-lube-live-10-5-2025--concerts-rock/production/5813645",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 100,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 112,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 115,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 117,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 119,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 120,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
           "price": 121,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 122,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 122,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
+          "row": "E",
           "price": 122,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
+          "row": "K",
+          "price": 122,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 122,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
           "price": 123,
-          "ticketCount": 2,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
+          "row": "M",
           "price": 123,
-          "ticketCount": 2,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 124,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 124,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
+          "row": "J",
           "price": 125,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 125,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 126,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 126,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 126,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 128,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 129,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 130,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 130,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
+          "row": "M",
           "price": 131,
-          "ticketCount": 4,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 131,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 131,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 121,
-      "maxPrice": 131
-    },
-    {
-      "title": "Stevie Nicks",
-      "date": "Tue Oct 7•7:00 PM",
-      "venue": "Mortgage Matchup Center",
-      "url": "https://www.vividseats.com/stevie-nicks-tickets-phoenix-phx-arena-10-7-2025--concerts-rock/production/5697239",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 138,
+          "row": "J",
+          "price": 132,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "5",
+          "row": "R",
           "price": 140,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 141,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 142,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 142,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 146,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 147,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 147,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 150,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 154,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 155,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 158,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 162,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 170.78,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 164,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 166,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 167,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 168,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 170,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 174,
-          "ticketCount": 1,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 138,
-      "maxPrice": 174
-    },
-    {
-      "title": "Lady Gaga",
-      "date": "Sun Feb 15•8:00 PM+1 Date",
-      "venue": "Desert Diamond Arena",
-      "url": "https://www.vividseats.com/lady-gaga-tickets-glendale-desert-diamond-arena-2-15-2026--concerts-pop/production/5995311",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 220,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 222,
+          "row": "H",
+          "price": 145,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "P",
-          "price": 225,
+          "price": 147,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "X",
+          "price": 156,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 100,
+      "maxPrice": 156
+    },
+    {
+      "title": "Keith Urban",
+      "date": "Sat Oct 4•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/keith-urban-tickets-bristow-jiffy-lube-live-10-4-2025--concerts-country-and-folk/production/5410985",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 36,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 39,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 40,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 51,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": 225,
+          "price": 52,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 225,
+          "row": "H",
+          "price": 62,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 64,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 66,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "F",
-          "price": 225,
+          "price": 70,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "I",
-          "price": 225,
-          "ticketCount": 2,
+          "row": "P",
+          "price": 71,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 227,
-          "ticketCount": 2,
+          "row": "M",
+          "price": 71,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "E",
-          "price": 228,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 233,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 237,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 242,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "I",
-          "price": 244,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 246,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 248,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 248,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 248,
-          "ticketCount": 2,
+          "row": "L",
+          "price": 71,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "N",
-          "price": 249,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 250,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 251,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 255,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 255,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 257,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 257,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 259,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 259,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 259,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 260,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 260,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 262,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 265,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 265,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 266,
-          "ticketCount": 2,
+          "price": 76,
+          "ticketCount": 16,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 268,
+          "price": 76,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 76,
+          "ticketCount": 9,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 76,
+          "ticketCount": 14,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 76,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 76,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 268,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 269,
+          "row": "L",
+          "price": 76,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 220,
-      "maxPrice": 269
+      "minPrice": 36,
+      "maxPrice": 76
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Billie Eilish",
-      "date": "Tue Nov 18•7:00 PM+1 Date",
-      "venue": "Mortgage Matchup Center",
+      "event": "Zach Top",
+      "date": "Fri Oct 3•8:00 PM",
+      "venue": "John Paul Jones Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 121,
+      "buyPrice": 51,
       "sellOn": "StubHub",
-      "sellPrice": "145.20",
-      "minTicketCount": 2,
-      "profitPerTicket": "24.20",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-03T12:39:31.120Z"
-    },
-    {
-      "event": "Stevie Nicks",
-      "date": "Tue Oct 7•7:00 PM",
-      "venue": "Mortgage Matchup Center",
-      "buyFrom": "VividSeats",
-      "buyPrice": 138,
-      "sellOn": "StubHub",
-      "sellPrice": "165.60",
+      "sellPrice": "61.20",
       "minTicketCount": 1,
-      "profitPerTicket": "27.60",
+      "profitPerTicket": "10.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-03T12:39:31.120Z"
+      "lastUpdated": "2025-10-03T16:24:03.318Z"
     },
     {
-      "event": "Lady Gaga",
-      "date": "Sun Feb 15•8:00 PM+1 Date",
-      "venue": "Desert Diamond Arena",
+      "event": "Twenty One Pilots",
+      "date": "Sun Oct 5•8:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 220,
+      "buyPrice": 100,
       "sellOn": "StubHub",
-      "sellPrice": "264.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "44.00",
+      "sellPrice": "120.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "20.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-03T12:39:31.120Z"
+      "lastUpdated": "2025-10-03T16:24:03.319Z"
+    },
+    {
+      "event": "Keith Urban",
+      "date": "Sat Oct 4•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "buyFrom": "VividSeats",
+      "buyPrice": 36,
+      "sellOn": "StubHub",
+      "sellPrice": "43.20",
+      "minTicketCount": 1,
+      "profitPerTicket": "7.20",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-03T16:24:03.319Z"
     }
   ]
 }
