@@ -1,6 +1,497 @@
 {
-  "scrapedAt": "2025-10-05T08:23:17.053Z",
-  "vividSeats": [],
+  "scrapedAt": "2025-10-05T12:36:08.107Z",
+  "vividSeats": [
+    {
+      "title": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
+      "listings": [
+        {
+          "section": "Section 302",
+          "row": "J",
+          "price": 126,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "H",
+          "price": 126,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "G",
+          "price": 128,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 302",
+          "row": "H",
+          "price": 128,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 302",
+          "row": "K",
+          "price": 131,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 302",
+          "row": "J",
+          "price": 131,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "H",
+          "price": 131,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "L",
+          "price": 132,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "G",
+          "price": 133,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "H",
+          "price": 133,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "L",
+          "price": 134,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "K",
+          "price": 134,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "Q",
+          "price": 135,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "Q",
+          "price": 138,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "F",
+          "price": 139,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "H",
+          "price": 149,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "J",
+          "price": 151,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "J",
+          "price": 151,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "H",
+          "price": 152,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "P",
+          "price": 152,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 126,
+      "maxPrice": 152
+    },
+    {
+      "title": "Brandon Lake",
+      "date": "Thu Oct 9•7:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/brandon-lake-tickets-des-moines-wells-fargo-arena---des-moines-10-9-2025--concerts-adult-contemporary/production/5682881",
+      "listings": [
+        {
+          "section": "Section 314",
+          "row": "Q",
+          "price": 30,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "Q",
+          "price": 31,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "Q",
+          "price": 37,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "N",
+          "price": 37,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "Q",
+          "price": 38,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "G",
+          "price": 39,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "J",
+          "price": 42,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "M",
+          "price": 43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "L",
+          "price": 43,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "K",
+          "price": 44,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "M",
+          "price": 44,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "G",
+          "price": 45,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "G",
+          "price": 45,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "H",
+          "price": 46,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 319",
+          "row": "H",
+          "price": 48,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "G",
+          "price": 48,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 30,
+      "maxPrice": 48
+    },
+    {
+      "title": "Jonas Brothers",
+      "date": "Sun Oct 5•7:30 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/jonas-brothers-tickets-des-moines-wells-fargo-arena---des-moines-10-5-2025--concerts-pop/production/5651207",
+      "listings": [
+        {
+          "section": "Section 308",
+          "row": "N",
+          "price": 61,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "Q",
+          "price": 63,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "M",
+          "price": 63,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "L",
+          "price": 67,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 215",
+          "row": "A",
+          "price": 82,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 207",
+          "row": "B",
+          "price": 82,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 208",
+          "row": "B",
+          "price": 82,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 216",
+          "row": "B",
+          "price": 82,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 202",
+          "row": "A",
+          "price": 101,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 207",
+          "row": "C",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 305",
+          "row": "G",
+          "price": 111,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "Q",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 320",
+          "row": "C",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "P",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "F",
+          "price": 0,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 310",
+          "row": "C",
+          "price": 0,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "Q",
+          "price": 134,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 202",
+          "row": "A",
+          "price": 136,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 219",
+          "row": "A",
+          "price": 136,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 148,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 0,
+      "maxPrice": 148
+    }
+  ],
   "stubHub": [],
-  "opportunities": []
+  "opportunities": [
+    {
+      "event": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 126,
+      "sellOn": "StubHub",
+      "sellPrice": "151.20",
+      "minTicketCount": 2,
+      "profitPerTicket": "25.20",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-05T12:36:08.107Z"
+    },
+    {
+      "event": "Brandon Lake",
+      "date": "Thu Oct 9•7:00 PM",
+      "venue": "Casey's Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 30,
+      "sellOn": "StubHub",
+      "sellPrice": "36.00",
+      "minTicketCount": 2,
+      "profitPerTicket": "6.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-05T12:36:08.107Z"
+    },
+    {
+      "event": "Jonas Brothers",
+      "date": "Sun Oct 5•7:30 PM",
+      "venue": "Casey's Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 0,
+      "sellOn": "StubHub",
+      "sellPrice": "0.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "0.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-05T12:36:08.107Z"
+    }
+  ]
 }
