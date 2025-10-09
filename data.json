@@ -1,434 +1,497 @@
 {
-  "scrapedAt": "2025-10-09T08:27:23.022Z",
+  "scrapedAt": "2025-10-09T12:41:53.533Z",
   "vividSeats": [
     {
-      "title": "Paul McCartney",
-      "date": "Tue Oct 14•8:00 PM",
-      "venue": "Casey's Center",
-      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
         {
-          "section": "Section 302",
-          "row": "H",
-          "price": 98,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 302",
-          "row": "J",
-          "price": 101,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "D",
-          "price": 107,
+          "section": "N/A",
+          "row": "16",
+          "price": 220,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 309",
-          "row": "E",
-          "price": 108,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "C",
-          "price": 110,
+          "section": "N/A",
+          "row": "19",
+          "price": 222,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 321",
-          "row": "G",
-          "price": 110,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "C",
-          "price": 111,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "D",
-          "price": 111,
+          "section": "N/A",
+          "row": "18",
+          "price": 226,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 308",
-          "row": "B",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 319",
-          "row": "K",
-          "price": 112,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "P",
-          "price": 114,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 303",
-          "row": "L",
-          "price": 114,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 303",
-          "row": "J",
-          "price": 115,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 306",
-          "row": "H",
-          "price": 116,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "A",
-          "price": 117,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 318",
-          "row": "F",
-          "price": 119,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "P",
-          "price": 120,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "P",
-          "price": 120,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 313",
-          "row": "Q",
-          "price": 120,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "M",
-          "price": 120,
-          "ticketCount": 6,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 98,
-      "maxPrice": 120
-    },
-    {
-      "title": "Brandon Lake",
-      "date": "Thu Oct 9•7:00 PM",
-      "venue": "Casey's Center",
-      "url": "https://www.vividseats.com/brandon-lake-tickets-des-moines-wells-fargo-arena---des-moines-10-9-2025--concerts-adult-contemporary/production/5682881",
-      "listings": [
-        {
-          "section": "Section 319",
-          "row": "L",
-          "price": 45,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 319",
-          "row": "H",
-          "price": 48,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 321",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 312",
-          "row": "P",
-          "price": 48,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "H",
-          "price": 48,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 308",
-          "row": "G",
-          "price": 48,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 318",
-          "row": "C",
-          "price": 56,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 309",
-          "row": "C",
-          "price": 56,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 315",
-          "row": "B",
-          "price": 56,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 307",
-          "row": "C",
-          "price": 56,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 314",
-          "row": "C",
-          "price": 56,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "C",
-          "price": 56,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 311",
-          "row": "D",
-          "price": 56,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 308",
-          "row": "B",
-          "price": 56,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 310",
-          "row": "L",
-          "price": 72,
-          "ticketCount": 6,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 45,
-      "maxPrice": 72
-    },
-    {
-      "title": "Russell Dickerson",
-      "date": "Sat Oct 25•8:00 PM",
-      "venue": "Vibrant Music Hall",
-      "url": "https://www.vividseats.com/russell-dickerson-tickets-waukee-vibrant-music-hall-10-25-2025--concerts-country-and-folk/production/5696855",
-      "listings": [
-        {
-          "section": "Section 102",
-          "row": "CLUB",
-          "price": 91,
+          "section": "N/A",
+          "row": "17",
+          "price": 230,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
-          "section": "Section 204",
-          "row": "H",
-          "price": 104,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "G",
-          "price": 104,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 204",
-          "row": "F",
-          "price": 104,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "M",
-          "price": 120,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 204",
-          "row": "P",
-          "price": 121,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 101",
-          "row": "B",
-          "price": 139,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 203",
-          "row": "N",
+          "section": "N/A",
+          "row": "15",
           "price": 231,
-          "ticketCount": 5,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 203",
-          "row": "M",
-          "price": 252,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 205",
-          "row": "M",
-          "price": 3059,
+          "section": "N/A",
+          "row": "17",
+          "price": 231,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "Section 203",
-          "row": "S",
-          "price": 3152,
+          "section": "N/A",
+          "row": "6",
+          "price": 231,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BS",
+          "price": 231,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 232,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 234,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 237,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 238,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 238,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 240,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 240,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 240,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 240,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 240,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 242,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 242,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 91,
-      "maxPrice": 3152
+      "minPrice": 220,
+      "maxPrice": 242
+    },
+    {
+      "title": "Sleep Token",
+      "date": "Fri Oct 10•8:00 PM",
+      "venue": "Oakland Arena",
+      "url": "https://www.vividseats.com/sleep-token-tickets-oakland-oakland-arena-10-10-2025--concerts-hard-rock/production/5632402",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 68,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 70,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 77,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 80,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 84,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 87,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "RESER..",
+          "price": 108,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 116,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "RESER..",
+          "price": 119,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 125,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 125,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 125,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 134,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 142,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 143,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 147,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 156,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 156,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 158,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 68,
+      "maxPrice": 158
+    },
+    {
+      "title": "Ariana Grande",
+      "date": "Sat Jun 6•7:30 PM+2 Dates",
+      "venue": "Oakland Arena",
+      "url": "https://www.vividseats.com/ariana-grande-tickets-oakland-oakland-arena-6-6-2026--concerts-pop/production/5973642",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 511,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 537,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 561,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 610,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 611,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 618,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 622,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 623,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 630,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 633,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 633,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 681,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 684,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 685,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 715,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 720,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 744,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 744,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 744,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 744,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 511,
+      "maxPrice": 744
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Paul McCartney",
-      "date": "Tue Oct 14•8:00 PM",
-      "venue": "Casey's Center",
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 98,
+      "buyPrice": 220,
       "sellOn": "StubHub",
-      "sellPrice": "117.60",
-      "minTicketCount": 2,
-      "profitPerTicket": "19.60",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T08:27:23.021Z"
-    },
-    {
-      "event": "Brandon Lake",
-      "date": "Thu Oct 9•7:00 PM",
-      "venue": "Casey's Center",
-      "buyFrom": "VividSeats",
-      "buyPrice": 45,
-      "sellOn": "StubHub",
-      "sellPrice": "54.00",
-      "minTicketCount": 2,
-      "profitPerTicket": "9.00",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T08:27:23.022Z"
-    },
-    {
-      "event": "Russell Dickerson",
-      "date": "Sat Oct 25•8:00 PM",
-      "venue": "Vibrant Music Hall",
-      "buyFrom": "VividSeats",
-      "buyPrice": 91,
-      "sellOn": "StubHub",
-      "sellPrice": "109.20",
+      "sellPrice": "264.00",
       "minTicketCount": 1,
-      "profitPerTicket": "18.20",
+      "profitPerTicket": "44.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T08:27:23.022Z"
+      "lastUpdated": "2025-10-09T12:41:53.533Z"
+    },
+    {
+      "event": "Sleep Token",
+      "date": "Fri Oct 10•8:00 PM",
+      "venue": "Oakland Arena",
+      "buyFrom": "VividSeats",
+      "buyPrice": 68,
+      "sellOn": "StubHub",
+      "sellPrice": "81.60",
+      "minTicketCount": 1,
+      "profitPerTicket": "13.60",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-09T12:41:53.533Z"
+    },
+    {
+      "event": "Ariana Grande",
+      "date": "Sat Jun 6•7:30 PM+2 Dates",
+      "venue": "Oakland Arena",
+      "buyFrom": "VividSeats",
+      "buyPrice": 511,
+      "sellOn": "StubHub",
+      "sellPrice": "613.20",
+      "minTicketCount": 1,
+      "profitPerTicket": "102.20",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-09T12:41:53.533Z"
     }
   ]
 }
