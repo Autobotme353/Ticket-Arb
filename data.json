@@ -1,497 +1,483 @@
 {
-  "scrapedAt": "2025-10-09T16:27:02.068Z",
+  "scrapedAt": "2025-10-09T20:22:18.140Z",
   "vividSeats": [
     {
-      "title": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
-      "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
+      "title": "TobyMac with Crowder and Jeremy Camp",
+      "date": "Sat Mar 7•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "url": "https://www.vividseats.com/tobymac-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-3-7-2026--concerts-adult-contemporary/production/5978549",
       "listings": [
         {
           "section": "N/A",
-          "row": "P",
-          "price": 268,
+          "row": "18",
+          "price": 51,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 273,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 373,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 402,
+          "row": "17",
+          "price": 51,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 444,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 464,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 473,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 478,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 542,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 574,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 574,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 582,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 637,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 700,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 700,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 764,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 891,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 4,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 268,
-      "maxPrice": 2116
-    },
-    {
-      "title": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/machine-gun-kelly-tickets-bristow-jiffy-lube-live-6-3-2026--concerts-rap-hip-hop/production/6046075",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
+          "row": "16",
           "price": 52,
-          "ticketCount": 1,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 53,
-          "ticketCount": 8,
+          "row": "16",
+          "price": 54,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
+          "row": "14",
           "price": 55,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 55,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 56,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 56,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENERAL",
-          "price": 58,
+          "row": "16",
+          "price": 57,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 57,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 59,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENER..",
-          "price": 60,
-          "ticketCount": 10,
+          "row": "15",
+          "price": 59,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "NA",
+          "row": "11",
+          "price": 60,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
           "price": 61,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 61,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 62,
           "ticketCount": 12,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 96,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 98,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 109,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 109,
-          "ticketCount": 8,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 52,
-      "maxPrice": 109
-    },
-    {
-      "title": "Riley Green",
-      "date": "Sat Aug 8•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/riley-green-tickets-bristow-jiffy-lube-live-8-8-2026--concerts-country-and-folk/production/6016970",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 60,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENER..",
-          "price": 60,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 61,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENERAL",
+          "row": "11",
           "price": 62,
-          "ticketCount": 8,
+          "ticketCount": 9,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENER..",
+          "row": "12",
+          "price": 62,
+          "ticketCount": 12,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 65.17,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 65.17,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
           "price": 63,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "ROWGAL2",
-          "price": 65,
-          "ticketCount": 8,
+          "row": "10",
+          "price": 64,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENER..",
-          "price": 65,
-          "ticketCount": 10,
+          "row": "13",
+          "price": 64,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "NA",
-          "price": 67,
-          "ticketCount": 12,
+          "row": "16",
+          "price": 66,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 76,
+          "row": "18",
+          "price": 66,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 66,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 66,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 66,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 78,
-          "ticketCount": 4,
+          "row": "16",
+          "price": 67,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 80,
-          "ticketCount": 4,
+          "row": "16",
+          "price": 67,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "17",
+          "price": 68,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "11",
+          "price": 69,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "15",
+          "price": 69,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "10",
+          "price": 70,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "K",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "10",
+          "price": 71,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "J",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 96,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 96,
-          "ticketCount": 8,
+          "row": "13",
+          "price": 72,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 60,
-      "maxPrice": 96
+      "minPrice": 51,
+      "maxPrice": 72
+    },
+    {
+      "title": "Cameron Whitcomb (18+ Event)",
+      "date": "Sun Oct 12•8:00 PM",
+      "venue": "Aggie Theatre",
+      "url": "https://www.vividseats.com/cameron-whitcomb-tickets-fort-collins-aggie-theatre-10-12-2025--concerts-country-and-folk/production/5803287",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 59,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 112,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 59,
+      "maxPrice": 112
+    },
+    {
+      "title": "MercyMe",
+      "date": "Thu Nov 6•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
+      "url": "https://www.vividseats.com/mercyme-tickets-loveland-blue-fcu-arena-at-the-ranch-events-complex-11-6-2025--concerts-new-age/production/5733577",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 41,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 42,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 42,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 43,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 44,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 45,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 46,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 46,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 47,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 49,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 49,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 50,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 51,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 53,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 54,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 60.69,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 59,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 60,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 61,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 63.59,
+          "ticketCount": 5,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 41,
+      "maxPrice": 63.59
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
+      "event": "TobyMac with Crowder and Jeremy Camp",
+      "date": "Sat Mar 7•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
       "buyFrom": "VividSeats",
-      "buyPrice": 268,
+      "buyPrice": 51,
       "sellOn": "StubHub",
-      "sellPrice": "321.60",
+      "sellPrice": "61.20",
       "minTicketCount": 1,
-      "profitPerTicket": "53.60",
+      "profitPerTicket": "10.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T16:27:02.068Z"
+      "lastUpdated": "2025-10-09T20:22:18.140Z"
     },
     {
-      "event": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "Cameron Whitcomb (18+ Event)",
+      "date": "Sun Oct 12•8:00 PM",
+      "venue": "Aggie Theatre",
       "buyFrom": "VividSeats",
-      "buyPrice": 52,
+      "buyPrice": 59,
       "sellOn": "StubHub",
-      "sellPrice": "62.40",
+      "sellPrice": "70.80",
       "minTicketCount": 1,
-      "profitPerTicket": "10.40",
+      "profitPerTicket": "11.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T16:27:02.068Z"
+      "lastUpdated": "2025-10-09T20:22:18.140Z"
     },
     {
-      "event": "Riley Green",
-      "date": "Sat Aug 8•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "MercyMe",
+      "date": "Thu Nov 6•7:00 PM",
+      "venue": "Blue FCU Arena at The Ranch Events Complex",
       "buyFrom": "VividSeats",
-      "buyPrice": 60,
+      "buyPrice": 41,
       "sellOn": "StubHub",
-      "sellPrice": "72.00",
-      "minTicketCount": 3,
-      "profitPerTicket": "12.00",
+      "sellPrice": "49.20",
+      "minTicketCount": 2,
+      "profitPerTicket": "8.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-09T16:27:02.068Z"
+      "lastUpdated": "2025-10-09T20:22:18.140Z"
     }
   ]
 }
