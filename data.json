@@ -1,609 +1,497 @@
 {
-  "scrapedAt": "2025-10-10T20:21:24.026Z",
+  "scrapedAt": "2025-10-11T08:23:01.724Z",
   "vividSeats": [
     {
-      "title": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
+      "title": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
       "listings": [
         {
           "section": "N/A",
-          "row": "N",
-          "price": 185,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 190,
+          "row": "9",
+          "price": 311,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 191,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 196,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 196,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 201,
+          "row": "6",
+          "price": 311,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 206,
+          "row": "9",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 313,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 324,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 333,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 338,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 340,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 345,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 347,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 371,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 373,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 231,
+          "row": "8",
+          "price": 375,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 231,
+          "row": "14",
+          "price": 383,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 386,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "C",
-          "price": 234,
-          "ticketCount": 9,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 304,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "CC",
-          "price": 335,
+          "row": "8",
+          "price": 389,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Z",
-          "price": 364,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "EE",
-          "price": 369,
+          "row": "6",
+          "price": 390,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 414,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 460,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 466,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 512,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 531,
-          "ticketCount": 16,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 531,
-          "ticketCount": 16,
           "feesIncluded": true
         }
       ],
-      "minPrice": 185,
-      "maxPrice": 531
+      "minPrice": 311,
+      "maxPrice": 390
     },
     {
-      "title": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "title": "Ariana Grande",
+      "date": "Thu Aug 6•8:00 PM+2 Dates",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/ariana-grande-tickets-chicago-united-center-8-6-2026--concerts-pop/production/5995835",
       "listings": [
         {
           "section": "N/A",
-          "row": "O",
-          "price": 129,
+          "row": "15",
+          "price": 544,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 544,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 561,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 561,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 573,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 573,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 595,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 606,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 613,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 624,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 624,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 630,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 630,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 636,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 641,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 641,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 642,
           "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "N",
-          "price": 129,
+          "row": "4",
+          "price": 642,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 642,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 131,
-          "ticketCount": 6,
+          "row": "12",
+          "price": 647,
+          "ticketCount": 2,
           "feesIncluded": true
-        },
+        }
+      ],
+      "minPrice": 544,
+      "maxPrice": 647
+    },
+    {
+      "title": "Tate McRae",
+      "date": "Tue Oct 21•7:30 PM",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/tate-mcrae-tickets-chicago-united-center-10-21-2025--concerts-pop/production/5578832",
+      "listings": [
         {
           "section": "N/A",
-          "row": "M",
-          "price": 144,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 144,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 144,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 144,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 144,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 158,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 163,
+          "row": "10",
+          "price": 152,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "M",
-          "price": 168,
+          "row": "10",
+          "price": 157,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
+          "row": "10",
+          "price": 157,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 163,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 166,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 168,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
           "price": 169,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "X",
-          "price": 176,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 176,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 176,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 186,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 186,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 204,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 204,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 216,
+          "row": "7",
+          "price": 169,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "F",
-          "price": 247,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 275,
+          "row": "3",
+          "price": 169,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "V",
-          "price": 288,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "CC",
-          "price": 291,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "DD",
-          "price": 301,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 301,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 305,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 326,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 357,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 384,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 395,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 418,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 525,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 546,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 563,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 637,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 129,
-      "maxPrice": 637
-    },
-    {
-      "title": "Lindsey Stirling",
-      "date": "Sat Nov 22•8:00 PM",
-      "venue": "Durham Performing Arts Center",
-      "url": "https://www.vividseats.com/lindsey-stirling-tickets-durham-durham-performing-arts-center-11-22-2025--concerts-pop/production/5948758",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 107,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 112,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 112,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 115,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 119,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 120,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 122,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 122,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 126,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 128,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 128,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "O",
-          "price": 128,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 130,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 131,
+          "row": "10",
+          "price": 173,
           "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 133,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 133,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 137,
+          "row": "1",
+          "price": 173,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "G",
-          "price": 139,
-          "ticketCount": 8,
+          "row": "6",
+          "price": 174,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 174,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 177,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 178,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 181,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 182,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 183,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 184,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 186,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 107,
-      "maxPrice": 139
+      "minPrice": 152,
+      "maxPrice": 186
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Diana Ross",
-      "date": "Tue Oct 21•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 185,
+      "buyPrice": 311,
       "sellOn": "StubHub",
-      "sellPrice": "222.00",
+      "sellPrice": "373.20",
       "minTicketCount": 2,
-      "profitPerTicket": "37.00",
+      "profitPerTicket": "62.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-10T20:21:24.026Z"
+      "lastUpdated": "2025-10-11T08:23:01.723Z"
     },
     {
-      "event": "Boz Scaggs",
-      "date": "Thu Nov 20•7:30 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Ariana Grande",
+      "date": "Thu Aug 6•8:00 PM+2 Dates",
+      "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 129,
+      "buyPrice": 544,
       "sellOn": "StubHub",
-      "sellPrice": "154.80",
-      "minTicketCount": 1,
-      "profitPerTicket": "25.80",
+      "sellPrice": "652.80",
+      "minTicketCount": 2,
+      "profitPerTicket": "108.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-10T20:21:24.026Z"
+      "lastUpdated": "2025-10-11T08:23:01.724Z"
     },
     {
-      "event": "Lindsey Stirling",
-      "date": "Sat Nov 22•8:00 PM",
-      "venue": "Durham Performing Arts Center",
+      "event": "Tate McRae",
+      "date": "Tue Oct 21•7:30 PM",
+      "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 107,
+      "buyPrice": 152,
       "sellOn": "StubHub",
-      "sellPrice": "128.40",
+      "sellPrice": "182.40",
       "minTicketCount": 2,
-      "profitPerTicket": "21.40",
+      "profitPerTicket": "30.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-10T20:21:24.026Z"
+      "lastUpdated": "2025-10-11T08:23:01.724Z"
     }
   ]
 }
