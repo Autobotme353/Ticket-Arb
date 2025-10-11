@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-11T08:23:01.724Z",
+  "scrapedAt": "2025-10-11T12:35:48.443Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -330,6 +330,13 @@
         },
         {
           "section": "N/A",
+          "row": "10",
+          "price": 161,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "7",
           "price": 163,
           "ticketCount": 3,
@@ -338,15 +345,15 @@
         {
           "section": "N/A",
           "row": "5",
-          "price": 166,
+          "price": 164,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "10",
-          "price": 168,
-          "ticketCount": 2,
+          "price": 166,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
@@ -372,16 +379,16 @@
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 173,
-          "ticketCount": 7,
+          "row": "11",
+          "price": 171,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "1",
+          "row": "9",
           "price": 173,
-          "ticketCount": 2,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
@@ -400,30 +407,16 @@
         },
         {
           "section": "N/A",
-          "row": "1",
-          "price": 177,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "11",
-          "price": 178,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 181,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 182,
+          "price": 176,
           "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 176,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -435,9 +428,16 @@
         },
         {
           "section": "N/A",
-          "row": "2",
+          "row": "9",
           "price": 184,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 185,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -465,7 +465,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "62.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-11T08:23:01.723Z"
+      "lastUpdated": "2025-10-11T12:35:48.443Z"
     },
     {
       "event": "Ariana Grande",
@@ -478,7 +478,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "108.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-11T08:23:01.724Z"
+      "lastUpdated": "2025-10-11T12:35:48.443Z"
     },
     {
       "event": "Tate McRae",
@@ -491,7 +491,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "30.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-11T08:23:01.724Z"
+      "lastUpdated": "2025-10-11T12:35:48.443Z"
     }
   ]
 }
