@@ -1,6 +1,406 @@
 {
-  "scrapedAt": "2025-10-13T12:41:54.352Z",
-  "vividSeats": [],
+  "scrapedAt": "2025-10-13T16:25:32.346Z",
+  "vividSeats": [
+    {
+      "title": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-des-moines-wells-fargo-arena---des-moines-10-14-2025--concerts-adult-contemporary/production/5871774",
+      "listings": [
+        {
+          "section": "Section 303",
+          "row": "K",
+          "price": 82,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 321",
+          "row": "L",
+          "price": 84,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 315",
+          "row": "H",
+          "price": 85,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 322",
+          "row": "J",
+          "price": 85,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 308",
+          "row": "B",
+          "price": 86,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "Q",
+          "price": 86,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "L",
+          "price": 87,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "M",
+          "price": 88,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "B",
+          "price": 89,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "B",
+          "price": 90,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 311",
+          "row": "G",
+          "price": 92,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 318",
+          "row": "E",
+          "price": 92,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "P",
+          "price": 92,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 312",
+          "row": "P",
+          "price": 92,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 314",
+          "row": "M",
+          "price": 93,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 313",
+          "row": "M",
+          "price": 96,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 307",
+          "row": "L",
+          "price": 96,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 306",
+          "row": "G",
+          "price": 96,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 304",
+          "row": "K",
+          "price": 97,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 317",
+          "row": "B",
+          "price": 97,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 82,
+      "maxPrice": 97
+    },
+    {
+      "title": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "url": "https://www.vividseats.com/russell-dickerson-tickets-waukee-vibrant-music-hall-10-25-2025--concerts-country-and-folk/production/5696855",
+      "listings": [
+        {
+          "section": "Section 102",
+          "row": "CLUB",
+          "price": 78,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "G",
+          "price": 104,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "M",
+          "price": 164,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "K",
+          "price": 182,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "N",
+          "price": 191,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "M",
+          "price": 252,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 108",
+          "row": "B",
+          "price": 358,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 78,
+      "maxPrice": 358
+    },
+    {
+      "title": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "url": "https://www.vividseats.com/luke-combs-tickets-ames-midamerican-energy-field-at-jack-trice-stadium-4-11-2026--concerts-country-and-folk/production/6127537",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 136,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 136,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 140,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 140,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 142,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 142,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 146,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 146,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 146,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 150,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 152,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 152,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 152,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 157,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 157,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 158,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 158,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 162,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 162,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 164,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 136,
+      "maxPrice": 164
+    }
+  ],
   "stubHub": [],
-  "opportunities": []
+  "opportunities": [
+    {
+      "event": "Paul McCartney",
+      "date": "Tue Oct 14•8:00 PM",
+      "venue": "Casey's Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 82,
+      "sellOn": "StubHub",
+      "sellPrice": "98.40",
+      "minTicketCount": 2,
+      "profitPerTicket": "16.40",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-13T16:25:32.346Z"
+    },
+    {
+      "event": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "buyFrom": "VividSeats",
+      "buyPrice": 78,
+      "sellOn": "StubHub",
+      "sellPrice": "93.60",
+      "minTicketCount": 1,
+      "profitPerTicket": "15.60",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-13T16:25:32.346Z"
+    },
+    {
+      "event": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "buyFrom": "VividSeats",
+      "buyPrice": 136,
+      "sellOn": "StubHub",
+      "sellPrice": "163.20",
+      "minTicketCount": 4,
+      "profitPerTicket": "27.20",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-13T16:25:32.346Z"
+    }
+  ]
 }
