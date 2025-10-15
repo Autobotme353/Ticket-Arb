@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-15T12:43:08.991Z",
+  "scrapedAt": "2025-10-15T16:22:09.849Z",
   "vividSeats": [
     {
       "title": "Luke Combs",
@@ -9,6 +9,27 @@
       "listings": [
         {
           "section": "N/A",
+          "row": "29",
+          "price": 84,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 87,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "26",
+          "price": 88,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "22",
           "price": 89,
           "ticketCount": 2,
@@ -16,22 +37,8 @@
         },
         {
           "section": "N/A",
-          "row": "30",
+          "row": "28",
           "price": 91,
-          "ticketCount": 9,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "26",
-          "price": 91,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 92,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -44,21 +51,7 @@
         },
         {
           "section": "N/A",
-          "row": "9",
-          "price": 92,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "23",
-          "price": 92,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
           "price": 92,
           "ticketCount": 2,
           "feesIncluded": true
@@ -67,7 +60,7 @@
           "section": "N/A",
           "row": "16",
           "price": 92,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -79,6 +72,41 @@
         },
         {
           "section": "N/A",
+          "row": "23",
+          "price": 99,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 100,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 100,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 101,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 104,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "24",
           "price": 105,
           "ticketCount": 2,
@@ -86,28 +114,14 @@
         },
         {
           "section": "N/A",
-          "row": "23",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 106,
+          "row": "22",
+          "price": 105,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "15",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "23",
           "price": 106,
           "ticketCount": 2,
           "feesIncluded": true
@@ -121,13 +135,6 @@
         },
         {
           "section": "N/A",
-          "row": "22",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "27",
           "price": 107,
           "ticketCount": 10,
@@ -135,21 +142,14 @@
         },
         {
           "section": "N/A",
-          "row": "19",
+          "row": "22",
           "price": 107,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "25",
-          "price": 108,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
-      "minPrice": 89,
-      "maxPrice": 108
+      "minPrice": 84,
+      "maxPrice": 107
     },
     {
       "title": "Russell Dickerson",
@@ -167,7 +167,7 @@
         {
           "section": "Section 205",
           "row": "M",
-          "price": 122,
+          "price": 113,
           "ticketCount": 3,
           "feesIncluded": true
         },
@@ -189,7 +189,7 @@
           "section": "Section 203",
           "row": "N",
           "price": 169,
-          "ticketCount": 5,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
@@ -205,17 +205,10 @@
           "price": 358,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "Section 203",
-          "row": "S",
-          "price": 534,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 104,
-      "maxPrice": 534
+      "maxPrice": 358
     },
     {
       "title": "Kevin Gates",
@@ -253,7 +246,7 @@
         },
         {
           "section": "Section 205",
-          "row": "N",
+          "row": "P",
           "price": 105,
           "ticketCount": 8,
           "feesIncluded": true
@@ -274,7 +267,21 @@
         },
         {
           "section": "Section 205",
+          "row": "L",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
           "row": "M",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "N",
           "price": 106,
           "ticketCount": 4,
           "feesIncluded": true
@@ -297,20 +304,6 @@
           "section": "Section 202",
           "row": "J",
           "price": 108,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "L",
-          "price": 109,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "L",
-          "price": 109,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -350,8 +343,8 @@
           "feesIncluded": true
         },
         {
-          "section": "Section 205",
-          "row": "P",
+          "section": "Section 202",
+          "row": "J",
           "price": 110,
           "ticketCount": 2,
           "feesIncluded": true
@@ -368,13 +361,13 @@
       "date": "Sat Apr 11•5:20 PM",
       "venue": "MidAmerican Energy Field at Jack Trice Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 89,
+      "buyPrice": 84,
       "sellOn": "StubHub",
-      "sellPrice": "106.80",
+      "sellPrice": "100.80",
       "minTicketCount": 2,
-      "profitPerTicket": "17.80",
+      "profitPerTicket": "16.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-15T12:43:08.990Z"
+      "lastUpdated": "2025-10-15T16:22:09.849Z"
     },
     {
       "event": "Russell Dickerson",
@@ -387,7 +380,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "20.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-15T12:43:08.990Z"
+      "lastUpdated": "2025-10-15T16:22:09.849Z"
     },
     {
       "event": "Kevin Gates",
@@ -400,7 +393,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "19.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-15T12:43:08.991Z"
+      "lastUpdated": "2025-10-15T16:22:09.849Z"
     }
   ]
 }
