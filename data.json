@@ -1,6 +1,497 @@
 {
-  "scrapedAt": "2025-10-15T20:23:32.117Z",
-  "vividSeats": [],
+  "scrapedAt": "2025-10-16T08:28:49.223Z",
+  "vividSeats": [
+    {
+      "title": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 305,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 305,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 307,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 313,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 316,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 316,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 319,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 324,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 325,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 328,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 331,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 333,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 334,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 338,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 338,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 340,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 305,
+      "maxPrice": 340
+    },
+    {
+      "title": "Ariana Grande",
+      "date": "Thu Aug 6•8:00 PM+2 Dates",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/ariana-grande-tickets-chicago-united-center-8-6-2026--concerts-pop/production/5995835",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 617,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 683,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 736,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 744,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 744,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 744,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 772,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 772,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 789,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 799,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 805,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 805,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 816,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 818,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 821,
+          "ticketCount": 11,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 821,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 821,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 821,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 821,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "8",
+          "price": 824,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 617,
+      "maxPrice": 824
+    },
+    {
+      "title": "Tate McRae",
+      "date": "Tue Oct 21•7:30 PM",
+      "venue": "United Center",
+      "url": "https://www.vividseats.com/tate-mcrae-tickets-chicago-united-center-10-21-2025--concerts-pop/production/5578832",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 164,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 164,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 164,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 169,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 169,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 180,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 191,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 193,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 195,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 197,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 200,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 206,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 206,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 208,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "7",
+          "price": 211,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 212,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 215,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 220,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 224,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "9",
+          "price": 224,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 164,
+      "maxPrice": 224
+    }
+  ],
   "stubHub": [],
-  "opportunities": []
+  "opportunities": [
+    {
+      "event": "Paul McCartney",
+      "date": "Tue Nov 25•8:00 PM+1 Date",
+      "venue": "United Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 305,
+      "sellOn": "StubHub",
+      "sellPrice": "366.00",
+      "minTicketCount": 2,
+      "profitPerTicket": "61.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-16T08:28:49.222Z"
+    },
+    {
+      "event": "Ariana Grande",
+      "date": "Thu Aug 6•8:00 PM+2 Dates",
+      "venue": "United Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 617,
+      "sellOn": "StubHub",
+      "sellPrice": "740.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "123.40",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-16T08:28:49.223Z"
+    },
+    {
+      "event": "Tate McRae",
+      "date": "Tue Oct 21•7:30 PM",
+      "venue": "United Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": 164,
+      "sellOn": "StubHub",
+      "sellPrice": "196.80",
+      "minTicketCount": 2,
+      "profitPerTicket": "32.80",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-16T08:28:49.223Z"
+    }
+  ]
 }
