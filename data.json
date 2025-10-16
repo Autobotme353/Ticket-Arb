@@ -1,497 +1,406 @@
 {
-  "scrapedAt": "2025-10-16T08:28:49.223Z",
+  "scrapedAt": "2025-10-16T12:43:17.905Z",
   "vividSeats": [
     {
-      "title": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
+      "title": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "url": "https://www.vividseats.com/luke-combs-tickets-ames-midamerican-energy-field-at-jack-trice-stadium-4-11-2026--concerts-country-and-folk/production/6127537",
       "listings": [
         {
           "section": "N/A",
-          "row": "9",
-          "price": 305,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 305,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 305,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 307,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 310,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 313,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 316,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "18",
-          "price": 316,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 319,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 322,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 322,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 324,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 325,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 328,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 331,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "7",
-          "price": 333,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "4",
-          "price": 334,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 338,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 338,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 340,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 305,
-      "maxPrice": 340
-    },
-    {
-      "title": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/ariana-grande-tickets-chicago-united-center-8-6-2026--concerts-pop/production/5995835",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 617,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 683,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 736,
+          "row": "30",
+          "price": 87,
           "ticketCount": 5,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 744,
+          "row": "25",
+          "price": 97,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 100,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 101,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 102,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 104,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "22",
+          "price": 105,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 105,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 106,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "22",
+          "price": 106,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 107,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 107,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 107,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "25",
+          "price": 108,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 109,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 110,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 744,
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 111,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 744,
+          "row": "19",
+          "price": 111,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 87,
+      "maxPrice": 111
+    },
+    {
+      "title": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "url": "https://www.vividseats.com/russell-dickerson-tickets-waukee-vibrant-music-hall-10-25-2025--concerts-country-and-folk/production/5696855",
+      "listings": [
+        {
+          "section": "Section 205",
+          "row": "K",
+          "price": 95,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "L",
+          "price": 97,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "M",
+          "price": 99,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "G",
+          "price": 100,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "G",
+          "price": 104,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "11",
-          "price": 772,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 772,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 789,
+          "section": "Section 203",
+          "row": "N",
+          "price": 169,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "16",
-          "price": 799,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 805,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "6",
-          "price": 805,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 816,
+          "section": "Section 203",
+          "row": "M",
+          "price": 252,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "7",
-          "price": 818,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 821,
-          "ticketCount": 11,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 821,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 821,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 821,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 821,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "8",
-          "price": 824,
+          "section": "Section 108",
+          "row": "B",
+          "price": 358,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 617,
-      "maxPrice": 824
+      "minPrice": 95,
+      "maxPrice": 358
     },
     {
-      "title": "Tate McRae",
-      "date": "Tue Oct 21•7:30 PM",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/tate-mcrae-tickets-chicago-united-center-10-21-2025--concerts-pop/production/5578832",
+      "title": "Kevin Gates",
+      "date": "Tue Nov 4•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "url": "https://www.vividseats.com/kevin-gates-tickets-waukee-vibrant-music-hall-11-4-2025--concerts-rap-hip-hop/production/5737637",
       "listings": [
         {
-          "section": "N/A",
-          "row": "15",
-          "price": 164,
+          "section": "Section 202",
+          "row": "K",
+          "price": 97,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "15",
-          "price": 164,
-          "ticketCount": 6,
+          "section": "Section 102",
+          "row": "CLUB",
+          "price": 101,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "14",
-          "price": 164,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 169,
+          "section": "Section 203",
+          "row": "L",
+          "price": 102,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "12",
-          "price": 169,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 180,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 191,
+          "section": "Section 205",
+          "row": "L",
+          "price": 104,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "12",
-          "price": 193,
-          "ticketCount": 2,
+          "section": "Section 201",
+          "row": "N",
+          "price": 104,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "11",
-          "price": 195,
-          "ticketCount": 6,
+          "section": "Section 201",
+          "row": "M",
+          "price": 104,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "10",
-          "price": 197,
-          "ticketCount": 3,
+          "section": "Section 201",
+          "row": "L",
+          "price": 104,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "16",
-          "price": 200,
+          "section": "Section 205",
+          "row": "M",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "N",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "P",
+          "price": 105,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "10",
-          "price": 206,
-          "ticketCount": 2,
+          "section": "Section 205",
+          "row": "P",
+          "price": 105,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "5",
-          "price": 206,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 208,
+          "section": "Section 201",
+          "row": "K",
+          "price": 106,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "7",
-          "price": 211,
+          "section": "Section 205",
+          "row": "K",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "M",
+          "price": 107,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "12",
-          "price": 212,
+          "section": "Section 205",
+          "row": "J",
+          "price": 109,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "1",
-          "price": 215,
+          "section": "Section 203",
+          "row": "L",
+          "price": 109,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "J",
+          "price": 109,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "4",
-          "price": 220,
-          "ticketCount": 2,
+          "section": "Section 201",
+          "row": "N",
+          "price": 110,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
-          "section": "N/A",
-          "row": "12",
-          "price": 224,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "9",
-          "price": 224,
+          "section": "Section 204",
+          "row": "M",
+          "price": 113,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 164,
-      "maxPrice": 224
+      "minPrice": 97,
+      "maxPrice": 113
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
+      "event": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 305,
+      "buyPrice": 87,
       "sellOn": "StubHub",
-      "sellPrice": "366.00",
+      "sellPrice": "104.40",
       "minTicketCount": 2,
-      "profitPerTicket": "61.00",
+      "profitPerTicket": "17.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T08:28:49.222Z"
+      "lastUpdated": "2025-10-16T12:43:17.905Z"
     },
     {
-      "event": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
+      "event": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
       "buyFrom": "VividSeats",
-      "buyPrice": 617,
+      "buyPrice": 95,
       "sellOn": "StubHub",
-      "sellPrice": "740.40",
+      "sellPrice": "114.00",
       "minTicketCount": 1,
-      "profitPerTicket": "123.40",
+      "profitPerTicket": "19.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T08:28:49.223Z"
+      "lastUpdated": "2025-10-16T12:43:17.905Z"
     },
     {
-      "event": "Tate McRae",
-      "date": "Tue Oct 21•7:30 PM",
-      "venue": "United Center",
+      "event": "Kevin Gates",
+      "date": "Tue Nov 4•8:00 PM",
+      "venue": "Vibrant Music Hall",
       "buyFrom": "VividSeats",
-      "buyPrice": 164,
+      "buyPrice": 97,
       "sellOn": "StubHub",
-      "sellPrice": "196.80",
-      "minTicketCount": 2,
-      "profitPerTicket": "32.80",
+      "sellPrice": "116.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "19.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T08:28:49.223Z"
+      "lastUpdated": "2025-10-16T12:43:17.905Z"
     }
   ]
 }
