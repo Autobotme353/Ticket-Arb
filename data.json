@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-17T12:41:21.803Z",
+  "scrapedAt": "2025-10-17T16:25:03.968Z",
   "vividSeats": [
     {
       "title": "Diana Ross",
@@ -7,13 +7,6 @@
       "venue": "Durham Performing Arts Center",
       "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
       "listings": [
-        {
-          "section": "N/A",
-          "row": "C",
-          "price": 133,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
         {
           "section": "N/A",
           "row": "B",
@@ -24,8 +17,15 @@
         {
           "section": "N/A",
           "row": "N",
-          "price": 162,
+          "price": 160,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 167,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -33,13 +33,6 @@
           "row": "M",
           "price": 168,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 168,
-          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -52,7 +45,7 @@
         {
           "section": "N/A",
           "row": "M",
-          "price": 181,
+          "price": 183,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -80,14 +73,14 @@
         {
           "section": "N/A",
           "row": "EE",
-          "price": 434,
+          "price": 390,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "BB",
-          "price": 474,
+          "price": 467,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -99,7 +92,7 @@
           "feesIncluded": true
         }
       ],
-      "minPrice": 133,
+      "minPrice": 146,
       "maxPrice": 482
     },
     {
@@ -247,10 +240,122 @@
           "price": 217,
           "ticketCount": 1,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 265,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 268,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 269,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "DD",
+          "price": 270,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 277,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 282,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 284,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 288,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 305,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 395,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 496,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
       "minPrice": 129,
-      "maxPrice": 217
+      "maxPrice": 517
     },
     {
       "title": "Lindsey Stirling",
@@ -410,13 +515,13 @@
       "date": "Tue Oct 21•8:00 PM",
       "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 133,
+      "buyPrice": 146,
       "sellOn": "StubHub",
-      "sellPrice": "159.60",
+      "sellPrice": "175.20",
       "minTicketCount": 2,
-      "profitPerTicket": "26.60",
+      "profitPerTicket": "29.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T12:41:21.803Z"
+      "lastUpdated": "2025-10-17T16:25:03.968Z"
     },
     {
       "event": "Boz Scaggs",
@@ -429,7 +534,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "25.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T12:41:21.803Z"
+      "lastUpdated": "2025-10-17T16:25:03.968Z"
     },
     {
       "event": "Lindsey Stirling",
@@ -442,7 +547,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "20.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T12:41:21.803Z"
+      "lastUpdated": "2025-10-17T16:25:03.968Z"
     }
   ]
 }
