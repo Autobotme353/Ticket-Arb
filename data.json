@@ -1,490 +1,567 @@
 {
-  "scrapedAt": "2025-10-16T20:22:15.499Z",
+  "scrapedAt": "2025-10-17T08:27:39.379Z",
   "vividSeats": [
     {
-      "title": "Luke Combs",
-      "date": "Sat Apr 4•5:20 PM",
-      "venue": "Scott Stadium",
-      "url": "https://www.vividseats.com/luke-combs-tickets-charlottesville-scott-stadium-4-4-2026--concerts-country-and-folk/production/6127536",
+      "title": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/diana-ross-tickets-durham-durham-performing-arts-center-10-21-2025--concerts-rb/production/5866422",
       "listings": [
         {
           "section": "N/A",
-          "row": "Z",
-          "price": 82,
+          "row": "C",
+          "price": 133,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Z",
-          "price": 85,
+          "row": "B",
+          "price": 146,
           "ticketCount": 2,
           "feesIncluded": true
         },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 87,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 89,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 89,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 91,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 96,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 99,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 99,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 100,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 102,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": 102,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 102,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "U",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 105,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 105,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 107,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 82,
-      "maxPrice": 107
-    },
-    {
-      "title": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
-      "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
-      "listings": [
         {
           "section": "N/A",
           "row": "N",
-          "price": 237,
+          "price": 156,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 257,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 282,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 307,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 358,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 373,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 383,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 440,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 441,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 459,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 470,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 473,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 485,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 536,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 333,
+          "price": 165,
           "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 237,
-      "maxPrice": 2116
-    },
-    {
-      "title": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/machine-gun-kelly-tickets-bristow-jiffy-lube-live-6-3-2026--concerts-rap-hip-hop/production/6046075",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 50,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 51,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENERAL",
-          "price": 55,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GENER..",
-          "price": 60,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "NA",
-          "price": 62,
-          "ticketCount": 12,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "N",
-          "price": 95,
-          "ticketCount": 3,
+          "price": 171,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "P",
-          "price": 97,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 103.01,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
+          "row": "N",
+          "price": 177,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
+          "row": "A",
+          "price": 190,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
+          "row": "M",
+          "price": 191,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "B",
-          "price": 104,
-          "ticketCount": 6,
+          "price": 200,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 273,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 296,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "EE",
+          "price": 434,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 474,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "C",
-          "price": 104,
+          "price": 482,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 133,
+      "maxPrice": 482
+    },
+    {
+      "title": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/boz-scaggs-tickets-durham-durham-performing-arts-center-11-20-2025--concerts-adult-contemporary/production/5754561",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 129,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 129,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 131,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 139,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 144,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 144,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 144,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 144,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 144,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 145,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 157,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 160,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 163,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 168,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 176,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 186,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 198,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 204,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 207,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 217,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 251,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 265,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": 268,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "R",
+          "price": 269,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "DD",
+          "price": 270,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 277,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 282,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "BB",
+          "price": 284,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 288,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": 305,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 395,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 496,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 129,
+      "maxPrice": 517
+    },
+    {
+      "title": "Lindsey Stirling",
+      "date": "Sat Nov 22•8:00 PM",
+      "venue": "Durham Performing Arts Center",
+      "url": "https://www.vividseats.com/lindsey-stirling-tickets-durham-durham-performing-arts-center-11-22-2025--concerts-pop/production/5948758",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 103,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 105,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": 112,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": 112,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": 112,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 112,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 115,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 119,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 120,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 120,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "B",
+          "price": 120,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Y",
+          "price": 123,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "D",
-          "price": 104,
+          "price": 126,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 128,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "O",
+          "price": 128,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "CC",
+          "price": 128,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 129,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": 130,
           "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 50,
-      "maxPrice": 104
+      "minPrice": 103,
+      "maxPrice": 130
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Luke Combs",
-      "date": "Sat Apr 4•5:20 PM",
-      "venue": "Scott Stadium",
+      "event": "Diana Ross",
+      "date": "Tue Oct 21•8:00 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 82,
+      "buyPrice": 133,
       "sellOn": "StubHub",
-      "sellPrice": "98.40",
+      "sellPrice": "159.60",
       "minTicketCount": 2,
-      "profitPerTicket": "16.40",
+      "profitPerTicket": "26.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T20:22:15.499Z"
+      "lastUpdated": "2025-10-17T08:27:39.378Z"
     },
     {
-      "event": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
+      "event": "Boz Scaggs",
+      "date": "Thu Nov 20•7:30 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 237,
+      "buyPrice": 129,
       "sellOn": "StubHub",
-      "sellPrice": "284.40",
+      "sellPrice": "154.80",
       "minTicketCount": 1,
-      "profitPerTicket": "47.40",
+      "profitPerTicket": "25.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T20:22:15.499Z"
+      "lastUpdated": "2025-10-17T08:27:39.379Z"
     },
     {
-      "event": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
+      "event": "Lindsey Stirling",
+      "date": "Sat Nov 22•8:00 PM",
+      "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 50,
+      "buyPrice": 103,
       "sellOn": "StubHub",
-      "sellPrice": "60.00",
-      "minTicketCount": 3,
-      "profitPerTicket": "10.00",
+      "sellPrice": "123.60",
+      "minTicketCount": 2,
+      "profitPerTicket": "20.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-16T20:22:15.499Z"
+      "lastUpdated": "2025-10-17T08:27:39.379Z"
     }
   ]
 }
