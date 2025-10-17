@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-17T08:27:39.379Z",
+  "scrapedAt": "2025-10-17T12:41:21.803Z",
   "vividSeats": [
     {
       "title": "Diana Ross",
@@ -24,42 +24,35 @@
         {
           "section": "N/A",
           "row": "N",
-          "price": 156,
+          "price": 162,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 165,
+          "price": 168,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "N",
-          "price": 171,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 177,
+          "price": 168,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "A",
-          "price": 190,
+          "price": 179,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "M",
-          "price": 191,
+          "price": 181,
           "ticketCount": 4,
           "feesIncluded": true
         },
@@ -73,14 +66,14 @@
         {
           "section": "N/A",
           "row": "A",
-          "price": 273,
+          "price": 258,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "G",
-          "price": 296,
+          "price": 273,
           "ticketCount": 3,
           "feesIncluded": true
         },
@@ -254,122 +247,10 @@
           "price": 217,
           "ticketCount": 1,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "F",
-          "price": 251,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 265,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "D",
-          "price": 268,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 269,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "DD",
-          "price": 270,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 277,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 282,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "BB",
-          "price": 284,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 288,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 305,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 395,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 492,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 492,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 496,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 517,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 517,
-          "ticketCount": 4,
-          "feesIncluded": true
         }
       ],
       "minPrice": 129,
-      "maxPrice": 517
+      "maxPrice": 217
     },
     {
       "title": "Lindsey Stirling",
@@ -535,7 +416,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "26.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T08:27:39.378Z"
+      "lastUpdated": "2025-10-17T12:41:21.803Z"
     },
     {
       "event": "Boz Scaggs",
@@ -548,7 +429,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "25.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T08:27:39.379Z"
+      "lastUpdated": "2025-10-17T12:41:21.803Z"
     },
     {
       "event": "Lindsey Stirling",
@@ -561,7 +442,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "20.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-17T08:27:39.379Z"
+      "lastUpdated": "2025-10-17T12:41:21.803Z"
     }
   ]
 }
