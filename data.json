@@ -1,6 +1,413 @@
 {
-  "scrapedAt": "2025-10-17T20:22:13.696Z",
-  "vividSeats": [],
+  "scrapedAt": "2025-10-18T08:24:20.580Z",
+  "vividSeats": [
+    {
+      "title": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "url": "https://www.vividseats.com/luke-combs-tickets-ames-midamerican-energy-field-at-jack-trice-stadium-4-11-2026--concerts-country-and-folk/production/6127537",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "19",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "29",
+          "price": 110,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 111,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 111,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 112,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 112,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 112,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "28",
+          "price": 113,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 113,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 114,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 115,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "22",
+          "price": 115,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "23",
+          "price": 115,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 115,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 116,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 116,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 117,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "30",
+          "price": 118,
+          "ticketCount": 5,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 108,
+      "maxPrice": 118
+    },
+    {
+      "title": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "url": "https://www.vividseats.com/russell-dickerson-tickets-waukee-vibrant-music-hall-10-25-2025--concerts-country-and-folk/production/5696855",
+      "listings": [
+        {
+          "section": "Section 205",
+          "row": "M",
+          "price": 75,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "N",
+          "price": 80,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "K",
+          "price": 88,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "L",
+          "price": 97,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "G",
+          "price": 100,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "G",
+          "price": 104,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "M",
+          "price": 150,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "L",
+          "price": 155,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 108",
+          "row": "B",
+          "price": 167,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 75,
+      "maxPrice": 167
+    },
+    {
+      "title": "Kevin Gates",
+      "date": "Tue Nov 4•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "url": "https://www.vividseats.com/kevin-gates-tickets-waukee-vibrant-music-hall-11-4-2025--concerts-rap-hip-hop/production/5737637",
+      "listings": [
+        {
+          "section": "Section 202",
+          "row": "K",
+          "price": 97,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 102",
+          "row": "CLUB",
+          "price": 101,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "L",
+          "price": 102,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "L",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "N",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "M",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "L",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "M",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "N",
+          "price": 104,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "P",
+          "price": 105,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "P",
+          "price": 105,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "K",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "K",
+          "price": 106,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "M",
+          "price": 107,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 204",
+          "row": "N",
+          "price": 108,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 205",
+          "row": "J",
+          "price": 109,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 203",
+          "row": "L",
+          "price": 109,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "J",
+          "price": 109,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "Section 201",
+          "row": "N",
+          "price": 110,
+          "ticketCount": 6,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 97,
+      "maxPrice": 110
+    }
+  ],
   "stubHub": [],
-  "opportunities": []
+  "opportunities": [
+    {
+      "event": "Luke Combs",
+      "date": "Sat Apr 11•5:20 PM",
+      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "buyFrom": "VividSeats",
+      "buyPrice": 108,
+      "sellOn": "StubHub",
+      "sellPrice": "129.60",
+      "minTicketCount": 2,
+      "profitPerTicket": "21.60",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-18T08:24:20.580Z"
+    },
+    {
+      "event": "Russell Dickerson",
+      "date": "Sat Oct 25•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "buyFrom": "VividSeats",
+      "buyPrice": 75,
+      "sellOn": "StubHub",
+      "sellPrice": "90.00",
+      "minTicketCount": 1,
+      "profitPerTicket": "15.00",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-18T08:24:20.580Z"
+    },
+    {
+      "event": "Kevin Gates",
+      "date": "Tue Nov 4•8:00 PM",
+      "venue": "Vibrant Music Hall",
+      "buyFrom": "VividSeats",
+      "buyPrice": 97,
+      "sellOn": "StubHub",
+      "sellPrice": "116.40",
+      "minTicketCount": 1,
+      "profitPerTicket": "19.40",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-18T08:24:20.580Z"
+    }
+  ]
 }
