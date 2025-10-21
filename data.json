@@ -1,476 +1,497 @@
 {
-  "scrapedAt": "2025-10-21T08:29:18.239Z",
+  "scrapedAt": "2025-10-21T12:43:25.075Z",
   "vividSeats": [
     {
-      "title": "Luke Combs",
-      "date": "Sat Apr 4•5:20 PM",
-      "venue": "Scott Stadium",
-      "url": "https://www.vividseats.com/luke-combs-tickets-charlottesville-scott-stadium-4-4-2026--concerts-country-and-folk/production/6127536",
+      "title": "NBA YoungBoy",
+      "date": "Fri Oct 24•7:30 PM",
+      "venue": "Lenovo Center",
+      "url": "https://www.vividseats.com/nba-youngboy-tickets-raleigh-lenovo-center-10-24-2025--concerts-rap-hip-hop/production/5793114",
       "listings": [
         {
           "section": "N/A",
-          "row": "W",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 105,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 106,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "U",
-          "price": 106,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 107,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "U",
-          "price": 107,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 107,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 107,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 108,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 108,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 108,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 108,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 108,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "V",
-          "price": 108,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "X",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "W",
-          "price": 111,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Y",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 103,
-      "maxPrice": 111
-    },
-    {
-      "title": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
-      "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "CC",
-          "price": 263,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "K",
-          "price": 282,
+          "row": "L",
+          "price": null,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "K",
-          "price": 307,
+          "price": null,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "J",
-          "price": 333,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "J",
-          "price": 358,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 373,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 380,
+          "price": null,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 417,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 422,
-          "ticketCount": 4,
+          "row": "K",
+          "price": null,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "H",
-          "price": 434,
-          "ticketCount": 4,
+          "price": null,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "J",
-          "price": 450,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 459,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "JJ",
-          "price": 473,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "HH",
-          "price": 1852,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "R",
-          "price": 2116,
-          "ticketCount": 3,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 263,
-      "maxPrice": 2116
-    },
-    {
-      "title": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "url": "https://www.vividseats.com/machine-gun-kelly-tickets-bristow-jiffy-lube-live-6-3-2026--concerts-rap-hip-hop/production/6046075",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 50,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "GA",
-          "price": 51,
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENERAL",
-          "price": 55,
+          "row": "K",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GENER..",
-          "price": 60,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "NA",
-          "price": 78,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 95,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 97,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
+          "row": "J",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 103.01,
+          "row": "H",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
+          "row": "H",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
+          "row": "J",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 103.01,
+          "row": "H",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
+          "row": "J",
+          "price": null,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "L",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 99,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "B",
-          "price": 104,
+          "row": "J",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "C",
-          "price": 104,
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": null,
+      "maxPrice": null
+    },
+    {
+      "title": "Tate McRae",
+      "date": "Sat Oct 25•7:30 PM",
+      "venue": "Lenovo Center",
+      "url": "https://www.vividseats.com/tate-mcrae-tickets-raleigh-lenovo-center-10-25-2025--concerts-pop/production/5578841",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 104,
-          "ticketCount": 6,
+          "row": "K",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": null,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": null,
+          "ticketCount": 7,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": null,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "K",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": null,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": null,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": null,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": null,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 50,
-      "maxPrice": 104
+      "minPrice": null,
+      "maxPrice": null
+    },
+    {
+      "title": "Brandon Lake",
+      "date": "Sun Mar 22•7:00 PM",
+      "venue": "Lenovo Center",
+      "url": "https://www.vividseats.com/brandon-lake-tickets-raleigh-lenovo-center-3-22-2026--concerts-adult-contemporary/production/5678899",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "E",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "F",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "D",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "J",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": null,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": null,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": null,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": null,
+      "maxPrice": null
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Luke Combs",
-      "date": "Sat Apr 4•5:20 PM",
-      "venue": "Scott Stadium",
+      "event": "NBA YoungBoy",
+      "date": "Fri Oct 24•7:30 PM",
+      "venue": "Lenovo Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 103,
+      "buyPrice": null,
       "sellOn": "StubHub",
-      "sellPrice": "123.60",
+      "sellPrice": "NaN",
       "minTicketCount": 2,
-      "profitPerTicket": "20.60",
+      "profitPerTicket": "NaN",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-21T08:29:18.238Z"
+      "lastUpdated": "2025-10-21T12:43:25.075Z"
     },
     {
-      "event": "Robert Plant",
-      "date": "Sun Nov 2•7:30 PM",
-      "venue": "Paramount Theater Charlottesville",
+      "event": "Tate McRae",
+      "date": "Sat Oct 25•7:30 PM",
+      "venue": "Lenovo Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 263,
+      "buyPrice": null,
       "sellOn": "StubHub",
-      "sellPrice": "315.60",
+      "sellPrice": "NaN",
+      "minTicketCount": 2,
+      "profitPerTicket": "NaN",
+      "profitMargin": "20% (estimated)",
+      "lastUpdated": "2025-10-21T12:43:25.075Z"
+    },
+    {
+      "event": "Brandon Lake",
+      "date": "Sun Mar 22•7:00 PM",
+      "venue": "Lenovo Center",
+      "buyFrom": "VividSeats",
+      "buyPrice": null,
+      "sellOn": "StubHub",
+      "sellPrice": "NaN",
       "minTicketCount": 1,
-      "profitPerTicket": "52.60",
+      "profitPerTicket": "NaN",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-21T08:29:18.238Z"
-    },
-    {
-      "event": "Machine Gun Kelly",
-      "date": "Wed Jun 3•7:00 PM",
-      "venue": "Jiffy Lube Live",
-      "buyFrom": "VividSeats",
-      "buyPrice": 50,
-      "sellOn": "StubHub",
-      "sellPrice": "60.00",
-      "minTicketCount": 3,
-      "profitPerTicket": "10.00",
-      "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-21T08:29:18.238Z"
+      "lastUpdated": "2025-10-21T12:43:25.075Z"
     }
   ]
 }
