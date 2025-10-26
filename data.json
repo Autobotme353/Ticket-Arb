@@ -1,497 +1,448 @@
 {
-  "scrapedAt": "2025-10-26T08:24:13.664Z",
+  "scrapedAt": "2025-10-26T12:37:54.605Z",
   "vividSeats": [
     {
-      "title": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
+      "title": "Luke Combs",
+      "date": "Sat Apr 4•5:20 PM",
+      "venue": "Scott Stadium",
+      "url": "https://www.vividseats.com/luke-combs-tickets-charlottesville-scott-stadium-4-4-2026--concerts-country-and-folk/production/6127536",
       "listings": [
         {
           "section": "N/A",
-          "row": "15",
-          "price": 338,
+          "row": "Z",
+          "price": 91,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 340,
+          "row": "Y",
+          "price": 94,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "V",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 373,
+          "row": "Y",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": 375,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 389,
+          "row": "S",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 393,
+          "row": "U",
+          "price": 96,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "6",
-          "price": 396,
+          "row": "Z",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "18",
-          "price": 400,
+          "row": "X",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 404,
+          "row": "V",
+          "price": 96,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 408,
+          "row": "V",
+          "price": 97,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 412,
+          "row": "U",
+          "price": 97,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "4",
-          "price": 416,
+          "row": "T",
+          "price": 99,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 103,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 420,
+          "row": "T",
+          "price": 103,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "W",
+          "price": 103,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 103,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 423,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "1",
-          "price": 440,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 443,
+          "row": "V",
+          "price": 103,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 458,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 503,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 521,
+          "row": "T",
+          "price": 103,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 527,
+          "row": "Z",
+          "price": 103,
           "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 338,
-      "maxPrice": 527
+      "minPrice": 91,
+      "maxPrice": 103
     },
     {
-      "title": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/ariana-grande-tickets-chicago-united-center-8-6-2026--concerts-pop/production/5995835",
+      "title": "Robert Plant",
+      "date": "Sun Nov 2•7:30 PM",
+      "venue": "Paramount Theater Charlottesville",
+      "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
       "listings": [
         {
           "section": "N/A",
-          "row": "2",
-          "price": 642,
+          "row": "P",
+          "price": 325,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 642,
-          "ticketCount": 5,
+          "row": "J",
+          "price": 349,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 642,
+          "row": "Q",
+          "price": 406,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 409,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 425,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "6",
-          "price": 642,
+          "row": "E",
+          "price": 451,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 683,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 816,
+          "row": "JJ",
+          "price": 473,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "4",
-          "price": 818,
+          "row": "A",
+          "price": 636,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 687,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 856,
-          "ticketCount": 12,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 857,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 873,
+          "row": "J",
+          "price": 721,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": 878,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "5",
-          "price": 884,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 914,
+          "row": "E",
+          "price": 6354,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "7",
-          "price": 935,
+          "row": "JJ",
+          "price": 7010,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 13294,
+          "ticketCount": 1,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 325,
+      "maxPrice": 13294
+    },
+    {
+      "title": "Machine Gun Kelly",
+      "date": "Wed Jun 3•7:00 PM",
+      "venue": "Jiffy Lube Live",
+      "url": "https://www.vividseats.com/machine-gun-kelly-tickets-bristow-jiffy-lube-live-6-3-2026--concerts-rap-hip-hop/production/6046075",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "GA",
+          "price": 51,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "4",
-          "price": 935,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 950,
+          "row": "GA",
+          "price": 51,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "8",
-          "price": 959,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 963,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 968,
+          "row": "GENERAL",
+          "price": 55,
           "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "6",
-          "price": 969,
-          "ticketCount": 3,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 642,
-      "maxPrice": 969
-    },
-    {
-      "title": "Tame Impala",
-      "date": "Mon Nov 3•8:00 PM",
-      "venue": "United Center",
-      "url": "https://www.vividseats.com/tame-impala-tickets-chicago-united-center-11-3-2025--concerts-rock/production/5988948",
-      "listings": [
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 241,
-          "ticketCount": 3,
+          "row": "GA",
+          "price": 56,
+          "ticketCount": 10,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 259,
-          "ticketCount": 2,
+          "row": "GENER..",
+          "price": 60,
+          "ticketCount": 10,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 268,
-          "ticketCount": 1,
+          "row": "NA",
+          "price": 69,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "16",
-          "price": 282,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 286,
+          "row": "N",
+          "price": 95,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 288,
+          "row": "P",
+          "price": 97,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "11",
-          "price": 290,
-          "ticketCount": 3,
+          "row": "Q",
+          "price": 103.01,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 291,
-          "ticketCount": 2,
+          "row": "L",
+          "price": 103.01,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 294,
+          "row": "Q",
+          "price": 103.01,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 103.01,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 103.01,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 99,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 295,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 296,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 297,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 299,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 302,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 303,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 305,
+          "row": "L",
+          "price": 99,
           "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "13",
-          "price": 305,
-          "ticketCount": 1,
+          "row": "Q",
+          "price": 99,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
-          "price": 308,
-          "ticketCount": 6,
+          "row": "Q",
+          "price": 99,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "12",
-          "price": 308,
-          "ticketCount": 6,
+          "row": "Q",
+          "price": 99,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "10",
-          "price": 309,
-          "ticketCount": 2,
+          "row": "B",
+          "price": 104,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "C",
+          "price": 104,
+          "ticketCount": 8,
           "feesIncluded": true
         }
       ],
-      "minPrice": 241,
-      "maxPrice": 309
+      "minPrice": 51,
+      "maxPrice": 104
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Paul McCartney",
-      "date": "Tue Nov 25•8:00 PM+1 Date",
-      "venue": "United Center",
+      "event": "Luke Combs",
+      "date": "Sat Apr 4•5:20 PM",
+      "venue": "Scott Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 338,
+      "buyPrice": 91,
       "sellOn": "StubHub",
-      "sellPrice": "405.60",
-      "minTicketCount": 1,
-      "profitPerTicket": "67.60",
+      "sellPrice": "109.20",
+      "minTicketCount": 2,
+      "profitPerTicket": "18.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-26T08:24:13.664Z"
+      "lastUpdated": "2025-10-26T12:37:54.605Z"
     },
     {
-      "event": "Ariana Grande",
-      "date": "Thu Aug 6•8:00 PM+2 Dates",
-      "venue": "United Center",
+      "event": "Robert Plant",
+      "date": "Sun Nov 2•7:30 PM",
+      "venue": "Paramount Theater Charlottesville",
       "buyFrom": "VividSeats",
-      "buyPrice": 642,
+      "buyPrice": 325,
       "sellOn": "StubHub",
-      "sellPrice": "770.40",
+      "sellPrice": "390.00",
       "minTicketCount": 1,
-      "profitPerTicket": "128.40",
+      "profitPerTicket": "65.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-26T08:24:13.664Z"
+      "lastUpdated": "2025-10-26T12:37:54.605Z"
     },
     {
-      "event": "Tame Impala",
-      "date": "Mon Nov 3•8:00 PM",
-      "venue": "United Center",
+      "event": "Machine Gun Kelly",
+      "date": "Wed Jun 3•7:00 PM",
+      "venue": "Jiffy Lube Live",
       "buyFrom": "VividSeats",
-      "buyPrice": 241,
+      "buyPrice": 51,
       "sellOn": "StubHub",
-      "sellPrice": "289.20",
-      "minTicketCount": 1,
-      "profitPerTicket": "48.20",
+      "sellPrice": "61.20",
+      "minTicketCount": 2,
+      "profitPerTicket": "10.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-26T08:24:13.664Z"
+      "lastUpdated": "2025-10-26T12:37:54.605Z"
     }
   ]
 }
