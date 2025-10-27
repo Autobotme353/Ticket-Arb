@@ -1,378 +1,497 @@
 {
-  "scrapedAt": "2025-10-27T12:43:52.938Z",
+  "scrapedAt": "2025-10-27T16:27:19.772Z",
   "vividSeats": [
     {
-      "title": "Luke Combs",
-      "date": "Sat Apr 11•5:20 PM",
-      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
-      "url": "https://www.vividseats.com/luke-combs-tickets-ames-midamerican-energy-field-at-jack-trice-stadium-4-11-2026--concerts-country-and-folk/production/6127537",
+      "title": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
+      "url": "https://www.vividseats.com/billie-eilish-tickets-san-francisco-chase-center-11-22-2025--concerts-pop/production/5768485",
       "listings": [
         {
           "section": "N/A",
-          "row": "23",
-          "price": 96,
+          "row": "8",
+          "price": 291,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "24",
-          "price": 96,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 108,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "20",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "26",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "24",
-          "price": 110,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "21",
-          "price": 111,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "19",
-          "price": 111,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "16",
-          "price": 111,
+          "row": "6",
+          "price": 293,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "15",
-          "price": 111,
+          "price": 299,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "19",
-          "price": 111,
+          "row": "21",
+          "price": 302,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 302,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "20",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "6",
+          "price": 305,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 306,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 310,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 312,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 313,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "21",
+          "price": 314,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "4",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 315,
+          "ticketCount": 2,
+          "feesIncluded": true
+        }
+      ],
+      "minPrice": 291,
+      "maxPrice": 315
+    },
+    {
+      "title": "Ariana Grande",
+      "date": "Sat Jun 6•7:30 PM+2 Dates",
+      "venue": "Oakland Arena",
+      "url": "https://www.vividseats.com/ariana-grande-tickets-oakland-oakland-arena-6-6-2026--concerts-pop/production/5973642",
+      "listings": [
+        {
+          "section": "N/A",
+          "row": "5",
+          "price": 633,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 777,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 821,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "18",
-          "price": 111,
+          "price": 837,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "20",
-          "price": 112,
+          "row": "1",
+          "price": 846,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 903,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "23",
-          "price": 114,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "30",
-          "price": 114,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "22",
-          "price": 115,
+          "row": "7",
+          "price": 914,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "20",
-          "price": 115,
+          "row": "18",
+          "price": 952,
           "ticketCount": 3,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "20",
-          "price": 116,
-          "ticketCount": 8,
+          "row": "12",
+          "price": 993,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "21",
-          "price": 116,
+          "row": "19",
+          "price": 1050,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 1055,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 1086,
+          "ticketCount": 5,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 1092,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "27",
+          "price": 1097,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "24",
-          "price": 116,
+          "price": 1108,
           "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "SUITE",
+          "price": 1109,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "24",
+          "price": 1120,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "VIP M29",
+          "price": 1129,
+          "ticketCount": 16,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 1142,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "16",
+          "price": 1142,
+          "ticketCount": 6,
           "feesIncluded": true
         }
       ],
-      "minPrice": 96,
-      "maxPrice": 116
+      "minPrice": 633,
+      "maxPrice": 1142
     },
     {
-      "title": "Kevin Gates",
-      "date": "Tue Nov 4•8:00 PM",
-      "venue": "Vibrant Music Hall",
-      "url": "https://www.vividseats.com/kevin-gates-tickets-waukee-vibrant-music-hall-11-4-2025--concerts-rap-hip-hop/production/5737637",
-      "listings": [
-        {
-          "section": "Section 202",
-          "row": "K",
-          "price": 97,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 203",
-          "row": "L",
-          "price": 101,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "L",
-          "price": 104,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "N",
-          "price": 104,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "M",
-          "price": 104,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "M",
-          "price": 104,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "N",
-          "price": 104,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "P",
-          "price": 105,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "P",
-          "price": 105,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "K",
-          "price": 106,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "L",
-          "price": 106,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 203",
-          "row": "L",
-          "price": 109,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "J",
-          "price": 109,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "L",
-          "price": 113,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "P",
-          "price": 113,
-          "ticketCount": 9,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 205",
-          "row": "K",
-          "price": 113,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 201",
-          "row": "L",
-          "price": 113,
-          "ticketCount": 7,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 202",
-          "row": "L",
-          "price": 119,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "Section 202",
-          "row": "M",
-          "price": 119,
-          "ticketCount": 1,
-          "feesIncluded": true
-        }
-      ],
-      "minPrice": 97,
-      "maxPrice": 119
-    },
-    {
-      "title": "Josiah Queen",
-      "date": "Sun Mar 15•7:00 PM",
-      "venue": "Val Air Ballroom",
-      "url": "https://www.vividseats.com/josiah-queen-tickets-west-des-moines-val-air-ballroom-3-15-2026--concerts-world-music/production/5976684",
+      "title": "Tame Impala",
+      "date": "Fri Nov 14•8:00 PM+1 Date",
+      "venue": "Oakland Arena",
+      "url": "https://www.vividseats.com/tame-impala-tickets-oakland-oakland-arena-11-14-2025--concerts-rock/production/5988956",
       "listings": [
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 102,
-          "ticketCount": 1,
+          "row": "13",
+          "price": 119,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 102,
-          "ticketCount": 8,
+          "row": "13",
+          "price": 120,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 302,
-          "ticketCount": 10,
+          "row": "10",
+          "price": 120,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "GA",
-          "price": 463,
-          "ticketCount": 12,
+          "row": "16",
+          "price": 120,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 120,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 123,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 123,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 124,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 125,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 126,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 126,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 127,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "18",
+          "price": 127,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 127,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 128,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "13",
+          "price": 129,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 129,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 130,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
-      "minPrice": 102,
-      "maxPrice": 463
+      "minPrice": 119,
+      "maxPrice": 130
     }
   ],
   "stubHub": [],
   "opportunities": [
     {
-      "event": "Luke Combs",
-      "date": "Sat Apr 11•5:20 PM",
-      "venue": "MidAmerican Energy Field at Jack Trice Stadium",
+      "event": "Billie Eilish",
+      "date": "Sat Nov 22•7:00 PM+1 Date",
+      "venue": "Chase Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 96,
+      "buyPrice": 291,
       "sellOn": "StubHub",
-      "sellPrice": "115.20",
+      "sellPrice": "349.20",
       "minTicketCount": 2,
-      "profitPerTicket": "19.20",
+      "profitPerTicket": "58.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-27T12:43:52.938Z"
+      "lastUpdated": "2025-10-27T16:27:19.772Z"
     },
     {
-      "event": "Kevin Gates",
-      "date": "Tue Nov 4•8:00 PM",
-      "venue": "Vibrant Music Hall",
+      "event": "Ariana Grande",
+      "date": "Sat Jun 6•7:30 PM+2 Dates",
+      "venue": "Oakland Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 97,
+      "buyPrice": 633,
       "sellOn": "StubHub",
-      "sellPrice": "116.40",
+      "sellPrice": "759.60",
       "minTicketCount": 1,
-      "profitPerTicket": "19.40",
+      "profitPerTicket": "126.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-27T12:43:52.938Z"
+      "lastUpdated": "2025-10-27T16:27:19.772Z"
     },
     {
-      "event": "Josiah Queen",
-      "date": "Sun Mar 15•7:00 PM",
-      "venue": "Val Air Ballroom",
+      "event": "Tame Impala",
+      "date": "Fri Nov 14•8:00 PM+1 Date",
+      "venue": "Oakland Arena",
       "buyFrom": "VividSeats",
-      "buyPrice": 102,
+      "buyPrice": 119,
       "sellOn": "StubHub",
-      "sellPrice": "122.40",
-      "minTicketCount": 1,
-      "profitPerTicket": "20.40",
+      "sellPrice": "142.80",
+      "minTicketCount": 2,
+      "profitPerTicket": "23.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-27T12:43:52.938Z"
+      "lastUpdated": "2025-10-27T16:27:19.772Z"
     }
   ]
 }
