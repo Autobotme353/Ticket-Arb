@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-29T20:26:31.172Z",
+  "scrapedAt": "2025-10-30T08:27:20.377Z",
   "vividSeats": [
     {
       "title": "Luke Combs",
@@ -9,16 +9,23 @@
       "listings": [
         {
           "section": "N/A",
+          "row": "S",
+          "price": 90,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "Z",
-          "price": 91,
+          "price": 90,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "Y",
-          "price": 92,
-          "ticketCount": 5,
+          "row": "Z",
+          "price": 93,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -61,13 +68,6 @@
           "row": "U",
           "price": 96,
           "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Z",
-          "price": 96,
-          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -114,9 +114,9 @@
         },
         {
           "section": "N/A",
-          "row": "S",
-          "price": 100,
-          "ticketCount": 3,
+          "row": "X",
+          "price": 98,
+          "ticketCount": 9,
           "feesIncluded": true
         },
         {
@@ -124,6 +124,13 @@
           "row": "T",
           "price": 102,
           "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Z",
+          "price": 102,
+          "ticketCount": 10,
           "feesIncluded": true
         },
         {
@@ -139,16 +146,9 @@
           "price": 103,
           "ticketCount": 3,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "T",
-          "price": 103,
-          "ticketCount": 3,
-          "feesIncluded": true
         }
       ],
-      "minPrice": 91,
+      "minPrice": 90,
       "maxPrice": 103
     },
     {
@@ -157,6 +157,13 @@
       "venue": "Paramount Theater Charlottesville",
       "url": "https://www.vividseats.com/robert-plant-tickets-charlottesville-paramount-theater-charlottesville-11-2-2025--concerts-rock/production/5882964",
       "listings": [
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 216,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
         {
           "section": "N/A",
           "row": "EE",
@@ -168,20 +175,6 @@
           "section": "N/A",
           "row": "P",
           "price": 232,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 240,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 256,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -201,6 +194,20 @@
         },
         {
           "section": "N/A",
+          "row": "P",
+          "price": 348,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "A",
+          "price": 351,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "JJ",
           "price": 374,
           "ticketCount": 2,
@@ -209,20 +216,13 @@
         {
           "section": "N/A",
           "row": "A",
-          "price": 385,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 411,
+          "price": 374,
           "ticketCount": 4,
           "feesIncluded": true
         }
       ],
-      "minPrice": 219,
-      "maxPrice": 411
+      "minPrice": 216,
+      "maxPrice": 374
     },
     {
       "title": "Iron Maiden",
@@ -230,6 +230,13 @@
       "venue": "Jiffy Lube Live",
       "url": "https://www.vividseats.com/iron-maiden-tickets-bristow-jiffy-lube-live-9-11-2026--concerts-hard-rock/production/6176682",
       "listings": [
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 153.03,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
         {
           "section": "N/A",
           "row": "Q",
@@ -247,6 +254,20 @@
         {
           "section": "N/A",
           "row": "M",
+          "price": 158.78,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 158.78,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "M",
           "price": 154,
           "ticketCount": 3,
           "feesIncluded": true
@@ -255,7 +276,7 @@
           "section": "N/A",
           "row": "L",
           "price": 154,
-          "ticketCount": 5,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -267,9 +288,16 @@
         },
         {
           "section": "N/A",
+          "row": "M",
+          "price": 154,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "L",
           "price": 154,
-          "ticketCount": 9,
+          "ticketCount": 7,
           "feesIncluded": true
         },
         {
@@ -284,6 +312,41 @@
           "row": "B",
           "price": 154,
           "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 159,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 159,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 159,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "Q",
+          "price": 159,
+          "ticketCount": 6,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "P",
+          "price": 159,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -299,73 +362,10 @@
           "price": 162,
           "ticketCount": 2,
           "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "P",
-          "price": 170,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "Q",
-          "price": 171,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
-          "price": 174,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 179,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 182,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 183,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 186,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 186,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "A",
-          "price": 190,
-          "ticketCount": 8,
-          "feesIncluded": true
         }
       ],
       "minPrice": 146,
-      "maxPrice": 190
+      "maxPrice": 162
     }
   ],
   "stubHub": [],
@@ -375,26 +375,26 @@
       "date": "Sat Apr 4•5:20 PM",
       "venue": "Scott Stadium",
       "buyFrom": "VividSeats",
-      "buyPrice": 91,
+      "buyPrice": 90,
       "sellOn": "StubHub",
-      "sellPrice": "109.20",
+      "sellPrice": "108.00",
       "minTicketCount": 2,
-      "profitPerTicket": "18.20",
+      "profitPerTicket": "18.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-29T20:26:31.172Z"
+      "lastUpdated": "2025-10-30T08:27:20.377Z"
     },
     {
       "event": "Robert Plant",
       "date": "Sun Nov 2•7:30 PM",
       "venue": "Paramount Theater Charlottesville",
       "buyFrom": "VividSeats",
-      "buyPrice": 219,
+      "buyPrice": 216,
       "sellOn": "StubHub",
-      "sellPrice": "262.80",
-      "minTicketCount": 2,
-      "profitPerTicket": "43.80",
+      "sellPrice": "259.20",
+      "minTicketCount": 1,
+      "profitPerTicket": "43.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-29T20:26:31.172Z"
+      "lastUpdated": "2025-10-30T08:27:20.377Z"
     },
     {
       "event": "Iron Maiden",
@@ -407,7 +407,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "29.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-29T20:26:31.172Z"
+      "lastUpdated": "2025-10-30T08:27:20.377Z"
     }
   ]
 }
