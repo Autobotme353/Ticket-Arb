@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-10-31T20:22:55.384Z",
+  "scrapedAt": "2025-11-01T08:24:02.387Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -194,20 +194,6 @@
         },
         {
           "section": "N/A",
-          "row": "4",
-          "price": 897,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "3",
-          "price": 897,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
           "row": "16",
           "price": 963,
           "ticketCount": 2,
@@ -225,13 +211,6 @@
           "row": "4",
           "price": 974,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "2",
-          "price": 986,
-          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -296,10 +275,31 @@
           "price": 1091,
           "ticketCount": 4,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "1",
+          "price": 1107,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "2",
+          "price": 1120,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "3",
+          "price": 1120,
+          "ticketCount": 4,
+          "feesIncluded": true
         }
       ],
       "minPrice": 745,
-      "maxPrice": 1091
+      "maxPrice": 1120
     },
     {
       "title": "Tame Impala",
@@ -309,14 +309,14 @@
       "listings": [
         {
           "section": "N/A",
-          "row": "17",
+          "row": "15",
           "price": 300,
-          "ticketCount": 3,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
+          "row": "14",
           "price": 300,
           "ticketCount": 2,
           "feesIncluded": true
@@ -325,7 +325,7 @@
           "section": "N/A",
           "row": "11",
           "price": 300,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -339,14 +339,14 @@
           "section": "N/A",
           "row": "14",
           "price": 306,
-          "ticketCount": 3,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
+          "row": "14",
           "price": 306,
-          "ticketCount": 2,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -393,9 +393,16 @@
         },
         {
           "section": "N/A",
+          "row": "16",
+          "price": 313,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "14",
           "price": 318,
-          "ticketCount": 4,
+          "ticketCount": 6,
           "feesIncluded": true
         },
         {
@@ -414,16 +421,16 @@
         },
         {
           "section": "N/A",
-          "row": "14",
+          "row": "12",
           "price": 324,
-          "ticketCount": 3,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "14",
+          "row": "13",
           "price": 324,
-          "ticketCount": 4,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -437,19 +444,12 @@
           "section": "N/A",
           "row": "3",
           "price": 329,
-          "ticketCount": 6,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 330,
-          "ticketCount": 3,
+          "ticketCount": 2,
           "feesIncluded": true
         }
       ],
       "minPrice": 300,
-      "maxPrice": 330
+      "maxPrice": 329
     }
   ],
   "stubHub": [],
@@ -465,7 +465,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "94.40",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-31T20:22:55.384Z"
+      "lastUpdated": "2025-11-01T08:24:02.387Z"
     },
     {
       "event": "Ariana Grande",
@@ -478,7 +478,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "149.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-31T20:22:55.384Z"
+      "lastUpdated": "2025-11-01T08:24:02.387Z"
     },
     {
       "event": "Tame Impala",
@@ -491,7 +491,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "60.00",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-10-31T20:22:55.384Z"
+      "lastUpdated": "2025-11-01T08:24:02.387Z"
     }
   ]
 }
