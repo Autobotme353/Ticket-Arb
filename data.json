@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-11-01T20:19:39.133Z",
+  "scrapedAt": "2025-11-02T08:23:29.547Z",
   "vividSeats": [
     {
       "title": "Boz Scaggs",
@@ -11,7 +11,7 @@
           "section": "N/A",
           "row": "P",
           "price": 104,
-          "ticketCount": 10,
+          "ticketCount": 8,
           "feesIncluded": true
         },
         {
@@ -177,14 +177,14 @@
         },
         {
           "section": "N/A",
-          "row": "J",
+          "row": "EE",
           "price": 305,
           "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "EE",
+          "row": "J",
           "price": 305,
           "ticketCount": 1,
           "feesIncluded": true
@@ -205,37 +205,37 @@
         },
         {
           "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "G",
+          "price": 492,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "H",
+          "price": 517,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "J",
-          "price": 422,
-          "ticketCount": 1,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 492,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "G",
-          "price": 492,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 517,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "H",
-          "price": 517,
-          "ticketCount": 4,
+          "price": 545,
+          "ticketCount": 2,
           "feesIncluded": true
         },
         {
@@ -272,35 +272,14 @@
         {
           "section": "N/A",
           "row": "P",
-          "price": 96,
+          "price": 103,
           "ticketCount": 6,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "N",
-          "price": 98,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "E",
-          "price": 103,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "M",
-          "price": 103,
-          "ticketCount": 8,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "L",
-          "price": 108,
+          "price": 105,
           "ticketCount": 3,
           "feesIncluded": true
         },
@@ -313,9 +292,16 @@
         },
         {
           "section": "N/A",
-          "row": "D",
-          "price": 112,
-          "ticketCount": 2,
+          "row": "M",
+          "price": 110,
+          "ticketCount": 8,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 115,
+          "ticketCount": 3,
           "feesIncluded": true
         },
         {
@@ -329,7 +315,7 @@
           "section": "N/A",
           "row": "K",
           "price": 119,
-          "ticketCount": 8,
+          "ticketCount": 5,
           "feesIncluded": true
         },
         {
@@ -341,15 +327,15 @@
         },
         {
           "section": "N/A",
-          "row": "H",
-          "price": 122,
+          "row": "B",
+          "price": 124,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "B",
-          "price": 124,
+          "row": "H",
+          "price": 129,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -408,10 +394,24 @@
           "price": 142,
           "ticketCount": 4,
           "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "L",
+          "price": 157,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "N",
+          "price": 165,
+          "ticketCount": 2,
+          "feesIncluded": true
         }
       ],
-      "minPrice": 96,
-      "maxPrice": 142
+      "minPrice": 103,
+      "maxPrice": 165
     },
     {
       "title": "John Fogerty",
@@ -465,7 +465,7 @@
           "section": "N/A",
           "row": "Z",
           "price": 90,
-          "ticketCount": 6,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -486,7 +486,7 @@
           "section": "N/A",
           "row": "X",
           "price": 91,
-          "ticketCount": 6,
+          "ticketCount": 4,
           "feesIncluded": true
         },
         {
@@ -540,6 +540,13 @@
         },
         {
           "section": "N/A",
+          "row": "P",
+          "price": 133,
+          "ticketCount": 10,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "O",
           "price": 133,
           "ticketCount": 10,
@@ -548,13 +555,6 @@
         {
           "section": "N/A",
           "row": "P",
-          "price": 133,
-          "ticketCount": 10,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "N",
           "price": 133,
           "ticketCount": 10,
           "feesIncluded": true
@@ -577,20 +577,20 @@
       "minTicketCount": 1,
       "profitPerTicket": "20.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-01T20:19:39.133Z"
+      "lastUpdated": "2025-11-02T08:23:29.547Z"
     },
     {
       "event": "Lindsey Stirling",
       "date": "Sat Nov 22•8:00 PM",
       "venue": "Durham Performing Arts Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 96,
+      "buyPrice": 103,
       "sellOn": "StubHub",
-      "sellPrice": "115.20",
+      "sellPrice": "123.60",
       "minTicketCount": 2,
-      "profitPerTicket": "19.20",
+      "profitPerTicket": "20.60",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-01T20:19:39.133Z"
+      "lastUpdated": "2025-11-02T08:23:29.547Z"
     },
     {
       "event": "John Fogerty",
@@ -603,7 +603,7 @@
       "minTicketCount": 2,
       "profitPerTicket": "15.91",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-01T20:19:39.133Z"
+      "lastUpdated": "2025-11-02T08:23:29.547Z"
     }
   ]
 }
