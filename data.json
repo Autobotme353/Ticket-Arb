@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2025-11-03T12:43:31.296Z",
+  "scrapedAt": "2025-11-03T16:24:50.027Z",
   "vividSeats": [
     {
       "title": "Paul McCartney",
@@ -142,14 +142,14 @@
         },
         {
           "section": "N/A",
-          "row": "6",
-          "price": 588,
-          "ticketCount": 2,
+          "row": "8",
+          "price": 573,
+          "ticketCount": 4,
           "feesIncluded": true
         }
       ],
       "minPrice": 339,
-      "maxPrice": 588
+      "maxPrice": 573
     },
     {
       "title": "Ariana Grande",
@@ -310,77 +310,112 @@
         {
           "section": "N/A",
           "row": "15",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 311,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
           "price": 313,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
-          "row": "15",
-          "price": 323,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 323,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 323,
+          "row": "13",
+          "price": 316,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "13",
+          "price": 317,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "15",
+          "price": 321,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "12",
+          "price": 322,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
+          "price": 325,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "11",
           "price": 328,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
+          "row": "16",
+          "price": 330,
+          "ticketCount": 1,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "14",
+          "price": 330,
+          "ticketCount": 2,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "10",
+          "price": 333,
+          "ticketCount": 4,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
+          "row": "17",
+          "price": 335,
+          "ticketCount": 3,
+          "feesIncluded": true
+        },
+        {
+          "section": "N/A",
           "row": "13",
-          "price": 329,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 332,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 334,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "12",
-          "price": 334,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 337,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "11",
-          "price": 340,
+          "price": 339,
           "ticketCount": 2,
           "feesIncluded": true
         },
@@ -388,61 +423,26 @@
           "section": "N/A",
           "row": "15",
           "price": 341,
-          "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "14",
-          "price": 342,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "10",
-          "price": 346,
-          "ticketCount": 4,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "17",
-          "price": 347,
-          "ticketCount": 3,
+          "ticketCount": 1,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "13",
-          "price": 352,
+          "price": 344,
           "ticketCount": 2,
           "feesIncluded": true
         },
         {
           "section": "N/A",
           "row": "9",
-          "price": 354,
-          "ticketCount": 3,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "13",
-          "price": 356,
+          "price": 348,
           "ticketCount": 2,
-          "feesIncluded": true
-        },
-        {
-          "section": "N/A",
-          "row": "15",
-          "price": 358,
-          "ticketCount": 3,
           "feesIncluded": true
         }
       ],
-      "minPrice": 313,
-      "maxPrice": 358
+      "minPrice": 311,
+      "maxPrice": 348
     }
   ],
   "stubHub": [],
@@ -458,7 +458,7 @@
       "minTicketCount": 1,
       "profitPerTicket": "67.80",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-03T12:43:31.296Z"
+      "lastUpdated": "2025-11-03T16:24:50.026Z"
     },
     {
       "event": "Ariana Grande",
@@ -471,20 +471,20 @@
       "minTicketCount": 1,
       "profitPerTicket": "171.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-03T12:43:31.296Z"
+      "lastUpdated": "2025-11-03T16:24:50.026Z"
     },
     {
       "event": "Tame Impala",
       "date": "Mon Nov 3•8:00 PM",
       "venue": "United Center",
       "buyFrom": "VividSeats",
-      "buyPrice": 313,
+      "buyPrice": 311,
       "sellOn": "StubHub",
-      "sellPrice": "375.60",
-      "minTicketCount": 2,
-      "profitPerTicket": "62.60",
+      "sellPrice": "373.20",
+      "minTicketCount": 1,
+      "profitPerTicket": "62.20",
       "profitMargin": "20% (estimated)",
-      "lastUpdated": "2025-11-03T12:43:31.296Z"
+      "lastUpdated": "2025-11-03T16:24:50.027Z"
     }
   ]
 }
